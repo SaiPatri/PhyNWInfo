@@ -78,7 +78,7 @@ calculated are generated from statistical observation of real core network deplo
 
 As an example, the Nobel-EU span distribution is seen as follows:
 
-![Eu-Nobel Span Distribution]()
+![Eu-Nobel Span Distribution](https://github.com/SaiPatri/PhyNWInfo/blob/master/spanlens-eu.png)
 
 
 
