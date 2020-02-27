@@ -1,0 +1,876 @@
+{
+    "0": {
+        "linkNo": 0,
+        "startNode": "N1",
+        "endNode": "N2",
+        "linkDist": 56.21,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N1_N2_1",
+                "FiberType": "G.652",
+                "SpanLength": 56.21,
+                "EDFAGain": 12.366200000000001,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "1": {
+        "linkNo": 1,
+        "startNode": "N2",
+        "endNode": "N3",
+        "linkDist": 40.36,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N2_N3_1",
+                "FiberType": "G.652",
+                "SpanLength": 40.36,
+                "EDFAGain": 8.879199999999999,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "2": {
+        "linkNo": 2,
+        "startNode": "N3",
+        "endNode": "N4",
+        "linkDist": 61.6,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N3_N4_1",
+                "FiberType": "G.652",
+                "SpanLength": 61.6,
+                "EDFAGain": 13.552,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "3": {
+        "linkNo": 3,
+        "startNode": "N4",
+        "endNode": "N5",
+        "linkDist": 73.87,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N4_N5_1",
+                "FiberType": "G.652",
+                "SpanLength": 73.87,
+                "EDFAGain": 16.2514,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "4": {
+        "linkNo": 4,
+        "startNode": "N5",
+        "endNode": "N6",
+        "linkDist": 32.58,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N5_N6_1",
+                "FiberType": "G.652",
+                "SpanLength": 32.58,
+                "EDFAGain": 7.167599999999999,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "5": {
+        "linkNo": 5,
+        "startNode": "N6",
+        "endNode": "N7",
+        "linkDist": 15.22,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N6_N7_1",
+                "FiberType": "G.652",
+                "SpanLength": 15.22,
+                "EDFAGain": 3.3484000000000003,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "6": {
+        "linkNo": 6,
+        "startNode": "N7",
+        "endNode": "N8",
+        "linkDist": 73.57,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N7_N8_1",
+                "FiberType": "G.652",
+                "SpanLength": 73.57,
+                "EDFAGain": 16.185399999999998,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "7": {
+        "linkNo": 7,
+        "startNode": "N8",
+        "endNode": "N9",
+        "linkDist": 20.91,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N8_N9_1",
+                "FiberType": "G.652",
+                "SpanLength": 20.91,
+                "EDFAGain": 4.6002,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "8": {
+        "linkNo": 8,
+        "startNode": "N9",
+        "endNode": "N10",
+        "linkDist": 39.16,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N9_N10_1",
+                "FiberType": "G.652",
+                "SpanLength": 39.16,
+                "EDFAGain": 8.6152,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "9": {
+        "linkNo": 9,
+        "startNode": "N9",
+        "endNode": "N12",
+        "linkDist": 35.87,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N9_N12_1",
+                "FiberType": "G.652",
+                "SpanLength": 35.87,
+                "EDFAGain": 7.891399999999999,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "10": {
+        "linkNo": 10,
+        "startNode": "N10",
+        "endNode": "N12",
+        "linkDist": 10.74,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N10_N12_1",
+                "FiberType": "G.652",
+                "SpanLength": 10.74,
+                "EDFAGain": 2.3628,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "11": {
+        "linkNo": 11,
+        "startNode": "N11",
+        "endNode": "N12",
+        "linkDist": 22.4,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N11_N12_1",
+                "FiberType": "G.652",
+                "SpanLength": 22.4,
+                "EDFAGain": 4.928,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "12": {
+        "linkNo": 12,
+        "startNode": "N10",
+        "endNode": "N11",
+        "linkDist": 12.83,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N10_N11_1",
+                "FiberType": "G.652",
+                "SpanLength": 12.83,
+                "EDFAGain": 2.8226,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "13": {
+        "linkNo": 13,
+        "startNode": "N11",
+        "endNode": "N26",
+        "linkDist": 24.2,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N11_N26_1",
+                "FiberType": "G.652",
+                "SpanLength": 24.2,
+                "EDFAGain": 5.324,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "14": {
+        "linkNo": 14,
+        "startNode": "N25",
+        "endNode": "N26",
+        "linkDist": 5.35,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N25_N26_1",
+                "FiberType": "G.652",
+                "SpanLength": 5.35,
+                "EDFAGain": 1.1769999999999998,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "15": {
+        "linkNo": 15,
+        "startNode": "N23",
+        "endNode": "N25",
+        "linkDist": 37.66,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N23_N25_1",
+                "FiberType": "G.652",
+                "SpanLength": 37.66,
+                "EDFAGain": 8.2852,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "16": {
+        "linkNo": 16,
+        "startNode": "N24",
+        "endNode": "N25",
+        "linkDist": 33.18,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N24_N25_1",
+                "FiberType": "G.652",
+                "SpanLength": 33.18,
+                "EDFAGain": 7.2996,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "17": {
+        "linkNo": 17,
+        "startNode": "N23",
+        "endNode": "N24",
+        "linkDist": 9.24,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N23_N24_1",
+                "FiberType": "G.652",
+                "SpanLength": 9.24,
+                "EDFAGain": 2.0328,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "18": {
+        "linkNo": 18,
+        "startNode": "N22",
+        "endNode": "N24",
+        "linkDist": 64.89,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N22_N24_1",
+                "FiberType": "G.652",
+                "SpanLength": 64.89,
+                "EDFAGain": 14.2758,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "19": {
+        "linkNo": 19,
+        "startNode": "N23",
+        "endNode": "N27",
+        "linkDist": 25.4,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N23_N27_1",
+                "FiberType": "G.652",
+                "SpanLength": 25.4,
+                "EDFAGain": 5.588,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "20": {
+        "linkNo": 20,
+        "startNode": "N22",
+        "endNode": "N23",
+        "linkDist": 55.92,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N22_N23_1",
+                "FiberType": "G.652",
+                "SpanLength": 55.92,
+                "EDFAGain": 12.3024,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "21": {
+        "linkNo": 21,
+        "startNode": "N21",
+        "endNode": "N22",
+        "linkDist": 15.82,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N21_N22_1",
+                "FiberType": "G.652",
+                "SpanLength": 15.82,
+                "EDFAGain": 3.4804,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "22": {
+        "linkNo": 22,
+        "startNode": "N1",
+        "endNode": "N21",
+        "linkDist": 46.64,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N1_N21_1",
+                "FiberType": "G.652",
+                "SpanLength": 46.64,
+                "EDFAGain": 10.2608,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "23": {
+        "linkNo": 23,
+        "startNode": "N20",
+        "endNode": "N21",
+        "linkDist": 52.92,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N20_N21_1",
+                "FiberType": "G.652",
+                "SpanLength": 52.92,
+                "EDFAGain": 11.6424,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "24": {
+        "linkNo": 24,
+        "startNode": "N1",
+        "endNode": "N20",
+        "linkDist": 59.51,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N1_N20_1",
+                "FiberType": "G.652",
+                "SpanLength": 59.51,
+                "EDFAGain": 13.0922,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "25": {
+        "linkNo": 25,
+        "startNode": "N20",
+        "endNode": "N22",
+        "linkDist": 37.07,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N20_N22_1",
+                "FiberType": "G.652",
+                "SpanLength": 37.07,
+                "EDFAGain": 8.1554,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "26": {
+        "linkNo": 26,
+        "startNode": "N2",
+        "endNode": "N20",
+        "linkDist": 60.7,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N2_N20_1",
+                "FiberType": "G.652",
+                "SpanLength": 60.7,
+                "EDFAGain": 13.354000000000001,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "27": {
+        "linkNo": 27,
+        "startNode": "N20",
+        "endNode": "N27",
+        "linkDist": 47.84,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N20_N27_1",
+                "FiberType": "G.652",
+                "SpanLength": 47.84,
+                "EDFAGain": 10.5248,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "28": {
+        "linkNo": 28,
+        "startNode": "N22",
+        "endNode": "N27",
+        "linkDist": 64.59,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N22_N27_1",
+                "FiberType": "G.652",
+                "SpanLength": 64.59,
+                "EDFAGain": 14.209800000000001,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "29": {
+        "linkNo": 29,
+        "startNode": "N19",
+        "endNode": "N20",
+        "linkDist": 57.71,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N19_N20_1",
+                "FiberType": "G.652",
+                "SpanLength": 57.71,
+                "EDFAGain": 12.696200000000001,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "30": {
+        "linkNo": 30,
+        "startNode": "N19",
+        "endNode": "N27",
+        "linkDist": 33.18,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N19_N27_1",
+                "FiberType": "G.652",
+                "SpanLength": 33.18,
+                "EDFAGain": 7.2996,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "31": {
+        "linkNo": 31,
+        "startNode": "N4",
+        "endNode": "N19",
+        "linkDist": 100.2,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_N4_N19_1",
+                "FiberType": "G.652",
+                "SpanLength": 60.22299285712326,
+                "EDFAGain": 13.249058428567118,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_N4_N19_2",
+                "FiberType": "G.652",
+                "SpanLength": 39.977007142876744,
+                "EDFAGain": 8.794941571432883,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "32": {
+        "linkNo": 32,
+        "startNode": "N18",
+        "endNode": "N19",
+        "linkDist": 31.38,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N18_N19_1",
+                "FiberType": "G.652",
+                "SpanLength": 31.38,
+                "EDFAGain": 6.9036,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "33": {
+        "linkNo": 33,
+        "startNode": "N16",
+        "endNode": "N19",
+        "linkDist": 38.86,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N16_N19_1",
+                "FiberType": "G.652",
+                "SpanLength": 38.86,
+                "EDFAGain": 8.5492,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "34": {
+        "linkNo": 34,
+        "startNode": "N19",
+        "endNode": "N24",
+        "linkDist": 42.45,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N19_N24_1",
+                "FiberType": "G.652",
+                "SpanLength": 42.45,
+                "EDFAGain": 9.339,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "35": {
+        "linkNo": 35,
+        "startNode": "N16",
+        "endNode": "N24",
+        "linkDist": 55.32,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N16_N24_1",
+                "FiberType": "G.652",
+                "SpanLength": 55.32,
+                "EDFAGain": 12.1704,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "36": {
+        "linkNo": 36,
+        "startNode": "N16",
+        "endNode": "N26",
+        "linkDist": 17.32,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N16_N26_1",
+                "FiberType": "G.652",
+                "SpanLength": 17.32,
+                "EDFAGain": 3.8104,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "37": {
+        "linkNo": 37,
+        "startNode": "N15",
+        "endNode": "N16",
+        "linkDist": 22.11,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N15_N16_1",
+                "FiberType": "G.652",
+                "SpanLength": 22.11,
+                "EDFAGain": 4.8642,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "38": {
+        "linkNo": 38,
+        "startNode": "N11",
+        "endNode": "N15",
+        "linkDist": 17.92,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N11_N15_1",
+                "FiberType": "G.652",
+                "SpanLength": 17.92,
+                "EDFAGain": 3.9424000000000006,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "39": {
+        "linkNo": 39,
+        "startNode": "N13",
+        "endNode": "N15",
+        "linkDist": 21.51,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N13_N15_1",
+                "FiberType": "G.652",
+                "SpanLength": 21.51,
+                "EDFAGain": 4.732200000000001,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "40": {
+        "linkNo": 40,
+        "startNode": "N16",
+        "endNode": "N17",
+        "linkDist": 55.92,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N16_N17_1",
+                "FiberType": "G.652",
+                "SpanLength": 55.92,
+                "EDFAGain": 12.3024,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "41": {
+        "linkNo": 41,
+        "startNode": "N16",
+        "endNode": "N18",
+        "linkDist": 55.92,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N16_N18_1",
+                "FiberType": "G.652",
+                "SpanLength": 55.92,
+                "EDFAGain": 12.3024,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "42": {
+        "linkNo": 42,
+        "startNode": "N17",
+        "endNode": "N18",
+        "linkDist": 84.04,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N17_N18_1",
+                "FiberType": "G.652",
+                "SpanLength": 84.04,
+                "EDFAGain": 18.4888,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "43": {
+        "linkNo": 43,
+        "startNode": "N5",
+        "endNode": "N18",
+        "linkDist": 72.07,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N5_N18_1",
+                "FiberType": "G.652",
+                "SpanLength": 72.07,
+                "EDFAGain": 15.855399999999998,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "44": {
+        "linkNo": 44,
+        "startNode": "N14",
+        "endNode": "N17",
+        "linkDist": 55.62,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N14_N17_1",
+                "FiberType": "G.652",
+                "SpanLength": 55.62,
+                "EDFAGain": 12.2364,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "45": {
+        "linkNo": 45,
+        "startNode": "N5",
+        "endNode": "N14",
+        "linkDist": 56.51,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N5_N14_1",
+                "FiberType": "G.652",
+                "SpanLength": 56.51,
+                "EDFAGain": 12.4322,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "46": {
+        "linkNo": 46,
+        "startNode": "N6",
+        "endNode": "N14",
+        "linkDist": 43.65,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N6_N14_1",
+                "FiberType": "G.652",
+                "SpanLength": 43.65,
+                "EDFAGain": 9.603,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "47": {
+        "linkNo": 47,
+        "startNode": "N7",
+        "endNode": "N14",
+        "linkDist": 45.44,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N7_N14_1",
+                "FiberType": "G.652",
+                "SpanLength": 45.44,
+                "EDFAGain": 9.9968,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "48": {
+        "linkNo": 48,
+        "startNode": "N13",
+        "endNode": "N17",
+        "linkDist": 28.99,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N13_N17_1",
+                "FiberType": "G.652",
+                "SpanLength": 28.99,
+                "EDFAGain": 6.3778,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "49": {
+        "linkNo": 49,
+        "startNode": "N12",
+        "endNode": "N13",
+        "linkDist": 23.0,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N12_N13_1",
+                "FiberType": "G.652",
+                "SpanLength": 23.0,
+                "EDFAGain": 5.06,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "50": {
+        "linkNo": 50,
+        "startNode": "N24",
+        "endNode": "N27",
+        "linkDist": 17.62,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_N24_N27_1",
+                "FiberType": "G.652",
+                "SpanLength": 17.62,
+                "EDFAGain": 3.8764000000000003,
+                "attnDB": 0.22
+            }
+        ]
+    }
+}

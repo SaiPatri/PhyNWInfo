@@ -1,0 +1,2163 @@
+{
+    "0": {
+        "linkNo": 0,
+        "startNode": "Duesseldorf",
+        "endNode": "Essen",
+        "linkDist": 36.196357910258655,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Duesseldorf_Essen_1",
+                "FiberType": "G.652",
+                "SpanLength": 36.196357910258655,
+                "EDFAGain": 7.963198740256904,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "1": {
+        "linkNo": 1,
+        "startNode": "Dortmund",
+        "endNode": "Essen",
+        "linkDist": 48.130879885214846,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Dortmund_Essen_1",
+                "FiberType": "G.652",
+                "SpanLength": 48.130879885214846,
+                "EDFAGain": 10.588793574747266,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "2": {
+        "linkNo": 2,
+        "startNode": "Wesel",
+        "endNode": "Essen",
+        "linkDist": 72.68894478744205,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Wesel_Essen_1",
+                "FiberType": "G.652",
+                "SpanLength": 72.68894478744205,
+                "EDFAGain": 15.991567853237251,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "3": {
+        "linkNo": 3,
+        "startNode": "Koeln",
+        "endNode": "Duesseldorf",
+        "linkDist": 35.987460848254734,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Koeln_Duesseldorf_1",
+                "FiberType": "G.652",
+                "SpanLength": 35.987460848254734,
+                "EDFAGain": 7.917241386616042,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "4": {
+        "linkNo": 4,
+        "startNode": "Aachen",
+        "endNode": "Koeln",
+        "linkDist": 94.4103154509627,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Aachen_Koeln_1",
+                "FiberType": "G.652",
+                "SpanLength": 92,
+                "EDFAGain": 20.24,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Aachen_Koeln_2",
+                "FiberType": "G.652",
+                "SpanLength": 2.410315450962699,
+                "EDFAGain": 0.5302693992117937,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "5": {
+        "linkNo": 5,
+        "startNode": "Koblenz",
+        "endNode": "Koeln",
+        "linkDist": 93.66299835220605,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Koblenz_Koeln_1",
+                "FiberType": "G.652",
+                "SpanLength": 81,
+                "EDFAGain": 17.82,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Koblenz_Koeln_2",
+                "FiberType": "G.652",
+                "SpanLength": 12.662998352206046,
+                "EDFAGain": 2.78585963748533,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "6": {
+        "linkNo": 6,
+        "startNode": "Muenster",
+        "endNode": "Dortmund",
+        "linkDist": 53.38177325425954,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Muenster_Dortmund_1",
+                "FiberType": "G.652",
+                "SpanLength": 53.38177325425954,
+                "EDFAGain": 11.7439901159371,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "7": {
+        "linkNo": 7,
+        "startNode": "Siegen",
+        "endNode": "Dortmund",
+        "linkDist": 92.35654198358647,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Siegen_Dortmund_1",
+                "FiberType": "G.652",
+                "SpanLength": 71,
+                "EDFAGain": 15.62,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Siegen_Dortmund_2",
+                "FiberType": "G.652",
+                "SpanLength": 21.356541983586467,
+                "EDFAGain": 4.698439236389023,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "8": {
+        "linkNo": 8,
+        "startNode": "Kassel",
+        "endNode": "Dortmund",
+        "linkDist": 230.01258319,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Kassel_Dortmund_1",
+                "FiberType": "G.652",
+                "SpanLength": 76,
+                "EDFAGain": 16.72,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kassel_Dortmund_2",
+                "FiberType": "G.652",
+                "SpanLength": 95,
+                "EDFAGain": 20.9,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kassel_Dortmund_3",
+                "FiberType": "G.652",
+                "SpanLength": 59.01258318999999,
+                "EDFAGain": 12.982768301799997,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "9": {
+        "linkNo": 9,
+        "startNode": "Wesel",
+        "endNode": "Aachen",
+        "linkDist": 78.7179981743867,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Wesel_Aachen_1",
+                "FiberType": "G.652",
+                "SpanLength": 78.7179981743867,
+                "EDFAGain": 17.31795959836507,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "10": {
+        "linkNo": 10,
+        "startNode": "Trier",
+        "endNode": "Aachen",
+        "linkDist": 132.371992601503,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Trier_Aachen_1",
+                "FiberType": "G.652",
+                "SpanLength": 66,
+                "EDFAGain": 14.52,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Trier_Aachen_2",
+                "FiberType": "G.652",
+                "SpanLength": 66.371992601503,
+                "EDFAGain": 14.60183837233066,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "11": {
+        "linkNo": 11,
+        "startNode": "Bielefeld",
+        "endNode": "Muenster",
+        "linkDist": 100.37175010420704,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Bielefeld_Muenster_1",
+                "FiberType": "G.652",
+                "SpanLength": 73,
+                "EDFAGain": 16.06,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bielefeld_Muenster_2",
+                "FiberType": "G.652",
+                "SpanLength": 27.371750104207038,
+                "EDFAGain": 6.021785022925548,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "12": {
+        "linkNo": 12,
+        "startNode": "Osnabrueck",
+        "endNode": "Muenster",
+        "linkDist": 58.75709925777831,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Osnabrueck_Muenster_1",
+                "FiberType": "G.652",
+                "SpanLength": 58.75709925777831,
+                "EDFAGain": 12.926561836711228,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "13": {
+        "linkNo": 13,
+        "startNode": "Siegen",
+        "endNode": "Koblenz",
+        "linkDist": 79.83129409020118,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Siegen_Koblenz_1",
+                "FiberType": "G.652",
+                "SpanLength": 79.83129409020118,
+                "EDFAGain": 17.56288469984426,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "14": {
+        "linkNo": 14,
+        "startNode": "Frankfurt",
+        "endNode": "Koblenz",
+        "linkDist": 135.86431399547652,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Frankfurt_Koblenz_1",
+                "FiberType": "G.652",
+                "SpanLength": 71,
+                "EDFAGain": 15.62,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Koblenz_2",
+                "FiberType": "G.652",
+                "SpanLength": 64.86431399547652,
+                "EDFAGain": 14.270149079004835,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "15": {
+        "linkNo": 15,
+        "startNode": "Kaiserslautern",
+        "endNode": "Koblenz",
+        "linkDist": 109.91939235882418,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Kaiserslautern_Koblenz_1",
+                "FiberType": "G.652",
+                "SpanLength": 92,
+                "EDFAGain": 20.24,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kaiserslautern_Koblenz_2",
+                "FiberType": "G.652",
+                "SpanLength": 17.919392358824183,
+                "EDFAGain": 3.94226631894132,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "16": {
+        "linkNo": 16,
+        "startNode": "Trier",
+        "endNode": "Koblenz",
+        "linkDist": 117.76364133783751,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Trier_Koblenz_1",
+                "FiberType": "G.652",
+                "SpanLength": 73,
+                "EDFAGain": 16.06,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Trier_Koblenz_2",
+                "FiberType": "G.652",
+                "SpanLength": 44.76364133783751,
+                "EDFAGain": 9.848001094324253,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "17": {
+        "linkNo": 17,
+        "startNode": "Bielefeld",
+        "endNode": "Siegen",
+        "linkDist": 134.8811023837519,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Bielefeld_Siegen_1",
+                "FiberType": "G.652",
+                "SpanLength": 76,
+                "EDFAGain": 16.72,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bielefeld_Siegen_2",
+                "FiberType": "G.652",
+                "SpanLength": 58.88110238375191,
+                "EDFAGain": 12.95384252442542,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "18": {
+        "linkNo": 18,
+        "startNode": "Giessen",
+        "endNode": "Siegen",
+        "linkDist": 80.39638348525716,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Giessen_Siegen_1",
+                "FiberType": "G.652",
+                "SpanLength": 80.39638348525716,
+                "EDFAGain": 17.687204366756575,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "19": {
+        "linkNo": 19,
+        "startNode": "Oldenburg",
+        "endNode": "Wesel",
+        "linkDist": 279.0106392077125,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Oldenburg_Wesel_1",
+                "FiberType": "G.652",
+                "SpanLength": 79,
+                "EDFAGain": 17.38,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oldenburg_Wesel_2",
+                "FiberType": "G.652",
+                "SpanLength": 89,
+                "EDFAGain": 19.580000000000002,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oldenburg_Wesel_3",
+                "FiberType": "G.652",
+                "SpanLength": 90,
+                "EDFAGain": 19.8,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oldenburg_Wesel_4",
+                "FiberType": "G.652",
+                "SpanLength": 21.010639207712472,
+                "EDFAGain": 4.622340625696744,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "20": {
+        "linkNo": 20,
+        "startNode": "Norden",
+        "endNode": "Wesel",
+        "linkDist": 261.28038111074875,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Norden_Wesel_1",
+                "FiberType": "G.652",
+                "SpanLength": 88,
+                "EDFAGain": 19.36,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Norden_Wesel_2",
+                "FiberType": "G.652",
+                "SpanLength": 75,
+                "EDFAGain": 16.5,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Norden_Wesel_3",
+                "FiberType": "G.652",
+                "SpanLength": 88,
+                "EDFAGain": 19.36,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Norden_Wesel_4",
+                "FiberType": "G.652",
+                "SpanLength": 10.280381110748749,
+                "EDFAGain": 2.261683844364725,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "21": {
+        "linkNo": 21,
+        "startNode": "Leipzig",
+        "endNode": "Berlin",
+        "linkDist": 170.2124681032307,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Leipzig_Berlin_1",
+                "FiberType": "G.652",
+                "SpanLength": 72,
+                "EDFAGain": 15.84,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Leipzig_Berlin_2",
+                "FiberType": "G.652",
+                "SpanLength": 81,
+                "EDFAGain": 17.82,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Leipzig_Berlin_3",
+                "FiberType": "G.652",
+                "SpanLength": 17.21246810323069,
+                "EDFAGain": 3.786742982710752,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "22": {
+        "linkNo": 22,
+        "startNode": "Dresden",
+        "endNode": "Berlin",
+        "linkDist": 165.4392339639327,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Dresden_Berlin_1",
+                "FiberType": "G.652",
+                "SpanLength": 72,
+                "EDFAGain": 15.84,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dresden_Berlin_2",
+                "FiberType": "G.652",
+                "SpanLength": 75,
+                "EDFAGain": 16.5,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dresden_Berlin_3",
+                "FiberType": "G.652",
+                "SpanLength": 18.439233963932708,
+                "EDFAGain": 4.056631472065196,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "23": {
+        "linkNo": 23,
+        "startNode": "Schwerin",
+        "endNode": "Berlin",
+        "linkDist": 242.98860029754007,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Schwerin_Berlin_1",
+                "FiberType": "G.652",
+                "SpanLength": 70,
+                "EDFAGain": 15.4,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Schwerin_Berlin_2",
+                "FiberType": "G.652",
+                "SpanLength": 99,
+                "EDFAGain": 21.78,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Schwerin_Berlin_3",
+                "FiberType": "G.652",
+                "SpanLength": 73.98860029754007,
+                "EDFAGain": 16.277492065458816,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "24": {
+        "linkNo": 24,
+        "startNode": "Magdeburg",
+        "endNode": "Berlin",
+        "linkDist": 198.91486143090077,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Magdeburg_Berlin_1",
+                "FiberType": "G.652",
+                "SpanLength": 77,
+                "EDFAGain": 16.94,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Magdeburg_Berlin_2",
+                "FiberType": "G.652",
+                "SpanLength": 77,
+                "EDFAGain": 16.94,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Magdeburg_Berlin_3",
+                "FiberType": "G.652",
+                "SpanLength": 44.91486143090077,
+                "EDFAGain": 9.88126951479817,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "25": {
+        "linkNo": 25,
+        "startNode": "Greifswald",
+        "endNode": "Berlin",
+        "linkDist": 169.83024036663352,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Greifswald_Berlin_1",
+                "FiberType": "G.652",
+                "SpanLength": 85,
+                "EDFAGain": 18.7,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Greifswald_Berlin_2",
+                "FiberType": "G.652",
+                "SpanLength": 81,
+                "EDFAGain": 17.82,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Greifswald_Berlin_3",
+                "FiberType": "G.652",
+                "SpanLength": 3.830240366633518,
+                "EDFAGain": 0.8426528806593739,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "26": {
+        "linkNo": 26,
+        "startNode": "Dresden",
+        "endNode": "Leipzig",
+        "linkDist": 153.82288437192608,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Dresden_Leipzig_1",
+                "FiberType": "G.652",
+                "SpanLength": 79,
+                "EDFAGain": 17.38,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dresden_Leipzig_2",
+                "FiberType": "G.652",
+                "SpanLength": 74.82288437192608,
+                "EDFAGain": 16.461034561823737,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "27": {
+        "linkNo": 27,
+        "startNode": "Erfurt",
+        "endNode": "Leipzig",
+        "linkDist": 154.07039599345006,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Erfurt_Leipzig_1",
+                "FiberType": "G.652",
+                "SpanLength": 96,
+                "EDFAGain": 21.12,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Erfurt_Leipzig_2",
+                "FiberType": "G.652",
+                "SpanLength": 58.07039599345006,
+                "EDFAGain": 12.775487118559013,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "28": {
+        "linkNo": 28,
+        "startNode": "Magdeburg",
+        "endNode": "Leipzig",
+        "linkDist": 119.75435474226907,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Magdeburg_Leipzig_1",
+                "FiberType": "G.652",
+                "SpanLength": 74,
+                "EDFAGain": 16.28,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Magdeburg_Leipzig_2",
+                "FiberType": "G.652",
+                "SpanLength": 45.75435474226907,
+                "EDFAGain": 10.065958043299196,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "29": {
+        "linkNo": 29,
+        "startNode": "Bayreuth",
+        "endNode": "Leipzig",
+        "linkDist": 176.7416367538583,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Bayreuth_Leipzig_1",
+                "FiberType": "G.652",
+                "SpanLength": 87,
+                "EDFAGain": 19.14,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bayreuth_Leipzig_2",
+                "FiberType": "G.652",
+                "SpanLength": 67,
+                "EDFAGain": 14.74,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bayreuth_Leipzig_3",
+                "FiberType": "G.652",
+                "SpanLength": 22.7416367538583,
+                "EDFAGain": 5.003160085848826,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "30": {
+        "linkNo": 30,
+        "startNode": "Erfurt",
+        "endNode": "Dresden",
+        "linkDist": 299.16363183301235,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Erfurt_Dresden_1",
+                "FiberType": "G.652",
+                "SpanLength": 86,
+                "EDFAGain": 18.92,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Erfurt_Dresden_2",
+                "FiberType": "G.652",
+                "SpanLength": 81,
+                "EDFAGain": 17.82,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Erfurt_Dresden_3",
+                "FiberType": "G.652",
+                "SpanLength": 88,
+                "EDFAGain": 19.36,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Erfurt_Dresden_4",
+                "FiberType": "G.652",
+                "SpanLength": 44.163631833012346,
+                "EDFAGain": 9.715999003262716,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "31": {
+        "linkNo": 31,
+        "startNode": "Chemnitz",
+        "endNode": "Dresden",
+        "linkDist": 91.3004717104686,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Chemnitz_Dresden_1",
+                "FiberType": "G.652",
+                "SpanLength": 82,
+                "EDFAGain": 18.04,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Chemnitz_Dresden_2",
+                "FiberType": "G.652",
+                "SpanLength": 9.3004717104686,
+                "EDFAGain": 2.046103776303092,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "32": {
+        "linkNo": 32,
+        "startNode": "Chemnitz",
+        "endNode": "Erfurt",
+        "linkDist": 210.709336693582,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Chemnitz_Erfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 85,
+                "EDFAGain": 18.7,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Chemnitz_Erfurt_2",
+                "FiberType": "G.652",
+                "SpanLength": 70,
+                "EDFAGain": 15.4,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Chemnitz_Erfurt_3",
+                "FiberType": "G.652",
+                "SpanLength": 55.709336693582,
+                "EDFAGain": 12.256054072588041,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "33": {
+        "linkNo": 33,
+        "startNode": "Kassel",
+        "endNode": "Erfurt",
+        "linkDist": 174.1475377619223,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Kassel_Erfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 91,
+                "EDFAGain": 20.02,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kassel_Erfurt_2",
+                "FiberType": "G.652",
+                "SpanLength": 79,
+                "EDFAGain": 17.38,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kassel_Erfurt_3",
+                "FiberType": "G.652",
+                "SpanLength": 4.147537761922308,
+                "EDFAGain": 0.9124583076229078,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "34": {
+        "linkNo": 34,
+        "startNode": "Wuerzburg",
+        "endNode": "Erfurt",
+        "linkDist": 177.1103959612879,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Wuerzburg_Erfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 74,
+                "EDFAGain": 16.28,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Erfurt_2",
+                "FiberType": "G.652",
+                "SpanLength": 86,
+                "EDFAGain": 18.92,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Erfurt_3",
+                "FiberType": "G.652",
+                "SpanLength": 17.110395961287907,
+                "EDFAGain": 3.7642871114833394,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "35": {
+        "linkNo": 35,
+        "startNode": "Bayreuth",
+        "endNode": "Chemnitz",
+        "linkDist": 178.82403937490002,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Bayreuth_Chemnitz_1",
+                "FiberType": "G.652",
+                "SpanLength": 86,
+                "EDFAGain": 18.92,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bayreuth_Chemnitz_2",
+                "FiberType": "G.652",
+                "SpanLength": 85,
+                "EDFAGain": 18.7,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bayreuth_Chemnitz_3",
+                "FiberType": "G.652",
+                "SpanLength": 7.824039374900025,
+                "EDFAGain": 1.7212886624780055,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "36": {
+        "linkNo": 36,
+        "startNode": "Magdeburg",
+        "endNode": "Schwerin",
+        "linkDist": 155.05855578583402,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Magdeburg_Schwerin_1",
+                "FiberType": "G.652",
+                "SpanLength": 78,
+                "EDFAGain": 17.16,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Magdeburg_Schwerin_2",
+                "FiberType": "G.652",
+                "SpanLength": 77.05855578583402,
+                "EDFAGain": 16.952882272883485,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "37": {
+        "linkNo": 37,
+        "startNode": "Greifswald",
+        "endNode": "Schwerin",
+        "linkDist": 224.61842218015107,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Greifswald_Schwerin_1",
+                "FiberType": "G.652",
+                "SpanLength": 81,
+                "EDFAGain": 17.82,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Greifswald_Schwerin_2",
+                "FiberType": "G.652",
+                "SpanLength": 86,
+                "EDFAGain": 18.92,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Greifswald_Schwerin_3",
+                "FiberType": "G.652",
+                "SpanLength": 57.61842218015107,
+                "EDFAGain": 12.676052879633236,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "38": {
+        "linkNo": 38,
+        "startNode": "Hamburg",
+        "endNode": "Schwerin",
+        "linkDist": 162.359296508703,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Hamburg_Schwerin_1",
+                "FiberType": "G.652",
+                "SpanLength": 96,
+                "EDFAGain": 21.12,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Hamburg_Schwerin_2",
+                "FiberType": "G.652",
+                "SpanLength": 66.35929650870301,
+                "EDFAGain": 14.599045231914662,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "39": {
+        "linkNo": 39,
+        "startNode": "Kiel",
+        "endNode": "Schwerin",
+        "linkDist": 171.22273211240653,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Kiel_Schwerin_1",
+                "FiberType": "G.652",
+                "SpanLength": 90,
+                "EDFAGain": 19.8,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kiel_Schwerin_2",
+                "FiberType": "G.652",
+                "SpanLength": 65,
+                "EDFAGain": 14.3,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kiel_Schwerin_3",
+                "FiberType": "G.652",
+                "SpanLength": 16.222732112406533,
+                "EDFAGain": 3.569001064729437,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "40": {
+        "linkNo": 40,
+        "startNode": "Braunschweig",
+        "endNode": "Magdeburg",
+        "linkDist": 122.16135685303136,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Braunschweig_Magdeburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 72,
+                "EDFAGain": 15.84,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Braunschweig_Magdeburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 50.161356853031364,
+                "EDFAGain": 11.035498507666901,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "41": {
+        "linkNo": 41,
+        "startNode": "Kiel",
+        "endNode": "Hamburg",
+        "linkDist": 85.53529587444719,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Kiel_Hamburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 85,
+                "EDFAGain": 18.7,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kiel_Hamburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 0.5352958744471863,
+                "EDFAGain": 0.11776509237838098,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "42": {
+        "linkNo": 42,
+        "startNode": "Hannover",
+        "endNode": "Hamburg",
+        "linkDist": 133.7815146123955,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Hannover_Hamburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 65,
+                "EDFAGain": 14.3,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Hannover_Hamburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 68.78151461239551,
+                "EDFAGain": 15.131933214727013,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "43": {
+        "linkNo": 43,
+        "startNode": "Braunschweig",
+        "endNode": "Hamburg",
+        "linkDist": 154.2682130950033,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Braunschweig_Hamburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 91,
+                "EDFAGain": 20.02,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Braunschweig_Hamburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 63.26821309500329,
+                "EDFAGain": 13.919006880900724,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "44": {
+        "linkNo": 44,
+        "startNode": "Oldenburg",
+        "endNode": "Bremen",
+        "linkDist": 71.16475305253014,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Oldenburg_Bremen_1",
+                "FiberType": "G.652",
+                "SpanLength": 71.16475305253014,
+                "EDFAGain": 15.656245671556633,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "45": {
+        "linkNo": 45,
+        "startNode": "Bremerhaven",
+        "endNode": "Bremen",
+        "linkDist": 55.99132763178213,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Bremerhaven_Bremen_1",
+                "FiberType": "G.652",
+                "SpanLength": 55.99132763178213,
+                "EDFAGain": 12.318092078992068,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "46": {
+        "linkNo": 46,
+        "startNode": "Hannover",
+        "endNode": "Bremen",
+        "linkDist": 125.60186349985622,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Hannover_Bremen_1",
+                "FiberType": "G.652",
+                "SpanLength": 71,
+                "EDFAGain": 15.62,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Hannover_Bremen_2",
+                "FiberType": "G.652",
+                "SpanLength": 54.60186349985622,
+                "EDFAGain": 12.012409969968369,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "47": {
+        "linkNo": 47,
+        "startNode": "Flensburg",
+        "endNode": "Kiel",
+        "linkDist": 88.15010225816644,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Flensburg_Kiel_1",
+                "FiberType": "G.652",
+                "SpanLength": 64,
+                "EDFAGain": 14.08,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Flensburg_Kiel_2",
+                "FiberType": "G.652",
+                "SpanLength": 24.15010225816644,
+                "EDFAGain": 5.313022496796617,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "48": {
+        "linkNo": 48,
+        "startNode": "Norden",
+        "endNode": "Oldenburg",
+        "linkDist": 123.61016305613359,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Norden_Oldenburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 67,
+                "EDFAGain": 14.74,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Norden_Oldenburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 56.61016305613359,
+                "EDFAGain": 12.45423587234939,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "49": {
+        "linkNo": 49,
+        "startNode": "Osnabrueck",
+        "endNode": "Oldenburg",
+        "linkDist": 93.53305627627083,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Osnabrueck_Oldenburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 57,
+                "EDFAGain": 12.540000000000001,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Osnabrueck_Oldenburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 36.53305627627083,
+                "EDFAGain": 8.037272380779582,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "50": {
+        "linkNo": 50,
+        "startNode": "Bremerhaven",
+        "endNode": "Flensburg",
+        "linkDist": 166.14703822187045,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Bremerhaven_Flensburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 82,
+                "EDFAGain": 18.04,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bremerhaven_Flensburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 84.14703822187045,
+                "EDFAGain": 18.512348408811498,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "51": {
+        "linkNo": 51,
+        "startNode": "Bielefeld",
+        "endNode": "Hannover",
+        "linkDist": 140.69992316833356,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Bielefeld_Hannover_1",
+                "FiberType": "G.652",
+                "SpanLength": 69,
+                "EDFAGain": 15.18,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bielefeld_Hannover_2",
+                "FiberType": "G.652",
+                "SpanLength": 71.69992316833356,
+                "EDFAGain": 15.773983097033382,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "52": {
+        "linkNo": 52,
+        "startNode": "Braunschweig",
+        "endNode": "Hannover",
+        "linkDist": 92.93861725604138,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Braunschweig_Hannover_1",
+                "FiberType": "G.652",
+                "SpanLength": 82,
+                "EDFAGain": 18.04,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Braunschweig_Hannover_2",
+                "FiberType": "G.652",
+                "SpanLength": 10.938617256041383,
+                "EDFAGain": 2.406495796329104,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "53": {
+        "linkNo": 53,
+        "startNode": "Osnabrueck",
+        "endNode": "Hannover",
+        "linkDist": 188.24027581386252,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Osnabrueck_Hannover_1",
+                "FiberType": "G.652",
+                "SpanLength": 87,
+                "EDFAGain": 19.14,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Osnabrueck_Hannover_2",
+                "FiberType": "G.652",
+                "SpanLength": 76,
+                "EDFAGain": 16.72,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Osnabrueck_Hannover_3",
+                "FiberType": "G.652",
+                "SpanLength": 25.240275813862525,
+                "EDFAGain": 5.552860679049755,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "54": {
+        "linkNo": 54,
+        "startNode": "Braunschweig",
+        "endNode": "Bielefeld",
+        "linkDist": 229.46377153815976,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Braunschweig_Bielefeld_1",
+                "FiberType": "G.652",
+                "SpanLength": 78,
+                "EDFAGain": 17.16,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Braunschweig_Bielefeld_2",
+                "FiberType": "G.652",
+                "SpanLength": 72,
+                "EDFAGain": 15.84,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Braunschweig_Bielefeld_3",
+                "FiberType": "G.652",
+                "SpanLength": 79.46377153815976,
+                "EDFAGain": 17.48202973839515,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "55": {
+        "linkNo": 55,
+        "startNode": "Kassel",
+        "endNode": "Braunschweig",
+        "linkDist": 156.27605766618944,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Kassel_Braunschweig_1",
+                "FiberType": "G.652",
+                "SpanLength": 77,
+                "EDFAGain": 16.94,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kassel_Braunschweig_2",
+                "FiberType": "G.652",
+                "SpanLength": 79.27605766618944,
+                "EDFAGain": 17.440732686561677,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "56": {
+        "linkNo": 56,
+        "startNode": "Giessen",
+        "endNode": "Kassel",
+        "linkDist": 124.52091823926774,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Giessen_Kassel_1",
+                "FiberType": "G.652",
+                "SpanLength": 59,
+                "EDFAGain": 12.98,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Giessen_Kassel_2",
+                "FiberType": "G.652",
+                "SpanLength": 65.52091823926774,
+                "EDFAGain": 14.414602012638904,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "57": {
+        "linkNo": 57,
+        "startNode": "Fulda",
+        "endNode": "Kassel",
+        "linkDist": 85.69480450759758,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Fulda_Kassel_1",
+                "FiberType": "G.652",
+                "SpanLength": 82,
+                "EDFAGain": 18.04,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Fulda_Kassel_2",
+                "FiberType": "G.652",
+                "SpanLength": 3.6948045075975813,
+                "EDFAGain": 0.8128569916714679,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "58": {
+        "linkNo": 58,
+        "startNode": "Darmstadt",
+        "endNode": "Frankfurt",
+        "linkDist": 26.14740267971789,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Darmstadt_Frankfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 26.14740267971789,
+                "EDFAGain": 5.752428589537936,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "59": {
+        "linkNo": 59,
+        "startNode": "Giessen",
+        "endNode": "Frankfurt",
+        "linkDist": 49.66286655477482,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Giessen_Frankfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 49.66286655477482,
+                "EDFAGain": 10.92583064205046,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "60": {
+        "linkNo": 60,
+        "startNode": "Fulda",
+        "endNode": "Frankfurt",
+        "linkDist": 119.19381506006698,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Fulda_Frankfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 79,
+                "EDFAGain": 17.38,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Fulda_Frankfurt_2",
+                "FiberType": "G.652",
+                "SpanLength": 40.19381506006698,
+                "EDFAGain": 8.842639313214736,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "61": {
+        "linkNo": 61,
+        "startNode": "Mannheim",
+        "endNode": "Darmstadt",
+        "linkDist": 47.44348574860581,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Mannheim_Darmstadt_1",
+                "FiberType": "G.652",
+                "SpanLength": 47.44348574860581,
+                "EDFAGain": 10.437566864693277,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "62": {
+        "linkNo": 62,
+        "startNode": "Kaiserslautern",
+        "endNode": "Darmstadt",
+        "linkDist": 112.15213503398104,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Kaiserslautern_Darmstadt_1",
+                "FiberType": "G.652",
+                "SpanLength": 77,
+                "EDFAGain": 16.94,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kaiserslautern_Darmstadt_2",
+                "FiberType": "G.652",
+                "SpanLength": 35.15213503398104,
+                "EDFAGain": 7.7334697074758285,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "63": {
+        "linkNo": 63,
+        "startNode": "Karlsruhe",
+        "endNode": "Mannheim",
+        "linkDist": 53.53834886278442,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Karlsruhe_Mannheim_1",
+                "FiberType": "G.652",
+                "SpanLength": 53.53834886278442,
+                "EDFAGain": 11.778436749812572,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "64": {
+        "linkNo": 64,
+        "startNode": "Saarbruecken",
+        "endNode": "Kaiserslautern",
+        "linkDist": 83.04241593217787,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Saarbruecken_Kaiserslautern_1",
+                "FiberType": "G.652",
+                "SpanLength": 83.04241593217787,
+                "EDFAGain": 18.269331505079133,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "65": {
+        "linkNo": 65,
+        "startNode": "Karlsruhe",
+        "endNode": "Kaiserslautern",
+        "linkDist": 86.74009822699325,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Karlsruhe_Kaiserslautern_1",
+                "FiberType": "G.652",
+                "SpanLength": 86.74009822699325,
+                "EDFAGain": 19.082821609938517,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "66": {
+        "linkNo": 66,
+        "startNode": "Fulda",
+        "endNode": "Giessen",
+        "linkDist": 113.42413690182167,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Fulda_Giessen_1",
+                "FiberType": "G.652",
+                "SpanLength": 85,
+                "EDFAGain": 18.7,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Fulda_Giessen_2",
+                "FiberType": "G.652",
+                "SpanLength": 28.42413690182167,
+                "EDFAGain": 6.253310118400767,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "67": {
+        "linkNo": 67,
+        "startNode": "Saarbruecken",
+        "endNode": "Trier",
+        "linkDist": 69.35631101709151,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Saarbruecken_Trier_1",
+                "FiberType": "G.652",
+                "SpanLength": 69.35631101709151,
+                "EDFAGain": 15.258388423760133,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "68": {
+        "linkNo": 68,
+        "startNode": "Wuerzburg",
+        "endNode": "Fulda",
+        "linkDist": 90.95346103534662,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Wuerzburg_Fulda_1",
+                "FiberType": "G.652",
+                "SpanLength": 80,
+                "EDFAGain": 17.6,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Fulda_2",
+                "FiberType": "G.652",
+                "SpanLength": 10.95346103534662,
+                "EDFAGain": 2.4097614277762567,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "69": {
+        "linkNo": 69,
+        "startNode": "Karlsruhe",
+        "endNode": "Saarbruecken",
+        "linkDist": 155.3518559207187,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Karlsruhe_Saarbruecken_1",
+                "FiberType": "G.652",
+                "SpanLength": 73,
+                "EDFAGain": 16.06,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Karlsruhe_Saarbruecken_2",
+                "FiberType": "G.652",
+                "SpanLength": 54,
+                "EDFAGain": 11.88,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Karlsruhe_Saarbruecken_3",
+                "FiberType": "G.652",
+                "SpanLength": 28.35185592071869,
+                "EDFAGain": 6.237408302558112,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "70": {
+        "linkNo": 70,
+        "startNode": "Karlsruhe",
+        "endNode": "Stuttgart",
+        "linkDist": 82.26246548759202,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Karlsruhe_Stuttgart_1",
+                "FiberType": "G.652",
+                "SpanLength": 68,
+                "EDFAGain": 14.96,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Karlsruhe_Stuttgart_2",
+                "FiberType": "G.652",
+                "SpanLength": 14.262465487592024,
+                "EDFAGain": 3.1377424072702453,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "71": {
+        "linkNo": 71,
+        "startNode": "Ulm",
+        "endNode": "Stuttgart",
+        "linkDist": 105.75326687533727,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Ulm_Stuttgart_1",
+                "FiberType": "G.652",
+                "SpanLength": 92,
+                "EDFAGain": 20.24,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Ulm_Stuttgart_2",
+                "FiberType": "G.652",
+                "SpanLength": 13.753266875337275,
+                "EDFAGain": 3.0257187125742004,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "72": {
+        "linkNo": 72,
+        "startNode": "Konstanz",
+        "endNode": "Stuttgart",
+        "linkDist": 118.89893019035088,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Konstanz_Stuttgart_1",
+                "FiberType": "G.652",
+                "SpanLength": 94,
+                "EDFAGain": 20.68,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Konstanz_Stuttgart_2",
+                "FiberType": "G.652",
+                "SpanLength": 24.89893019035088,
+                "EDFAGain": 5.477764641877194,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "73": {
+        "linkNo": 73,
+        "startNode": "Wuerzburg",
+        "endNode": "Stuttgart",
+        "linkDist": 149.54780270454572,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Wuerzburg_Stuttgart_1",
+                "FiberType": "G.652",
+                "SpanLength": 68,
+                "EDFAGain": 14.96,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Stuttgart_2",
+                "FiberType": "G.652",
+                "SpanLength": 76,
+                "EDFAGain": 16.72,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Stuttgart_3",
+                "FiberType": "G.652",
+                "SpanLength": 5.547802704545717,
+                "EDFAGain": 1.2205165950000576,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "74": {
+        "linkNo": 74,
+        "startNode": "Freiburg",
+        "endNode": "Karlsruhe",
+        "linkDist": 132.12563615657717,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Freiburg_Karlsruhe_1",
+                "FiberType": "G.652",
+                "SpanLength": 75,
+                "EDFAGain": 16.5,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Freiburg_Karlsruhe_2",
+                "FiberType": "G.652",
+                "SpanLength": 57.12563615657717,
+                "EDFAGain": 12.567639954446978,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "75": {
+        "linkNo": 75,
+        "startNode": "Augsburg",
+        "endNode": "Ulm",
+        "linkDist": 101.47649515349985,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Augsburg_Ulm_1",
+                "FiberType": "G.652",
+                "SpanLength": 88,
+                "EDFAGain": 19.36,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Augsburg_Ulm_2",
+                "FiberType": "G.652",
+                "SpanLength": 13.476495153499854,
+                "EDFAGain": 2.964828933769968,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "76": {
+        "linkNo": 76,
+        "startNode": "Freiburg",
+        "endNode": "Konstanz",
+        "linkDist": 157.43265217896095,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Freiburg_Konstanz_1",
+                "FiberType": "G.652",
+                "SpanLength": 87,
+                "EDFAGain": 19.14,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Freiburg_Konstanz_2",
+                "FiberType": "G.652",
+                "SpanLength": 70.43265217896095,
+                "EDFAGain": 15.49518347937141,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "77": {
+        "linkNo": 77,
+        "startNode": "Kempten",
+        "endNode": "Konstanz",
+        "linkDist": 126.93263139302009,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Kempten_Konstanz_1",
+                "FiberType": "G.652",
+                "SpanLength": 94,
+                "EDFAGain": 20.68,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kempten_Konstanz_2",
+                "FiberType": "G.652",
+                "SpanLength": 32.93263139302009,
+                "EDFAGain": 7.245178906464419,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "78": {
+        "linkNo": 78,
+        "startNode": "Augsburg",
+        "endNode": "Muenchen",
+        "linkDist": 77.0436976158612,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Augsburg_Muenchen_1",
+                "FiberType": "G.652",
+                "SpanLength": 77.0436976158612,
+                "EDFAGain": 16.949613475489464,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "79": {
+        "linkNo": 79,
+        "startNode": "Kempten",
+        "endNode": "Muenchen",
+        "linkDist": 146.70680322517063,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Kempten_Muenchen_1",
+                "FiberType": "G.652",
+                "SpanLength": 80,
+                "EDFAGain": 17.6,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Kempten_Muenchen_2",
+                "FiberType": "G.652",
+                "SpanLength": 66.70680322517063,
+                "EDFAGain": 14.675496709537539,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "80": {
+        "linkNo": 80,
+        "startNode": "Passau",
+        "endNode": "Muenchen",
+        "linkDist": 215.04648294369665,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Passau_Muenchen_1",
+                "FiberType": "G.652",
+                "SpanLength": 58,
+                "EDFAGain": 12.76,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Passau_Muenchen_2",
+                "FiberType": "G.652",
+                "SpanLength": 88,
+                "EDFAGain": 19.36,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Passau_Muenchen_3",
+                "FiberType": "G.652",
+                "SpanLength": 69.04648294369665,
+                "EDFAGain": 15.190226247613262,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "81": {
+        "linkNo": 81,
+        "startNode": "Nuernberg",
+        "endNode": "Muenchen",
+        "linkDist": 166.07030819852514,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Nuernberg_Muenchen_1",
+                "FiberType": "G.652",
+                "SpanLength": 82,
+                "EDFAGain": 18.04,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Nuernberg_Muenchen_2",
+                "FiberType": "G.652",
+                "SpanLength": 73,
+                "EDFAGain": 16.06,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Nuernberg_Muenchen_3",
+                "FiberType": "G.652",
+                "SpanLength": 11.07030819852514,
+                "EDFAGain": 2.435467803675531,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "82": {
+        "linkNo": 82,
+        "startNode": "Regensburg",
+        "endNode": "Muenchen",
+        "linkDist": 109.09171515776166,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Regensburg_Muenchen_1",
+                "FiberType": "G.652",
+                "SpanLength": 66,
+                "EDFAGain": 14.52,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Regensburg_Muenchen_2",
+                "FiberType": "G.652",
+                "SpanLength": 43.091715157761655,
+                "EDFAGain": 9.480177334707564,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "83": {
+        "linkNo": 83,
+        "startNode": "Wuerzburg",
+        "endNode": "Augsburg",
+        "linkDist": 189.30510673398678,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Wuerzburg_Augsburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 85,
+                "EDFAGain": 18.7,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Augsburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 81,
+                "EDFAGain": 17.82,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Augsburg_3",
+                "FiberType": "G.652",
+                "SpanLength": 23.305106733986776,
+                "EDFAGain": 5.12712348147709,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "84": {
+        "linkNo": 84,
+        "startNode": "Regensburg",
+        "endNode": "Passau",
+        "linkDist": 159.31363751573986,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Regensburg_Passau_1",
+                "FiberType": "G.652",
+                "SpanLength": 69,
+                "EDFAGain": 15.18,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Regensburg_Passau_2",
+                "FiberType": "G.652",
+                "SpanLength": 77,
+                "EDFAGain": 16.94,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Regensburg_Passau_3",
+                "FiberType": "G.652",
+                "SpanLength": 13.313637515739856,
+                "EDFAGain": 2.9290002534627684,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "85": {
+        "linkNo": 85,
+        "startNode": "Bayreuth",
+        "endNode": "Nuernberg",
+        "linkDist": 73.60853858911695,
+        "noChannels": 0,
+        "noSpans": 1,
+        "spanList": [
+            {
+                "LinkName": "Span_Bayreuth_Nuernberg_1",
+                "FiberType": "G.652",
+                "SpanLength": 73.60853858911695,
+                "EDFAGain": 16.19387848960573,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "86": {
+        "linkNo": 86,
+        "startNode": "Wuerzburg",
+        "endNode": "Nuernberg",
+        "linkDist": 120.08198036373616,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Wuerzburg_Nuernberg_1",
+                "FiberType": "G.652",
+                "SpanLength": 94,
+                "EDFAGain": 20.68,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Wuerzburg_Nuernberg_2",
+                "FiberType": "G.652",
+                "SpanLength": 26.081980363736164,
+                "EDFAGain": 5.738035680021956,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "87": {
+        "linkNo": 87,
+        "startNode": "Regensburg",
+        "endNode": "Nuernberg",
+        "linkDist": 133.2225961729572,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Regensburg_Nuernberg_1",
+                "FiberType": "G.652",
+                "SpanLength": 84,
+                "EDFAGain": 18.48,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Regensburg_Nuernberg_2",
+                "FiberType": "G.652",
+                "SpanLength": 49.222596172957196,
+                "EDFAGain": 10.828971158050583,
+                "attnDB": 0.22
+            }
+        ]
+    }
+}

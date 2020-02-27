@@ -1,0 +1,1514 @@
+{
+    "0": [
+        "Amsterdam",
+        "Athens"
+    ],
+    "1": [
+        "Amsterdam",
+        "Barcelona"
+    ],
+    "2": [
+        "Amsterdam",
+        "Belgrade"
+    ],
+    "3": [
+        "Amsterdam",
+        "Berlin"
+    ],
+    "4": [
+        "Amsterdam",
+        "Bordeaux"
+    ],
+    "5": [
+        "Amsterdam",
+        "Brussels"
+    ],
+    "6": [
+        "Amsterdam",
+        "Budapest"
+    ],
+    "7": [
+        "Amsterdam",
+        "Copenhagen"
+    ],
+    "8": [
+        "Amsterdam",
+        "Dublin"
+    ],
+    "9": [
+        "Amsterdam",
+        "Frankfurt"
+    ],
+    "10": [
+        "Amsterdam",
+        "Glasgow"
+    ],
+    "11": [
+        "Amsterdam",
+        "Hamburg"
+    ],
+    "12": [
+        "Amsterdam",
+        "London"
+    ],
+    "13": [
+        "Amsterdam",
+        "Lyon"
+    ],
+    "14": [
+        "Amsterdam",
+        "Madrid"
+    ],
+    "15": [
+        "Amsterdam",
+        "Milan"
+    ],
+    "16": [
+        "Amsterdam",
+        "Munich"
+    ],
+    "17": [
+        "Amsterdam",
+        "Oslo"
+    ],
+    "18": [
+        "Amsterdam",
+        "Paris"
+    ],
+    "19": [
+        "Amsterdam",
+        "Prague"
+    ],
+    "20": [
+        "Amsterdam",
+        "Rome"
+    ],
+    "21": [
+        "Amsterdam",
+        "Stockholm"
+    ],
+    "22": [
+        "Amsterdam",
+        "Strasbourg"
+    ],
+    "23": [
+        "Amsterdam",
+        "Vienna"
+    ],
+    "24": [
+        "Amsterdam",
+        "Warsaw"
+    ],
+    "25": [
+        "Amsterdam",
+        "Zagreb"
+    ],
+    "26": [
+        "Amsterdam",
+        "Zurich"
+    ],
+    "27": [
+        "Athens",
+        "Barcelona"
+    ],
+    "28": [
+        "Athens",
+        "Belgrade"
+    ],
+    "29": [
+        "Athens",
+        "Berlin"
+    ],
+    "30": [
+        "Athens",
+        "Bordeaux"
+    ],
+    "31": [
+        "Athens",
+        "Brussels"
+    ],
+    "32": [
+        "Athens",
+        "Budapest"
+    ],
+    "33": [
+        "Athens",
+        "Copenhagen"
+    ],
+    "34": [
+        "Athens",
+        "Dublin"
+    ],
+    "35": [
+        "Athens",
+        "Frankfurt"
+    ],
+    "36": [
+        "Athens",
+        "Glasgow"
+    ],
+    "37": [
+        "Athens",
+        "Hamburg"
+    ],
+    "38": [
+        "Athens",
+        "London"
+    ],
+    "39": [
+        "Athens",
+        "Lyon"
+    ],
+    "40": [
+        "Athens",
+        "Madrid"
+    ],
+    "41": [
+        "Athens",
+        "Milan"
+    ],
+    "42": [
+        "Athens",
+        "Munich"
+    ],
+    "43": [
+        "Athens",
+        "Oslo"
+    ],
+    "44": [
+        "Athens",
+        "Paris"
+    ],
+    "45": [
+        "Athens",
+        "Prague"
+    ],
+    "46": [
+        "Athens",
+        "Rome"
+    ],
+    "47": [
+        "Athens",
+        "Stockholm"
+    ],
+    "48": [
+        "Athens",
+        "Strasbourg"
+    ],
+    "49": [
+        "Athens",
+        "Vienna"
+    ],
+    "50": [
+        "Athens",
+        "Warsaw"
+    ],
+    "51": [
+        "Athens",
+        "Zagreb"
+    ],
+    "52": [
+        "Athens",
+        "Zurich"
+    ],
+    "53": [
+        "Barcelona",
+        "Belgrade"
+    ],
+    "54": [
+        "Barcelona",
+        "Berlin"
+    ],
+    "55": [
+        "Barcelona",
+        "Bordeaux"
+    ],
+    "56": [
+        "Barcelona",
+        "Brussels"
+    ],
+    "57": [
+        "Barcelona",
+        "Budapest"
+    ],
+    "58": [
+        "Barcelona",
+        "Copenhagen"
+    ],
+    "59": [
+        "Barcelona",
+        "Dublin"
+    ],
+    "60": [
+        "Barcelona",
+        "Frankfurt"
+    ],
+    "61": [
+        "Barcelona",
+        "Glasgow"
+    ],
+    "62": [
+        "Barcelona",
+        "Hamburg"
+    ],
+    "63": [
+        "Barcelona",
+        "London"
+    ],
+    "64": [
+        "Barcelona",
+        "Lyon"
+    ],
+    "65": [
+        "Barcelona",
+        "Madrid"
+    ],
+    "66": [
+        "Barcelona",
+        "Milan"
+    ],
+    "67": [
+        "Barcelona",
+        "Munich"
+    ],
+    "68": [
+        "Barcelona",
+        "Oslo"
+    ],
+    "69": [
+        "Barcelona",
+        "Paris"
+    ],
+    "70": [
+        "Barcelona",
+        "Prague"
+    ],
+    "71": [
+        "Barcelona",
+        "Rome"
+    ],
+    "72": [
+        "Barcelona",
+        "Stockholm"
+    ],
+    "73": [
+        "Barcelona",
+        "Strasbourg"
+    ],
+    "74": [
+        "Barcelona",
+        "Vienna"
+    ],
+    "75": [
+        "Barcelona",
+        "Warsaw"
+    ],
+    "76": [
+        "Barcelona",
+        "Zagreb"
+    ],
+    "77": [
+        "Barcelona",
+        "Zurich"
+    ],
+    "78": [
+        "Belgrade",
+        "Berlin"
+    ],
+    "79": [
+        "Belgrade",
+        "Bordeaux"
+    ],
+    "80": [
+        "Belgrade",
+        "Brussels"
+    ],
+    "81": [
+        "Belgrade",
+        "Budapest"
+    ],
+    "82": [
+        "Belgrade",
+        "Copenhagen"
+    ],
+    "83": [
+        "Belgrade",
+        "Dublin"
+    ],
+    "84": [
+        "Belgrade",
+        "Frankfurt"
+    ],
+    "85": [
+        "Belgrade",
+        "Glasgow"
+    ],
+    "86": [
+        "Belgrade",
+        "Hamburg"
+    ],
+    "87": [
+        "Belgrade",
+        "London"
+    ],
+    "88": [
+        "Belgrade",
+        "Lyon"
+    ],
+    "89": [
+        "Belgrade",
+        "Madrid"
+    ],
+    "90": [
+        "Belgrade",
+        "Milan"
+    ],
+    "91": [
+        "Belgrade",
+        "Munich"
+    ],
+    "92": [
+        "Belgrade",
+        "Oslo"
+    ],
+    "93": [
+        "Belgrade",
+        "Paris"
+    ],
+    "94": [
+        "Belgrade",
+        "Prague"
+    ],
+    "95": [
+        "Belgrade",
+        "Rome"
+    ],
+    "96": [
+        "Belgrade",
+        "Stockholm"
+    ],
+    "97": [
+        "Belgrade",
+        "Strasbourg"
+    ],
+    "98": [
+        "Belgrade",
+        "Vienna"
+    ],
+    "99": [
+        "Belgrade",
+        "Warsaw"
+    ],
+    "100": [
+        "Belgrade",
+        "Zagreb"
+    ],
+    "101": [
+        "Belgrade",
+        "Zurich"
+    ],
+    "102": [
+        "Berlin",
+        "Bordeaux"
+    ],
+    "103": [
+        "Berlin",
+        "Brussels"
+    ],
+    "104": [
+        "Berlin",
+        "Budapest"
+    ],
+    "105": [
+        "Berlin",
+        "Copenhagen"
+    ],
+    "106": [
+        "Berlin",
+        "Dublin"
+    ],
+    "107": [
+        "Berlin",
+        "Frankfurt"
+    ],
+    "108": [
+        "Berlin",
+        "Glasgow"
+    ],
+    "109": [
+        "Berlin",
+        "Hamburg"
+    ],
+    "110": [
+        "Berlin",
+        "London"
+    ],
+    "111": [
+        "Berlin",
+        "Lyon"
+    ],
+    "112": [
+        "Berlin",
+        "Madrid"
+    ],
+    "113": [
+        "Berlin",
+        "Milan"
+    ],
+    "114": [
+        "Berlin",
+        "Munich"
+    ],
+    "115": [
+        "Berlin",
+        "Oslo"
+    ],
+    "116": [
+        "Berlin",
+        "Paris"
+    ],
+    "117": [
+        "Berlin",
+        "Prague"
+    ],
+    "118": [
+        "Berlin",
+        "Rome"
+    ],
+    "119": [
+        "Berlin",
+        "Stockholm"
+    ],
+    "120": [
+        "Berlin",
+        "Strasbourg"
+    ],
+    "121": [
+        "Berlin",
+        "Vienna"
+    ],
+    "122": [
+        "Berlin",
+        "Warsaw"
+    ],
+    "123": [
+        "Berlin",
+        "Zagreb"
+    ],
+    "124": [
+        "Berlin",
+        "Zurich"
+    ],
+    "125": [
+        "Bordeaux",
+        "Brussels"
+    ],
+    "126": [
+        "Bordeaux",
+        "Budapest"
+    ],
+    "127": [
+        "Bordeaux",
+        "Copenhagen"
+    ],
+    "128": [
+        "Bordeaux",
+        "Dublin"
+    ],
+    "129": [
+        "Bordeaux",
+        "Frankfurt"
+    ],
+    "130": [
+        "Bordeaux",
+        "Glasgow"
+    ],
+    "131": [
+        "Bordeaux",
+        "Hamburg"
+    ],
+    "132": [
+        "Bordeaux",
+        "London"
+    ],
+    "133": [
+        "Bordeaux",
+        "Lyon"
+    ],
+    "134": [
+        "Bordeaux",
+        "Madrid"
+    ],
+    "135": [
+        "Bordeaux",
+        "Milan"
+    ],
+    "136": [
+        "Bordeaux",
+        "Munich"
+    ],
+    "137": [
+        "Bordeaux",
+        "Oslo"
+    ],
+    "138": [
+        "Bordeaux",
+        "Paris"
+    ],
+    "139": [
+        "Bordeaux",
+        "Prague"
+    ],
+    "140": [
+        "Bordeaux",
+        "Rome"
+    ],
+    "141": [
+        "Bordeaux",
+        "Stockholm"
+    ],
+    "142": [
+        "Bordeaux",
+        "Strasbourg"
+    ],
+    "143": [
+        "Bordeaux",
+        "Vienna"
+    ],
+    "144": [
+        "Bordeaux",
+        "Warsaw"
+    ],
+    "145": [
+        "Bordeaux",
+        "Zagreb"
+    ],
+    "146": [
+        "Bordeaux",
+        "Zurich"
+    ],
+    "147": [
+        "Brussels",
+        "Budapest"
+    ],
+    "148": [
+        "Brussels",
+        "Copenhagen"
+    ],
+    "149": [
+        "Brussels",
+        "Dublin"
+    ],
+    "150": [
+        "Brussels",
+        "Frankfurt"
+    ],
+    "151": [
+        "Brussels",
+        "Glasgow"
+    ],
+    "152": [
+        "Brussels",
+        "Hamburg"
+    ],
+    "153": [
+        "Brussels",
+        "London"
+    ],
+    "154": [
+        "Brussels",
+        "Lyon"
+    ],
+    "155": [
+        "Brussels",
+        "Madrid"
+    ],
+    "156": [
+        "Brussels",
+        "Milan"
+    ],
+    "157": [
+        "Brussels",
+        "Munich"
+    ],
+    "158": [
+        "Brussels",
+        "Oslo"
+    ],
+    "159": [
+        "Brussels",
+        "Paris"
+    ],
+    "160": [
+        "Brussels",
+        "Prague"
+    ],
+    "161": [
+        "Brussels",
+        "Rome"
+    ],
+    "162": [
+        "Brussels",
+        "Stockholm"
+    ],
+    "163": [
+        "Brussels",
+        "Strasbourg"
+    ],
+    "164": [
+        "Brussels",
+        "Vienna"
+    ],
+    "165": [
+        "Brussels",
+        "Warsaw"
+    ],
+    "166": [
+        "Brussels",
+        "Zagreb"
+    ],
+    "167": [
+        "Brussels",
+        "Zurich"
+    ],
+    "168": [
+        "Budapest",
+        "Copenhagen"
+    ],
+    "169": [
+        "Budapest",
+        "Dublin"
+    ],
+    "170": [
+        "Budapest",
+        "Frankfurt"
+    ],
+    "171": [
+        "Budapest",
+        "Glasgow"
+    ],
+    "172": [
+        "Budapest",
+        "Hamburg"
+    ],
+    "173": [
+        "Budapest",
+        "London"
+    ],
+    "174": [
+        "Budapest",
+        "Lyon"
+    ],
+    "175": [
+        "Budapest",
+        "Madrid"
+    ],
+    "176": [
+        "Budapest",
+        "Milan"
+    ],
+    "177": [
+        "Budapest",
+        "Munich"
+    ],
+    "178": [
+        "Budapest",
+        "Oslo"
+    ],
+    "179": [
+        "Budapest",
+        "Paris"
+    ],
+    "180": [
+        "Budapest",
+        "Prague"
+    ],
+    "181": [
+        "Budapest",
+        "Rome"
+    ],
+    "182": [
+        "Budapest",
+        "Stockholm"
+    ],
+    "183": [
+        "Budapest",
+        "Strasbourg"
+    ],
+    "184": [
+        "Budapest",
+        "Vienna"
+    ],
+    "185": [
+        "Budapest",
+        "Warsaw"
+    ],
+    "186": [
+        "Budapest",
+        "Zagreb"
+    ],
+    "187": [
+        "Budapest",
+        "Zurich"
+    ],
+    "188": [
+        "Copenhagen",
+        "Dublin"
+    ],
+    "189": [
+        "Copenhagen",
+        "Frankfurt"
+    ],
+    "190": [
+        "Copenhagen",
+        "Glasgow"
+    ],
+    "191": [
+        "Copenhagen",
+        "Hamburg"
+    ],
+    "192": [
+        "Copenhagen",
+        "London"
+    ],
+    "193": [
+        "Copenhagen",
+        "Lyon"
+    ],
+    "194": [
+        "Copenhagen",
+        "Madrid"
+    ],
+    "195": [
+        "Copenhagen",
+        "Milan"
+    ],
+    "196": [
+        "Copenhagen",
+        "Munich"
+    ],
+    "197": [
+        "Copenhagen",
+        "Oslo"
+    ],
+    "198": [
+        "Copenhagen",
+        "Paris"
+    ],
+    "199": [
+        "Copenhagen",
+        "Prague"
+    ],
+    "200": [
+        "Copenhagen",
+        "Rome"
+    ],
+    "201": [
+        "Copenhagen",
+        "Stockholm"
+    ],
+    "202": [
+        "Copenhagen",
+        "Strasbourg"
+    ],
+    "203": [
+        "Copenhagen",
+        "Vienna"
+    ],
+    "204": [
+        "Copenhagen",
+        "Warsaw"
+    ],
+    "205": [
+        "Copenhagen",
+        "Zagreb"
+    ],
+    "206": [
+        "Copenhagen",
+        "Zurich"
+    ],
+    "207": [
+        "Dublin",
+        "Frankfurt"
+    ],
+    "208": [
+        "Dublin",
+        "Glasgow"
+    ],
+    "209": [
+        "Dublin",
+        "Hamburg"
+    ],
+    "210": [
+        "Dublin",
+        "London"
+    ],
+    "211": [
+        "Dublin",
+        "Lyon"
+    ],
+    "212": [
+        "Dublin",
+        "Madrid"
+    ],
+    "213": [
+        "Dublin",
+        "Milan"
+    ],
+    "214": [
+        "Dublin",
+        "Munich"
+    ],
+    "215": [
+        "Dublin",
+        "Oslo"
+    ],
+    "216": [
+        "Dublin",
+        "Paris"
+    ],
+    "217": [
+        "Dublin",
+        "Prague"
+    ],
+    "218": [
+        "Dublin",
+        "Rome"
+    ],
+    "219": [
+        "Dublin",
+        "Stockholm"
+    ],
+    "220": [
+        "Dublin",
+        "Strasbourg"
+    ],
+    "221": [
+        "Dublin",
+        "Vienna"
+    ],
+    "222": [
+        "Dublin",
+        "Warsaw"
+    ],
+    "223": [
+        "Dublin",
+        "Zagreb"
+    ],
+    "224": [
+        "Dublin",
+        "Zurich"
+    ],
+    "225": [
+        "Frankfurt",
+        "Glasgow"
+    ],
+    "226": [
+        "Frankfurt",
+        "Hamburg"
+    ],
+    "227": [
+        "Frankfurt",
+        "London"
+    ],
+    "228": [
+        "Frankfurt",
+        "Lyon"
+    ],
+    "229": [
+        "Frankfurt",
+        "Madrid"
+    ],
+    "230": [
+        "Frankfurt",
+        "Milan"
+    ],
+    "231": [
+        "Frankfurt",
+        "Munich"
+    ],
+    "232": [
+        "Frankfurt",
+        "Oslo"
+    ],
+    "233": [
+        "Frankfurt",
+        "Paris"
+    ],
+    "234": [
+        "Frankfurt",
+        "Prague"
+    ],
+    "235": [
+        "Frankfurt",
+        "Rome"
+    ],
+    "236": [
+        "Frankfurt",
+        "Stockholm"
+    ],
+    "237": [
+        "Frankfurt",
+        "Strasbourg"
+    ],
+    "238": [
+        "Frankfurt",
+        "Vienna"
+    ],
+    "239": [
+        "Frankfurt",
+        "Warsaw"
+    ],
+    "240": [
+        "Frankfurt",
+        "Zagreb"
+    ],
+    "241": [
+        "Frankfurt",
+        "Zurich"
+    ],
+    "242": [
+        "Glasgow",
+        "Hamburg"
+    ],
+    "243": [
+        "Glasgow",
+        "London"
+    ],
+    "244": [
+        "Glasgow",
+        "Lyon"
+    ],
+    "245": [
+        "Glasgow",
+        "Madrid"
+    ],
+    "246": [
+        "Glasgow",
+        "Milan"
+    ],
+    "247": [
+        "Glasgow",
+        "Munich"
+    ],
+    "248": [
+        "Glasgow",
+        "Oslo"
+    ],
+    "249": [
+        "Glasgow",
+        "Paris"
+    ],
+    "250": [
+        "Glasgow",
+        "Prague"
+    ],
+    "251": [
+        "Glasgow",
+        "Rome"
+    ],
+    "252": [
+        "Glasgow",
+        "Stockholm"
+    ],
+    "253": [
+        "Glasgow",
+        "Strasbourg"
+    ],
+    "254": [
+        "Glasgow",
+        "Vienna"
+    ],
+    "255": [
+        "Glasgow",
+        "Warsaw"
+    ],
+    "256": [
+        "Glasgow",
+        "Zagreb"
+    ],
+    "257": [
+        "Glasgow",
+        "Zurich"
+    ],
+    "258": [
+        "Hamburg",
+        "London"
+    ],
+    "259": [
+        "Hamburg",
+        "Lyon"
+    ],
+    "260": [
+        "Hamburg",
+        "Madrid"
+    ],
+    "261": [
+        "Hamburg",
+        "Milan"
+    ],
+    "262": [
+        "Hamburg",
+        "Munich"
+    ],
+    "263": [
+        "Hamburg",
+        "Oslo"
+    ],
+    "264": [
+        "Hamburg",
+        "Paris"
+    ],
+    "265": [
+        "Hamburg",
+        "Prague"
+    ],
+    "266": [
+        "Hamburg",
+        "Rome"
+    ],
+    "267": [
+        "Hamburg",
+        "Stockholm"
+    ],
+    "268": [
+        "Hamburg",
+        "Strasbourg"
+    ],
+    "269": [
+        "Hamburg",
+        "Vienna"
+    ],
+    "270": [
+        "Hamburg",
+        "Warsaw"
+    ],
+    "271": [
+        "Hamburg",
+        "Zagreb"
+    ],
+    "272": [
+        "Hamburg",
+        "Zurich"
+    ],
+    "273": [
+        "London",
+        "Lyon"
+    ],
+    "274": [
+        "London",
+        "Madrid"
+    ],
+    "275": [
+        "London",
+        "Milan"
+    ],
+    "276": [
+        "London",
+        "Munich"
+    ],
+    "277": [
+        "London",
+        "Oslo"
+    ],
+    "278": [
+        "London",
+        "Paris"
+    ],
+    "279": [
+        "London",
+        "Prague"
+    ],
+    "280": [
+        "London",
+        "Rome"
+    ],
+    "281": [
+        "London",
+        "Stockholm"
+    ],
+    "282": [
+        "London",
+        "Strasbourg"
+    ],
+    "283": [
+        "London",
+        "Vienna"
+    ],
+    "284": [
+        "London",
+        "Warsaw"
+    ],
+    "285": [
+        "London",
+        "Zagreb"
+    ],
+    "286": [
+        "London",
+        "Zurich"
+    ],
+    "287": [
+        "Lyon",
+        "Madrid"
+    ],
+    "288": [
+        "Lyon",
+        "Milan"
+    ],
+    "289": [
+        "Lyon",
+        "Munich"
+    ],
+    "290": [
+        "Lyon",
+        "Oslo"
+    ],
+    "291": [
+        "Lyon",
+        "Paris"
+    ],
+    "292": [
+        "Lyon",
+        "Prague"
+    ],
+    "293": [
+        "Lyon",
+        "Rome"
+    ],
+    "294": [
+        "Lyon",
+        "Stockholm"
+    ],
+    "295": [
+        "Lyon",
+        "Strasbourg"
+    ],
+    "296": [
+        "Lyon",
+        "Vienna"
+    ],
+    "297": [
+        "Lyon",
+        "Warsaw"
+    ],
+    "298": [
+        "Lyon",
+        "Zagreb"
+    ],
+    "299": [
+        "Lyon",
+        "Zurich"
+    ],
+    "300": [
+        "Madrid",
+        "Milan"
+    ],
+    "301": [
+        "Madrid",
+        "Munich"
+    ],
+    "302": [
+        "Madrid",
+        "Oslo"
+    ],
+    "303": [
+        "Madrid",
+        "Paris"
+    ],
+    "304": [
+        "Madrid",
+        "Prague"
+    ],
+    "305": [
+        "Madrid",
+        "Rome"
+    ],
+    "306": [
+        "Madrid",
+        "Stockholm"
+    ],
+    "307": [
+        "Madrid",
+        "Strasbourg"
+    ],
+    "308": [
+        "Madrid",
+        "Vienna"
+    ],
+    "309": [
+        "Madrid",
+        "Warsaw"
+    ],
+    "310": [
+        "Madrid",
+        "Zagreb"
+    ],
+    "311": [
+        "Madrid",
+        "Zurich"
+    ],
+    "312": [
+        "Milan",
+        "Munich"
+    ],
+    "313": [
+        "Milan",
+        "Oslo"
+    ],
+    "314": [
+        "Milan",
+        "Paris"
+    ],
+    "315": [
+        "Milan",
+        "Prague"
+    ],
+    "316": [
+        "Milan",
+        "Rome"
+    ],
+    "317": [
+        "Milan",
+        "Stockholm"
+    ],
+    "318": [
+        "Milan",
+        "Strasbourg"
+    ],
+    "319": [
+        "Milan",
+        "Vienna"
+    ],
+    "320": [
+        "Milan",
+        "Warsaw"
+    ],
+    "321": [
+        "Milan",
+        "Zagreb"
+    ],
+    "322": [
+        "Milan",
+        "Zurich"
+    ],
+    "323": [
+        "Munich",
+        "Oslo"
+    ],
+    "324": [
+        "Munich",
+        "Paris"
+    ],
+    "325": [
+        "Munich",
+        "Prague"
+    ],
+    "326": [
+        "Munich",
+        "Rome"
+    ],
+    "327": [
+        "Munich",
+        "Stockholm"
+    ],
+    "328": [
+        "Munich",
+        "Strasbourg"
+    ],
+    "329": [
+        "Munich",
+        "Vienna"
+    ],
+    "330": [
+        "Munich",
+        "Warsaw"
+    ],
+    "331": [
+        "Munich",
+        "Zagreb"
+    ],
+    "332": [
+        "Munich",
+        "Zurich"
+    ],
+    "333": [
+        "Oslo",
+        "Paris"
+    ],
+    "334": [
+        "Oslo",
+        "Prague"
+    ],
+    "335": [
+        "Oslo",
+        "Rome"
+    ],
+    "336": [
+        "Oslo",
+        "Stockholm"
+    ],
+    "337": [
+        "Oslo",
+        "Strasbourg"
+    ],
+    "338": [
+        "Oslo",
+        "Vienna"
+    ],
+    "339": [
+        "Oslo",
+        "Warsaw"
+    ],
+    "340": [
+        "Oslo",
+        "Zagreb"
+    ],
+    "341": [
+        "Oslo",
+        "Zurich"
+    ],
+    "342": [
+        "Paris",
+        "Prague"
+    ],
+    "343": [
+        "Paris",
+        "Rome"
+    ],
+    "344": [
+        "Paris",
+        "Stockholm"
+    ],
+    "345": [
+        "Paris",
+        "Strasbourg"
+    ],
+    "346": [
+        "Paris",
+        "Vienna"
+    ],
+    "347": [
+        "Paris",
+        "Warsaw"
+    ],
+    "348": [
+        "Paris",
+        "Zagreb"
+    ],
+    "349": [
+        "Paris",
+        "Zurich"
+    ],
+    "350": [
+        "Prague",
+        "Rome"
+    ],
+    "351": [
+        "Prague",
+        "Stockholm"
+    ],
+    "352": [
+        "Prague",
+        "Strasbourg"
+    ],
+    "353": [
+        "Prague",
+        "Vienna"
+    ],
+    "354": [
+        "Prague",
+        "Warsaw"
+    ],
+    "355": [
+        "Prague",
+        "Zagreb"
+    ],
+    "356": [
+        "Prague",
+        "Zurich"
+    ],
+    "357": [
+        "Rome",
+        "Stockholm"
+    ],
+    "358": [
+        "Rome",
+        "Strasbourg"
+    ],
+    "359": [
+        "Rome",
+        "Vienna"
+    ],
+    "360": [
+        "Rome",
+        "Warsaw"
+    ],
+    "361": [
+        "Rome",
+        "Zagreb"
+    ],
+    "362": [
+        "Rome",
+        "Zurich"
+    ],
+    "363": [
+        "Stockholm",
+        "Strasbourg"
+    ],
+    "364": [
+        "Stockholm",
+        "Vienna"
+    ],
+    "365": [
+        "Stockholm",
+        "Warsaw"
+    ],
+    "366": [
+        "Stockholm",
+        "Zagreb"
+    ],
+    "367": [
+        "Stockholm",
+        "Zurich"
+    ],
+    "368": [
+        "Strasbourg",
+        "Vienna"
+    ],
+    "369": [
+        "Strasbourg",
+        "Warsaw"
+    ],
+    "370": [
+        "Strasbourg",
+        "Zagreb"
+    ],
+    "371": [
+        "Strasbourg",
+        "Zurich"
+    ],
+    "372": [
+        "Vienna",
+        "Warsaw"
+    ],
+    "373": [
+        "Vienna",
+        "Zagreb"
+    ],
+    "374": [
+        "Vienna",
+        "Zurich"
+    ],
+    "375": [
+        "Warsaw",
+        "Zagreb"
+    ],
+    "376": [
+        "Warsaw",
+        "Zurich"
+    ],
+    "377": [
+        "Zagreb",
+        "Zurich"
+    ]
+}

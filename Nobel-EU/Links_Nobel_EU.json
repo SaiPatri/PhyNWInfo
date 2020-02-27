@@ -1,0 +1,2008 @@
+{
+    "0": {
+        "linkNo": 0,
+        "startNode": "Amsterdam",
+        "endNode": "Brussels",
+        "linkDist": 191.35799426179673,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Amsterdam_Brussels_1",
+                "FiberType": "G.652",
+                "SpanLength": 87.52530551121114,
+                "EDFAGain": 19.255567212466453,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Brussels_2",
+                "FiberType": "G.652",
+                "SpanLength": 96.57500094856745,
+                "EDFAGain": 21.24650020868484,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Brussels_3",
+                "FiberType": "G.652",
+                "SpanLength": 7.25768780201814,
+                "EDFAGain": 1.5966913164439906,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "1": {
+        "linkNo": 1,
+        "startNode": "Amsterdam",
+        "endNode": "Glasgow",
+        "linkDist": 676.6161923326174,
+        "noChannels": 0,
+        "noSpans": 9,
+        "spanList": [
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_1",
+                "FiberType": "G.652",
+                "SpanLength": 88.88938614386349,
+                "EDFAGain": 19.55566495164997,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_2",
+                "FiberType": "G.652",
+                "SpanLength": 70.85043879506577,
+                "EDFAGain": 15.587096534914469,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_3",
+                "FiberType": "G.652",
+                "SpanLength": 109.15428259090648,
+                "EDFAGain": 24.013942169999424,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_4",
+                "FiberType": "G.652",
+                "SpanLength": 51.01283218399226,
+                "EDFAGain": 11.222823080478298,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_5",
+                "FiberType": "G.652",
+                "SpanLength": 92.43019692145127,
+                "EDFAGain": 20.33464332271928,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_6",
+                "FiberType": "G.652",
+                "SpanLength": 59.08176209709362,
+                "EDFAGain": 12.997987661360597,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_7",
+                "FiberType": "G.652",
+                "SpanLength": 107.50310150569835,
+                "EDFAGain": 23.650682331253638,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_8",
+                "FiberType": "G.652",
+                "SpanLength": 68.12270814342725,
+                "EDFAGain": 14.986995791553994,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Glasgow_9",
+                "FiberType": "G.652",
+                "SpanLength": 29.571483951118935,
+                "EDFAGain": 6.505726469246166,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "2": {
+        "linkNo": 2,
+        "startNode": "Amsterdam",
+        "endNode": "Hamburg",
+        "linkDist": 390.0467550596442,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Amsterdam_Hamburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 62.05719880157429,
+                "EDFAGain": 13.652583736346344,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Hamburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 80.0437203718172,
+                "EDFAGain": 17.609618481799785,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Hamburg_3",
+                "FiberType": "G.652",
+                "SpanLength": 73.85602147727099,
+                "EDFAGain": 16.248324724999616,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Hamburg_4",
+                "FiberType": "G.652",
+                "SpanLength": 109.60347853442151,
+                "EDFAGain": 24.112765277572734,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_Hamburg_5",
+                "FiberType": "G.652",
+                "SpanLength": 64.48633587456023,
+                "EDFAGain": 14.18699389240325,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "3": {
+        "linkNo": 3,
+        "startNode": "Amsterdam",
+        "endNode": "London",
+        "linkDist": 330.721727137294,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Amsterdam_London_1",
+                "FiberType": "G.652",
+                "SpanLength": 80.14359161370038,
+                "EDFAGain": 17.631590155014084,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_London_2",
+                "FiberType": "G.652",
+                "SpanLength": 67.7584144495032,
+                "EDFAGain": 14.906851178890706,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_London_3",
+                "FiberType": "G.652",
+                "SpanLength": 86.21268192466262,
+                "EDFAGain": 18.966790023425776,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Amsterdam_London_4",
+                "FiberType": "G.652",
+                "SpanLength": 96.60703914942779,
+                "EDFAGain": 21.253548612874113,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "4": {
+        "linkNo": 4,
+        "startNode": "Athens",
+        "endNode": "Belgrade",
+        "linkDist": 810.7954227257594,
+        "noChannels": 0,
+        "noSpans": 10,
+        "spanList": [
+            {
+                "LinkName": "Span_Athens_Belgrade_1",
+                "FiberType": "G.652",
+                "SpanLength": 102.35020010825508,
+                "EDFAGain": 22.51704402381612,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_2",
+                "FiberType": "G.652",
+                "SpanLength": 83.94539374854762,
+                "EDFAGain": 18.467986624680474,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_3",
+                "FiberType": "G.652",
+                "SpanLength": 57.81247880400397,
+                "EDFAGain": 12.718745336880874,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_4",
+                "FiberType": "G.652",
+                "SpanLength": 83.87995403312738,
+                "EDFAGain": 18.45358988728802,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_5",
+                "FiberType": "G.652",
+                "SpanLength": 99.69513428376916,
+                "EDFAGain": 21.932929542429218,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_6",
+                "FiberType": "G.652",
+                "SpanLength": 84.69931685967029,
+                "EDFAGain": 18.633849709127464,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_7",
+                "FiberType": "G.652",
+                "SpanLength": 79.65921447213817,
+                "EDFAGain": 17.5250271838704,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_8",
+                "FiberType": "G.652",
+                "SpanLength": 74.44271768892268,
+                "EDFAGain": 16.37739789156299,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_9",
+                "FiberType": "G.652",
+                "SpanLength": 83.86621955190175,
+                "EDFAGain": 18.450568301418386,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Belgrade_10",
+                "FiberType": "G.652",
+                "SpanLength": 60.44479317542333,
+                "EDFAGain": 13.297854498593132,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "5": {
+        "linkNo": 5,
+        "startNode": "Athens",
+        "endNode": "Rome",
+        "linkDist": 1049.3623077641776,
+        "noChannels": 0,
+        "noSpans": 13,
+        "spanList": [
+            {
+                "LinkName": "Span_Athens_Rome_1",
+                "FiberType": "G.652",
+                "SpanLength": 104.92791001754433,
+                "EDFAGain": 23.084140203859754,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_2",
+                "FiberType": "G.652",
+                "SpanLength": 99.2457930218276,
+                "EDFAGain": 21.83407446480207,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_3",
+                "FiberType": "G.652",
+                "SpanLength": 40.854553583314534,
+                "EDFAGain": 8.988001788329198,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_4",
+                "FiberType": "G.652",
+                "SpanLength": 57.649732108688696,
+                "EDFAGain": 12.682941063911514,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_5",
+                "FiberType": "G.652",
+                "SpanLength": 88.23544551156789,
+                "EDFAGain": 19.411798012544935,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_6",
+                "FiberType": "G.652",
+                "SpanLength": 83.45622516249988,
+                "EDFAGain": 18.360369535749975,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_7",
+                "FiberType": "G.652",
+                "SpanLength": 74.0317706104511,
+                "EDFAGain": 16.28698953429924,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_8",
+                "FiberType": "G.652",
+                "SpanLength": 82.29643283800053,
+                "EDFAGain": 18.105215224360116,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_9",
+                "FiberType": "G.652",
+                "SpanLength": 86.1465629173695,
+                "EDFAGain": 18.95224384182129,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_10",
+                "FiberType": "G.652",
+                "SpanLength": 70.2803583460817,
+                "EDFAGain": 15.461678836137974,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_11",
+                "FiberType": "G.652",
+                "SpanLength": 100.76579042904373,
+                "EDFAGain": 22.16847389438962,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_12",
+                "FiberType": "G.652",
+                "SpanLength": 85.95710327132468,
+                "EDFAGain": 18.91056271969143,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Athens_Rome_13",
+                "FiberType": "G.652",
+                "SpanLength": 75.51462994646332,
+                "EDFAGain": 16.61321858822193,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "6": {
+        "linkNo": 6,
+        "startNode": "Barcelona",
+        "endNode": "Lyon",
+        "linkDist": 507.3471928890957,
+        "noChannels": 0,
+        "noSpans": 7,
+        "spanList": [
+            {
+                "LinkName": "Span_Barcelona_Lyon_1",
+                "FiberType": "G.652",
+                "SpanLength": 85.13939792160708,
+                "EDFAGain": 18.730667542753558,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Lyon_2",
+                "FiberType": "G.652",
+                "SpanLength": 107.29100638778903,
+                "EDFAGain": 23.604021405313585,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Lyon_3",
+                "FiberType": "G.652",
+                "SpanLength": 71.44795859910022,
+                "EDFAGain": 15.718550891802048,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Lyon_4",
+                "FiberType": "G.652",
+                "SpanLength": 71.76445279442838,
+                "EDFAGain": 15.788179614774243,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Lyon_5",
+                "FiberType": "G.652",
+                "SpanLength": 88.48346831660507,
+                "EDFAGain": 19.466363029653117,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Lyon_6",
+                "FiberType": "G.652",
+                "SpanLength": 82.38874029580447,
+                "EDFAGain": 18.125522865076984,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Lyon_7",
+                "FiberType": "G.652",
+                "SpanLength": 0.8321685737614359,
+                "EDFAGain": 0.1830770862275159,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "7": {
+        "linkNo": 7,
+        "startNode": "Barcelona",
+        "endNode": "Madrid",
+        "linkDist": 474.8853407362215,
+        "noChannels": 0,
+        "noSpans": 6,
+        "spanList": [
+            {
+                "LinkName": "Span_Barcelona_Madrid_1",
+                "FiberType": "G.652",
+                "SpanLength": 73.13895622437893,
+                "EDFAGain": 16.090570369363366,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Madrid_2",
+                "FiberType": "G.652",
+                "SpanLength": 74.39210667343654,
+                "EDFAGain": 16.36626346815604,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Madrid_3",
+                "FiberType": "G.652",
+                "SpanLength": 103.96924053857937,
+                "EDFAGain": 22.87323291848746,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Madrid_4",
+                "FiberType": "G.652",
+                "SpanLength": 103.22365324431053,
+                "EDFAGain": 22.709203713748316,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Madrid_5",
+                "FiberType": "G.652",
+                "SpanLength": 97.66996293960861,
+                "EDFAGain": 21.487391846713894,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Barcelona_Madrid_6",
+                "FiberType": "G.652",
+                "SpanLength": 22.491421115907514,
+                "EDFAGain": 4.948112645499653,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "8": {
+        "linkNo": 8,
+        "startNode": "Belgrade",
+        "endNode": "Budapest",
+        "linkDist": 327.69471955749543,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Belgrade_Budapest_1",
+                "FiberType": "G.652",
+                "SpanLength": 96.44981598279328,
+                "EDFAGain": 21.21895951621452,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Budapest_2",
+                "FiberType": "G.652",
+                "SpanLength": 84.47731134377035,
+                "EDFAGain": 18.585008495629477,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Budapest_3",
+                "FiberType": "G.652",
+                "SpanLength": 82.00943991497722,
+                "EDFAGain": 18.042076781294988,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Budapest_4",
+                "FiberType": "G.652",
+                "SpanLength": 64.7581523159546,
+                "EDFAGain": 14.246793509510013,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "9": {
+        "linkNo": 9,
+        "startNode": "Belgrade",
+        "endNode": "Zagreb",
+        "linkDist": 384.81603227238065,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Belgrade_Zagreb_1",
+                "FiberType": "G.652",
+                "SpanLength": 72.1915882435583,
+                "EDFAGain": 15.882149413582827,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Zagreb_2",
+                "FiberType": "G.652",
+                "SpanLength": 126.3935257741595,
+                "EDFAGain": 27.80657567031509,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Zagreb_3",
+                "FiberType": "G.652",
+                "SpanLength": 65.4744085153898,
+                "EDFAGain": 14.404369873385756,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Zagreb_4",
+                "FiberType": "G.652",
+                "SpanLength": 113.57662065724118,
+                "EDFAGain": 24.98685654459306,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Belgrade_Zagreb_5",
+                "FiberType": "G.652",
+                "SpanLength": 7.179889082031892,
+                "EDFAGain": 1.579575598047016,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "10": {
+        "linkNo": 10,
+        "startNode": "Berlin",
+        "endNode": "Copenhagen",
+        "linkDist": 349.60252631668504,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Berlin_Copenhagen_1",
+                "FiberType": "G.652",
+                "SpanLength": 103.38473226129801,
+                "EDFAGain": 22.744641097485562,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Copenhagen_2",
+                "FiberType": "G.652",
+                "SpanLength": 70.18017891941011,
+                "EDFAGain": 15.439639362270224,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Copenhagen_3",
+                "FiberType": "G.652",
+                "SpanLength": 92.6042390658858,
+                "EDFAGain": 20.372932594494877,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Copenhagen_4",
+                "FiberType": "G.652",
+                "SpanLength": 83.43337607009111,
+                "EDFAGain": 18.355342735420045,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "11": {
+        "linkNo": 11,
+        "startNode": "Berlin",
+        "endNode": "Hamburg",
+        "linkDist": 243.6731012239438,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Berlin_Hamburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 95.4634557352854,
+                "EDFAGain": 21.001960261762786,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Hamburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 86.08588827078592,
+                "EDFAGain": 18.9388954195729,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Hamburg_3",
+                "FiberType": "G.652",
+                "SpanLength": 62.12375721787248,
+                "EDFAGain": 13.667226587931946,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "12": {
+        "linkNo": 12,
+        "startNode": "Berlin",
+        "endNode": "Munich",
+        "linkDist": 490.0505472355424,
+        "noChannels": 0,
+        "noSpans": 7,
+        "spanList": [
+            {
+                "LinkName": "Span_Berlin_Munich_1",
+                "FiberType": "G.652",
+                "SpanLength": 67.82137152330168,
+                "EDFAGain": 14.92070173512637,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Munich_2",
+                "FiberType": "G.652",
+                "SpanLength": 110.90640069875518,
+                "EDFAGain": 24.39940815372614,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Munich_3",
+                "FiberType": "G.652",
+                "SpanLength": 84.96545343428625,
+                "EDFAGain": 18.692399755542976,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Munich_4",
+                "FiberType": "G.652",
+                "SpanLength": 63.65560384080923,
+                "EDFAGain": 14.00423284497803,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Munich_5",
+                "FiberType": "G.652",
+                "SpanLength": 74.20407210549685,
+                "EDFAGain": 16.324895863209306,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Munich_6",
+                "FiberType": "G.652",
+                "SpanLength": 71.74024208548971,
+                "EDFAGain": 15.782853258807737,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Munich_7",
+                "FiberType": "G.652",
+                "SpanLength": 16.757403547403484,
+                "EDFAGain": 3.6866287804287667,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "13": {
+        "linkNo": 13,
+        "startNode": "Berlin",
+        "endNode": "Prague",
+        "linkDist": 262.6110564750056,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Berlin_Prague_1",
+                "FiberType": "G.652",
+                "SpanLength": 86.29386920838624,
+                "EDFAGain": 18.984651225844974,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Prague_2",
+                "FiberType": "G.652",
+                "SpanLength": 72.73517413839846,
+                "EDFAGain": 16.001738310447664,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Prague_3",
+                "FiberType": "G.652",
+                "SpanLength": 94.03039971937119,
+                "EDFAGain": 20.686687938261663,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Prague_4",
+                "FiberType": "G.652",
+                "SpanLength": 9.551613408849732,
+                "EDFAGain": 2.1013549499469413,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "14": {
+        "linkNo": 14,
+        "startNode": "Berlin",
+        "endNode": "Warsaw",
+        "linkDist": 502.8170669234568,
+        "noChannels": 0,
+        "noSpans": 7,
+        "spanList": [
+            {
+                "LinkName": "Span_Berlin_Warsaw_1",
+                "FiberType": "G.652",
+                "SpanLength": 48.31374407212601,
+                "EDFAGain": 10.629023695867723,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Warsaw_2",
+                "FiberType": "G.652",
+                "SpanLength": 99.70072213395348,
+                "EDFAGain": 21.934158869469766,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Warsaw_3",
+                "FiberType": "G.652",
+                "SpanLength": 69.59541829156379,
+                "EDFAGain": 15.310992024144033,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Warsaw_4",
+                "FiberType": "G.652",
+                "SpanLength": 78.83284964589139,
+                "EDFAGain": 17.343226922096104,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Warsaw_5",
+                "FiberType": "G.652",
+                "SpanLength": 74.94349044723768,
+                "EDFAGain": 16.48756789839229,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Warsaw_6",
+                "FiberType": "G.652",
+                "SpanLength": 89.10938652314638,
+                "EDFAGain": 19.604065035092205,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Berlin_Warsaw_7",
+                "FiberType": "G.652",
+                "SpanLength": 42.32145580953815,
+                "EDFAGain": 9.310720278098394,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "15": {
+        "linkNo": 15,
+        "startNode": "Bordeaux",
+        "endNode": "Madrid",
+        "linkDist": 536.5265106793471,
+        "noChannels": 0,
+        "noSpans": 6,
+        "spanList": [
+            {
+                "LinkName": "Span_Bordeaux_Madrid_1",
+                "FiberType": "G.652",
+                "SpanLength": 96.16785559411,
+                "EDFAGain": 21.1569282307042,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Madrid_2",
+                "FiberType": "G.652",
+                "SpanLength": 116.54555674794064,
+                "EDFAGain": 25.64002248454694,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Madrid_3",
+                "FiberType": "G.652",
+                "SpanLength": 104.40250420591998,
+                "EDFAGain": 22.968550925302395,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Madrid_4",
+                "FiberType": "G.652",
+                "SpanLength": 97.38917874341684,
+                "EDFAGain": 21.425619323551704,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Madrid_5",
+                "FiberType": "G.652",
+                "SpanLength": 62.695090821615814,
+                "EDFAGain": 13.79291998075548,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Madrid_6",
+                "FiberType": "G.652",
+                "SpanLength": 59.326324566343864,
+                "EDFAGain": 13.051791404595651,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "16": {
+        "linkNo": 16,
+        "startNode": "Bordeaux",
+        "endNode": "Paris",
+        "linkDist": 485.6338192691424,
+        "noChannels": 0,
+        "noSpans": 6,
+        "spanList": [
+            {
+                "LinkName": "Span_Bordeaux_Paris_1",
+                "FiberType": "G.652",
+                "SpanLength": 65.15229643258046,
+                "EDFAGain": 14.333505215167701,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Paris_2",
+                "FiberType": "G.652",
+                "SpanLength": 116.44653725899745,
+                "EDFAGain": 25.61823819697944,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Paris_3",
+                "FiberType": "G.652",
+                "SpanLength": 110.78327375819106,
+                "EDFAGain": 24.37232022680203,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Paris_4",
+                "FiberType": "G.652",
+                "SpanLength": 58.39060568190364,
+                "EDFAGain": 12.8459332500188,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Paris_5",
+                "FiberType": "G.652",
+                "SpanLength": 85.26633421000608,
+                "EDFAGain": 18.758593526201338,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Bordeaux_Paris_6",
+                "FiberType": "G.652",
+                "SpanLength": 49.59477192746371,
+                "EDFAGain": 10.910849824042016,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "17": {
+        "linkNo": 17,
+        "startNode": "Brussels",
+        "endNode": "Frankfurt",
+        "linkDist": 300.627904269433,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Brussels_Frankfurt_1",
+                "FiberType": "G.652",
+                "SpanLength": 93.14436561978196,
+                "EDFAGain": 20.49176043635203,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Brussels_Frankfurt_2",
+                "FiberType": "G.652",
+                "SpanLength": 75.04715410636429,
+                "EDFAGain": 16.510373903400144,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Brussels_Frankfurt_3",
+                "FiberType": "G.652",
+                "SpanLength": 81.89098033320661,
+                "EDFAGain": 18.016015673305454,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Brussels_Frankfurt_4",
+                "FiberType": "G.652",
+                "SpanLength": 50.54540421008008,
+                "EDFAGain": 11.119988926217617,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "18": {
+        "linkNo": 18,
+        "startNode": "Brussels",
+        "endNode": "Paris",
+        "linkDist": 263.2896178679057,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Brussels_Paris_1",
+                "FiberType": "G.652",
+                "SpanLength": 59.54591732083912,
+                "EDFAGain": 13.100101810584608,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Brussels_Paris_2",
+                "FiberType": "G.652",
+                "SpanLength": 55.11520721825523,
+                "EDFAGain": 12.12534558801615,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Brussels_Paris_3",
+                "FiberType": "G.652",
+                "SpanLength": 64.92087686370276,
+                "EDFAGain": 14.282592910014607,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Brussels_Paris_4",
+                "FiberType": "G.652",
+                "SpanLength": 83.70761646510859,
+                "EDFAGain": 18.41567562232389,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "19": {
+        "linkNo": 19,
+        "startNode": "Budapest",
+        "endNode": "Prague",
+        "linkDist": 464.82899644302273,
+        "noChannels": 0,
+        "noSpans": 6,
+        "spanList": [
+            {
+                "LinkName": "Span_Budapest_Prague_1",
+                "FiberType": "G.652",
+                "SpanLength": 94.47984541346176,
+                "EDFAGain": 20.785565990961587,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Prague_2",
+                "FiberType": "G.652",
+                "SpanLength": 93.38307153524616,
+                "EDFAGain": 20.544275737754155,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Prague_3",
+                "FiberType": "G.652",
+                "SpanLength": 71.88458455051057,
+                "EDFAGain": 15.814608601112324,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Prague_4",
+                "FiberType": "G.652",
+                "SpanLength": 82.6004257409348,
+                "EDFAGain": 18.172093663005654,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Prague_5",
+                "FiberType": "G.652",
+                "SpanLength": 97.15175656284447,
+                "EDFAGain": 21.373386443825783,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Prague_6",
+                "FiberType": "G.652",
+                "SpanLength": 25.32931264002501,
+                "EDFAGain": 5.572448780805502,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "20": {
+        "linkNo": 20,
+        "startNode": "Budapest",
+        "endNode": "Warsaw",
+        "linkDist": 550.9458776293077,
+        "noChannels": 0,
+        "noSpans": 8,
+        "spanList": [
+            {
+                "LinkName": "Span_Budapest_Warsaw_1",
+                "FiberType": "G.652",
+                "SpanLength": 47.50631469854377,
+                "EDFAGain": 10.45138923367963,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_2",
+                "FiberType": "G.652",
+                "SpanLength": 84.7639044562261,
+                "EDFAGain": 18.648058980369743,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_3",
+                "FiberType": "G.652",
+                "SpanLength": 86.7568303994043,
+                "EDFAGain": 19.086502687868943,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_4",
+                "FiberType": "G.652",
+                "SpanLength": 84.31537520362055,
+                "EDFAGain": 18.549382544796522,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_5",
+                "FiberType": "G.652",
+                "SpanLength": 88.41801262909216,
+                "EDFAGain": 19.451962778400276,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_6",
+                "FiberType": "G.652",
+                "SpanLength": 37.47817301451295,
+                "EDFAGain": 8.245198063192849,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_7",
+                "FiberType": "G.652",
+                "SpanLength": 108.36997393549444,
+                "EDFAGain": 23.841394265808777,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Budapest_Warsaw_8",
+                "FiberType": "G.652",
+                "SpanLength": 13.337293292413449,
+                "EDFAGain": 2.934204524330959,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "21": {
+        "linkNo": 21,
+        "startNode": "Copenhagen",
+        "endNode": "Oslo",
+        "linkDist": 472.5990316484699,
+        "noChannels": 0,
+        "noSpans": 6,
+        "spanList": [
+            {
+                "LinkName": "Span_Copenhagen_Oslo_1",
+                "FiberType": "G.652",
+                "SpanLength": 105.19510851952904,
+                "EDFAGain": 23.14292387429639,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Copenhagen_Oslo_2",
+                "FiberType": "G.652",
+                "SpanLength": 75.88884359934252,
+                "EDFAGain": 16.695545591855353,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Copenhagen_Oslo_3",
+                "FiberType": "G.652",
+                "SpanLength": 102.30941789251654,
+                "EDFAGain": 22.508071936353637,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Copenhagen_Oslo_4",
+                "FiberType": "G.652",
+                "SpanLength": 72.67478951267913,
+                "EDFAGain": 15.988453692789408,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Copenhagen_Oslo_5",
+                "FiberType": "G.652",
+                "SpanLength": 81.0107425299085,
+                "EDFAGain": 17.82236335657987,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Copenhagen_Oslo_6",
+                "FiberType": "G.652",
+                "SpanLength": 35.520129594494165,
+                "EDFAGain": 7.814428510788717,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "22": {
+        "linkNo": 22,
+        "startNode": "Dublin",
+        "endNode": "Glasgow",
+        "linkDist": 286.3834346065608,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Dublin_Glasgow_1",
+                "FiberType": "G.652",
+                "SpanLength": 69.87268339391566,
+                "EDFAGain": 15.371990346661446,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_Glasgow_2",
+                "FiberType": "G.652",
+                "SpanLength": 88.00574750881087,
+                "EDFAGain": 19.361264451938393,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_Glasgow_3",
+                "FiberType": "G.652",
+                "SpanLength": 80.915944083646,
+                "EDFAGain": 17.80150769840212,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_Glasgow_4",
+                "FiberType": "G.652",
+                "SpanLength": 47.58905962018824,
+                "EDFAGain": 10.469593116441413,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "23": {
+        "linkNo": 23,
+        "startNode": "Dublin",
+        "endNode": "London",
+        "linkDist": 464.9559863387811,
+        "noChannels": 0,
+        "noSpans": 7,
+        "spanList": [
+            {
+                "LinkName": "Span_Dublin_London_1",
+                "FiberType": "G.652",
+                "SpanLength": 73.27069102470723,
+                "EDFAGain": 16.119552025435592,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_London_2",
+                "FiberType": "G.652",
+                "SpanLength": 75.42182664313617,
+                "EDFAGain": 16.592801861489956,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_London_3",
+                "FiberType": "G.652",
+                "SpanLength": 50.78960715402317,
+                "EDFAGain": 11.173713573885099,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_London_4",
+                "FiberType": "G.652",
+                "SpanLength": 74.3968173201094,
+                "EDFAGain": 16.36729981042407,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_London_5",
+                "FiberType": "G.652",
+                "SpanLength": 106.41610830503335,
+                "EDFAGain": 23.411543827107337,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_London_6",
+                "FiberType": "G.652",
+                "SpanLength": 83.07466423516045,
+                "EDFAGain": 18.2764261317353,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Dublin_London_7",
+                "FiberType": "G.652",
+                "SpanLength": 1.586271656611359,
+                "EDFAGain": 0.348979764454499,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "24": {
+        "linkNo": 24,
+        "startNode": "Frankfurt",
+        "endNode": "Hamburg",
+        "linkDist": 379.27216392850244,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Frankfurt_Hamburg_1",
+                "FiberType": "G.652",
+                "SpanLength": 90.04308507138545,
+                "EDFAGain": 19.8094787157048,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Hamburg_2",
+                "FiberType": "G.652",
+                "SpanLength": 53.48991582413578,
+                "EDFAGain": 11.767781481309871,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Hamburg_3",
+                "FiberType": "G.652",
+                "SpanLength": 81.70466243577783,
+                "EDFAGain": 17.975025735871125,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Hamburg_4",
+                "FiberType": "G.652",
+                "SpanLength": 68.29023931133631,
+                "EDFAGain": 15.023852648493987,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Hamburg_5",
+                "FiberType": "G.652",
+                "SpanLength": 85.74426128586705,
+                "EDFAGain": 18.863737482890752,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "25": {
+        "linkNo": 25,
+        "startNode": "Frankfurt",
+        "endNode": "Munich",
+        "linkDist": 309.20953427010585,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Frankfurt_Munich_1",
+                "FiberType": "G.652",
+                "SpanLength": 84.16759009893366,
+                "EDFAGain": 18.516869821765404,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Munich_2",
+                "FiberType": "G.652",
+                "SpanLength": 50.90938471421496,
+                "EDFAGain": 11.20006463712729,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Munich_3",
+                "FiberType": "G.652",
+                "SpanLength": 79.26455541136244,
+                "EDFAGain": 17.438202190499737,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Munich_4",
+                "FiberType": "G.652",
+                "SpanLength": 44.675905786009025,
+                "EDFAGain": 9.828699272921986,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Munich_5",
+                "FiberType": "G.652",
+                "SpanLength": 50.19209825958578,
+                "EDFAGain": 11.04226161710887,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "26": {
+        "linkNo": 26,
+        "startNode": "Frankfurt",
+        "endNode": "Strasbourg",
+        "linkDist": 202.83195144048946,
+        "noChannels": 0,
+        "noSpans": 3,
+        "spanList": [
+            {
+                "LinkName": "Span_Frankfurt_Strasbourg_1",
+                "FiberType": "G.652",
+                "SpanLength": 73.55001388896953,
+                "EDFAGain": 16.181003055573296,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Strasbourg_2",
+                "FiberType": "G.652",
+                "SpanLength": 115.63587669223429,
+                "EDFAGain": 25.439892872291544,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Frankfurt_Strasbourg_3",
+                "FiberType": "G.652",
+                "SpanLength": 13.646060859285654,
+                "EDFAGain": 3.002133389042844,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "27": {
+        "linkNo": 27,
+        "startNode": "London",
+        "endNode": "Paris",
+        "linkDist": 350.2057130072158,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_London_Paris_1",
+                "FiberType": "G.652",
+                "SpanLength": 71.19281098842556,
+                "EDFAGain": 15.662418417453624,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_London_Paris_2",
+                "FiberType": "G.652",
+                "SpanLength": 77.11520272950193,
+                "EDFAGain": 16.965344600490425,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_London_Paris_3",
+                "FiberType": "G.652",
+                "SpanLength": 89.79779407704679,
+                "EDFAGain": 19.755514696950293,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_London_Paris_4",
+                "FiberType": "G.652",
+                "SpanLength": 87.89906024328782,
+                "EDFAGain": 19.33779325352332,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_London_Paris_5",
+                "FiberType": "G.652",
+                "SpanLength": 24.20084496895373,
+                "EDFAGain": 5.324185893169821,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "28": {
+        "linkNo": 28,
+        "startNode": "Lyon",
+        "endNode": "Paris",
+        "linkDist": 383.99292988484746,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Lyon_Paris_1",
+                "FiberType": "G.652",
+                "SpanLength": 64.12663921821661,
+                "EDFAGain": 14.107860628007654,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Lyon_Paris_2",
+                "FiberType": "G.652",
+                "SpanLength": 90.95036099548035,
+                "EDFAGain": 20.009079419005676,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Lyon_Paris_3",
+                "FiberType": "G.652",
+                "SpanLength": 68.11539868109645,
+                "EDFAGain": 14.98538770984122,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Lyon_Paris_4",
+                "FiberType": "G.652",
+                "SpanLength": 115.2269867723481,
+                "EDFAGain": 25.349937089916583,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Lyon_Paris_5",
+                "FiberType": "G.652",
+                "SpanLength": 45.57354421770593,
+                "EDFAGain": 10.026179727895304,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "29": {
+        "linkNo": 29,
+        "startNode": "Milan",
+        "endNode": "Munich",
+        "linkDist": 353.4205356196523,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Milan_Munich_1",
+                "FiberType": "G.652",
+                "SpanLength": 65.86015140509463,
+                "EDFAGain": 14.489233309120818,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Munich_2",
+                "FiberType": "G.652",
+                "SpanLength": 108.02797400054938,
+                "EDFAGain": 23.766154280120862,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Munich_3",
+                "FiberType": "G.652",
+                "SpanLength": 61.00084654936466,
+                "EDFAGain": 13.420186240860225,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Munich_4",
+                "FiberType": "G.652",
+                "SpanLength": 64.31616280623776,
+                "EDFAGain": 14.149555817372306,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Munich_5",
+                "FiberType": "G.652",
+                "SpanLength": 54.21540085840586,
+                "EDFAGain": 11.927388188849289,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "30": {
+        "linkNo": 30,
+        "startNode": "Milan",
+        "endNode": "Rome",
+        "linkDist": 489.66685341207744,
+        "noChannels": 0,
+        "noSpans": 6,
+        "spanList": [
+            {
+                "LinkName": "Span_Milan_Rome_1",
+                "FiberType": "G.652",
+                "SpanLength": 84.29177732827978,
+                "EDFAGain": 18.54419101222155,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Rome_2",
+                "FiberType": "G.652",
+                "SpanLength": 69.11099207567098,
+                "EDFAGain": 15.204418256647616,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Rome_3",
+                "FiberType": "G.652",
+                "SpanLength": 68.26015491856346,
+                "EDFAGain": 15.017234082083961,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Rome_4",
+                "FiberType": "G.652",
+                "SpanLength": 90.45898251029831,
+                "EDFAGain": 19.900976152265628,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Rome_5",
+                "FiberType": "G.652",
+                "SpanLength": 118.64187452651493,
+                "EDFAGain": 26.101212395833283,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Rome_6",
+                "FiberType": "G.652",
+                "SpanLength": 58.90307205275002,
+                "EDFAGain": 12.958675851605005,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "31": {
+        "linkNo": 31,
+        "startNode": "Milan",
+        "endNode": "Zurich",
+        "linkDist": 224.104381564258,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Milan_Zurich_1",
+                "FiberType": "G.652",
+                "SpanLength": 54.49272390630543,
+                "EDFAGain": 11.988399259387194,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Zurich_2",
+                "FiberType": "G.652",
+                "SpanLength": 81.86179149822397,
+                "EDFAGain": 18.009594129609273,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Zurich_3",
+                "FiberType": "G.652",
+                "SpanLength": 75.4233447533569,
+                "EDFAGain": 16.59313584573852,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Milan_Zurich_4",
+                "FiberType": "G.652",
+                "SpanLength": 12.326521406371711,
+                "EDFAGain": 2.7118347094017765,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "32": {
+        "linkNo": 32,
+        "startNode": "Munich",
+        "endNode": "Vienna",
+        "linkDist": 362.403952742179,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Munich_Vienna_1",
+                "FiberType": "G.652",
+                "SpanLength": 76.82045885970226,
+                "EDFAGain": 16.900500949134496,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Munich_Vienna_2",
+                "FiberType": "G.652",
+                "SpanLength": 63.96018779340293,
+                "EDFAGain": 14.071241314548645,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Munich_Vienna_3",
+                "FiberType": "G.652",
+                "SpanLength": 100.31066347734735,
+                "EDFAGain": 22.068345965016416,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Munich_Vienna_4",
+                "FiberType": "G.652",
+                "SpanLength": 44.67299903467762,
+                "EDFAGain": 9.828059787629078,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Munich_Vienna_5",
+                "FiberType": "G.652",
+                "SpanLength": 76.63964357704887,
+                "EDFAGain": 16.860721586950753,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "33": {
+        "linkNo": 33,
+        "startNode": "Oslo",
+        "endNode": "Stockholm",
+        "linkDist": 431.0148049174158,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Oslo_Stockholm_1",
+                "FiberType": "G.652",
+                "SpanLength": 86.91517425442896,
+                "EDFAGain": 19.12133833597437,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oslo_Stockholm_2",
+                "FiberType": "G.652",
+                "SpanLength": 91.93701557410907,
+                "EDFAGain": 20.226143426303995,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oslo_Stockholm_3",
+                "FiberType": "G.652",
+                "SpanLength": 113.9309666006441,
+                "EDFAGain": 25.0648126521417,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oslo_Stockholm_4",
+                "FiberType": "G.652",
+                "SpanLength": 73.22539394387891,
+                "EDFAGain": 16.10958666765336,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Oslo_Stockholm_5",
+                "FiberType": "G.652",
+                "SpanLength": 65.00625454435476,
+                "EDFAGain": 14.301375999758047,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "34": {
+        "linkNo": 34,
+        "startNode": "Paris",
+        "endNode": "Strasbourg",
+        "linkDist": 387.6857752662218,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Paris_Strasbourg_1",
+                "FiberType": "G.652",
+                "SpanLength": 48.4735178884488,
+                "EDFAGain": 10.664173935458736,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Paris_Strasbourg_2",
+                "FiberType": "G.652",
+                "SpanLength": 88.12575356481355,
+                "EDFAGain": 19.38766578425898,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Paris_Strasbourg_3",
+                "FiberType": "G.652",
+                "SpanLength": 80.09292912532116,
+                "EDFAGain": 17.620444407570655,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Paris_Strasbourg_4",
+                "FiberType": "G.652",
+                "SpanLength": 94.64508470887446,
+                "EDFAGain": 20.821918635952382,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Paris_Strasbourg_5",
+                "FiberType": "G.652",
+                "SpanLength": 76.34848997876387,
+                "EDFAGain": 16.79666779532805,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "35": {
+        "linkNo": 35,
+        "startNode": "Prague",
+        "endNode": "Vienna",
+        "linkDist": 256.802603088976,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_Prague_Vienna_1",
+                "FiberType": "G.652",
+                "SpanLength": 88.50736522441184,
+                "EDFAGain": 19.471620349370607,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Prague_Vienna_2",
+                "FiberType": "G.652",
+                "SpanLength": 63.31092174161843,
+                "EDFAGain": 13.928402783156054,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Prague_Vienna_3",
+                "FiberType": "G.652",
+                "SpanLength": 52.75223449555404,
+                "EDFAGain": 11.60549158902189,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Prague_Vienna_4",
+                "FiberType": "G.652",
+                "SpanLength": 52.2320816273917,
+                "EDFAGain": 11.491057958026174,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "36": {
+        "linkNo": 36,
+        "startNode": "Rome",
+        "endNode": "Zagreb",
+        "linkDist": 512.6225187524236,
+        "noChannels": 0,
+        "noSpans": 7,
+        "spanList": [
+            {
+                "LinkName": "Span_Rome_Zagreb_1",
+                "FiberType": "G.652",
+                "SpanLength": 56.637856991145554,
+                "EDFAGain": 12.460328538052021,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Rome_Zagreb_2",
+                "FiberType": "G.652",
+                "SpanLength": 92.37800633789328,
+                "EDFAGain": 20.323161394336523,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Rome_Zagreb_3",
+                "FiberType": "G.652",
+                "SpanLength": 64.04341678412683,
+                "EDFAGain": 14.089551692507904,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Rome_Zagreb_4",
+                "FiberType": "G.652",
+                "SpanLength": 80.01262975488937,
+                "EDFAGain": 17.602778546075662,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Rome_Zagreb_5",
+                "FiberType": "G.652",
+                "SpanLength": 81.24999298062772,
+                "EDFAGain": 17.874998455738098,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Rome_Zagreb_6",
+                "FiberType": "G.652",
+                "SpanLength": 97.16510382529262,
+                "EDFAGain": 21.376322841564377,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Rome_Zagreb_7",
+                "FiberType": "G.652",
+                "SpanLength": 41.13551207844827,
+                "EDFAGain": 9.04981265725862,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "37": {
+        "linkNo": 37,
+        "startNode": "Stockholm",
+        "endNode": "Warsaw",
+        "linkDist": 800.0441973764017,
+        "noChannels": 0,
+        "noSpans": 10,
+        "spanList": [
+            {
+                "LinkName": "Span_Stockholm_Warsaw_1",
+                "FiberType": "G.652",
+                "SpanLength": 57.62532904998136,
+                "EDFAGain": 12.6775723909959,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_2",
+                "FiberType": "G.652",
+                "SpanLength": 48.1852771615137,
+                "EDFAGain": 10.600760975533015,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_3",
+                "FiberType": "G.652",
+                "SpanLength": 93.65099012623376,
+                "EDFAGain": 20.603217827771427,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_4",
+                "FiberType": "G.652",
+                "SpanLength": 84.36054148215308,
+                "EDFAGain": 18.559319126073678,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_5",
+                "FiberType": "G.652",
+                "SpanLength": 118.28182381162644,
+                "EDFAGain": 26.022001238557817,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_6",
+                "FiberType": "G.652",
+                "SpanLength": 102.9877688366405,
+                "EDFAGain": 22.65730914406091,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_7",
+                "FiberType": "G.652",
+                "SpanLength": 97.59489811711585,
+                "EDFAGain": 21.470877585765486,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_8",
+                "FiberType": "G.652",
+                "SpanLength": 63.470172157196615,
+                "EDFAGain": 13.963437874583255,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_9",
+                "FiberType": "G.652",
+                "SpanLength": 64.77543730991613,
+                "EDFAGain": 14.250596208181548,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Stockholm_Warsaw_10",
+                "FiberType": "G.652",
+                "SpanLength": 69.11195932402433,
+                "EDFAGain": 15.204631051285352,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "38": {
+        "linkNo": 38,
+        "startNode": "Zurich",
+        "endNode": "Lyon",
+        "linkDist": 355.05219868510443,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Zurich_Lyon_1",
+                "FiberType": "G.652",
+                "SpanLength": 93.55469527166272,
+                "EDFAGain": 20.5820329597658,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Zurich_Lyon_2",
+                "FiberType": "G.652",
+                "SpanLength": 76.53766314717222,
+                "EDFAGain": 16.83828589237789,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Zurich_Lyon_3",
+                "FiberType": "G.652",
+                "SpanLength": 91.37924622509206,
+                "EDFAGain": 20.103434169520252,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Zurich_Lyon_4",
+                "FiberType": "G.652",
+                "SpanLength": 74.61730277727528,
+                "EDFAGain": 16.415806611000562,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Zurich_Lyon_5",
+                "FiberType": "G.652",
+                "SpanLength": 18.963291263902107,
+                "EDFAGain": 4.171924078058463,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "39": {
+        "linkNo": 39,
+        "startNode": "Strasbourg",
+        "endNode": "Zurich",
+        "linkDist": 141.4652043400602,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_Strasbourg_Zurich_1",
+                "FiberType": "G.652",
+                "SpanLength": 101.53567670501211,
+                "EDFAGain": 22.337848875102665,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Strasbourg_Zurich_2",
+                "FiberType": "G.652",
+                "SpanLength": 39.9295276350481,
+                "EDFAGain": 8.784496079710582,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "40": {
+        "linkNo": 40,
+        "startNode": "Vienna",
+        "endNode": "Zagreb",
+        "linkDist": 297.5662236289733,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_Vienna_Zagreb_1",
+                "FiberType": "G.652",
+                "SpanLength": 66.20372319687367,
+                "EDFAGain": 14.564819103312207,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Vienna_Zagreb_2",
+                "FiberType": "G.652",
+                "SpanLength": 42.458426298104996,
+                "EDFAGain": 9.3408537855831,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Vienna_Zagreb_3",
+                "FiberType": "G.652",
+                "SpanLength": 73.55844233698292,
+                "EDFAGain": 16.182857314136243,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Vienna_Zagreb_4",
+                "FiberType": "G.652",
+                "SpanLength": 79.62992947380909,
+                "EDFAGain": 17.518584484237998,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_Vienna_Zagreb_5",
+                "FiberType": "G.652",
+                "SpanLength": 35.715702323202635,
+                "EDFAGain": 7.85745451110458,
+                "attnDB": 0.22
+            }
+        ]
+    }
+}
