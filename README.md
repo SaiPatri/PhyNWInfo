@@ -80,5 +80,6 @@ As an example, the Nobel-EU span distribution is seen as follows:
 
 ![Eu-Nobel Span Distribution](https://github.com/SaiPatri/PhyNWInfo/blob/master/spanlens-eu.png)
 
+## More questions?
 
-
+In case of doubts, or questions on how to use this dataset, please contact Sai Kireet Patri (SPatri@adva.com)
