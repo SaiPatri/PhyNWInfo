@@ -76,6 +76,9 @@ An example is as follows:
 The link information on the number of spans, span lengths, EDFA used and gain
 calculated are generated from statistical observation of real core network deployments.
 
+As an example, the Nobel-EU span distribution is seen as follows:
+
+![Eu-Nobel Span Distribution]()
 
 
 
