@@ -16,8 +16,9 @@ various path calculation models or to reproduce the results of HeCSON.
 Currently, we have the following networks available
 - Germany 50
 - Norway
-- Austria
+- Germany 17
 - Nobel-EU
+- US Abilene
 
 Each network is divided into its own directory and consists of the node, links
 and demands json files. The nodes and the demand files are pretty straightforward.
