@@ -1,4 +1,5 @@
 # PhyNWInfo
+## [NOTE: Datasets for ECOC2020 will be uploaded by 04.09.2020 due to vacations. Thank you for your patience.]
 ## A Physical Network Information resource for reference networks
 Reference Physical Network information JSON files, which can be used for various
 Optical Network assessment 
@@ -16,8 +17,9 @@ various path calculation models or to reproduce the results of HeCSON.
 Currently, we have the following networks available
 - Germany 50
 - Norway
-- Austria
+- Germany 17
 - Nobel-EU
+- US Abilene
 
 Each network is divided into its own directory and consists of the node, links
 and demands json files. The nodes and the demand files are pretty straightforward.
@@ -76,6 +78,10 @@ An example is as follows:
 The link information on the number of spans, span lengths, EDFA used and gain
 calculated are generated from statistical observation of real core network deployments.
 
+As an example, the Nobel-EU span distribution is seen as follows:
 
+![Eu-Nobel Span Distribution](https://github.com/SaiPatri/PhyNWInfo/blob/master/Inkedspanlens-eu_LI.jpg)
 
+## More questions?
 
+In case of doubts, or questions on how to use this dataset, please contact Sai Kireet Patri (SPatri@adva.com)
