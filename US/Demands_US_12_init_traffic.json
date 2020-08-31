@@ -1,0 +1,332 @@
+{
+    "0": [
+        "IPLSng",
+        "STTLng",
+        591.25
+    ],
+    "1": [
+        "HSTNng",
+        "STTLng",
+        2042.5
+    ],
+    "10": [
+        "DNVRng",
+        "IPLSng",
+        643.5
+    ],
+    "11": [
+        "KSCYng",
+        "WASHng",
+        67.5
+    ],
+    "12": [
+        "KSCYng",
+        "STTLng",
+        322.5
+    ],
+    "13": [
+        "DNVRng",
+        "KSCYng",
+        292.5
+    ],
+    "14": [
+        "IPLSng",
+        "NYCMng",
+        495.0
+    ],
+    "15": [
+        "ATLAM5",
+        "IPLSng",
+        99.0
+    ],
+    "16": [
+        "NYCMng",
+        "SNVAng",
+        90.0
+    ],
+    "17": [
+        "ATLAng",
+        "NYCMng",
+        486.0
+    ],
+    "18": [
+        "ATLAM5",
+        "SNVAng",
+        18.0
+    ],
+    "19": [
+        "ATLAng",
+        "WASHng",
+        101.25
+    ],
+    "2": [
+        "LOSAng",
+        "NYCMng",
+        1728.0
+    ],
+    "20": [
+        "KSCYng",
+        "LOSAng",
+        360.0
+    ],
+    "21": [
+        "IPLSng",
+        "KSCYng",
+        82.5
+    ],
+    "22": [
+        "ATLAM5",
+        "WASHng",
+        60.75
+    ],
+    "23": [
+        "CHINng",
+        "STTLng",
+        1591.0
+    ],
+    "24": [
+        "CHINng",
+        "NYCMng",
+        999.0
+    ],
+    "25": [
+        "KSCYng",
+        "SNVAng",
+        18.0
+    ],
+    "26": [
+        "IPLSng",
+        "WASHng",
+        123.75
+    ],
+    "27": [
+        "ATLAng",
+        "HSTNng",
+        513.0
+    ],
+    "28": [
+        "ATLAM5",
+        "CHINng",
+        249.75
+    ],
+    "29": [
+        "ATLAng",
+        "LOSAng",
+        648.0
+    ],
+    "3": [
+        "HSTNng",
+        "LOSAng",
+        1824.0
+    ],
+    "30": [
+        "DNVRng",
+        "WASHng",
+        438.75
+    ],
+    "31": [
+        "HSTNng",
+        "WASHng",
+        427.5
+    ],
+    "32": [
+        "ATLAng",
+        "CHINng",
+        499.5
+    ],
+    "33": [
+        "IPLSng",
+        "LOSAng",
+        660.0
+    ],
+    "34": [
+        "ATLAng",
+        "IPLSng",
+        148.5
+    ],
+    "35": [
+        "CHINng",
+        "IPLSng",
+        407.0
+    ],
+    "36": [
+        "NYCMng",
+        "STTLng",
+        1548.0
+    ],
+    "37": [
+        "STTLng",
+        "WASHng",
+        387.0
+    ],
+    "38": [
+        "SNVAng",
+        "WASHng",
+        22.5
+    ],
+    "39": [
+        "DNVRng",
+        "LOSAng",
+        2340.0
+    ],
+    "4": [
+        "LOSAng",
+        "STTLng",
+        2064.0
+    ],
+    "40": [
+        "ATLAng",
+        "STTLng",
+        580.5
+    ],
+    "41": [
+        "CHINng",
+        "KSCYng",
+        277.5
+    ],
+    "42": [
+        "CHINng",
+        "HSTNng",
+        1757.5
+    ],
+    "43": [
+        "ATLAM5",
+        "LOSAng",
+        324.0
+    ],
+    "44": [
+        "CHINng",
+        "SNVAng",
+        92.5
+    ],
+    "45": [
+        "ATLAM5",
+        "HSTNng",
+        342.0
+    ],
+    "46": [
+        "ATLAng",
+        "SNVAng",
+        31.5
+    ],
+    "47": [
+        "ATLAM5",
+        "STTLng",
+        290.25
+    ],
+    "48": [
+        "DNVRng",
+        "HSTNng",
+        2223.0
+    ],
+    "49": [
+        "ATLAM5",
+        "ATLAng",
+        81.0
+    ],
+    "5": [
+        "LOSAng",
+        "SNVAng",
+        96.0
+    ],
+    "50": [
+        "CHINng",
+        "WASHng",
+        333.0
+    ],
+    "51": [
+        "DNVRng",
+        "SNVAng",
+        97.5
+    ],
+    "52": [
+        "HSTNng",
+        "SNVAng",
+        114.0
+    ],
+    "53": [
+        "HSTNng",
+        "NYCMng",
+        1710.0
+    ],
+    "54": [
+        "HSTNng",
+        "KSCYng",
+        285.0
+    ],
+    "55": [
+        "LOSAng",
+        "WASHng",
+        432.0
+    ],
+    "56": [
+        "DNVRng",
+        "STTLng",
+        1677.0
+    ],
+    "57": [
+        "ATLAng",
+        "DNVRng",
+        614.25
+    ],
+    "58": [
+        "ATLAng",
+        "KSCYng",
+        94.5
+    ],
+    "59": [
+        "NYCMng",
+        "WASHng",
+        243.0
+    ],
+    "6": [
+        "ATLAM5",
+        "KSCYng",
+        54.0
+    ],
+    "60": [
+        "ATLAM5",
+        "NYCMng",
+        243.0
+    ],
+    "61": [
+        "IPLSng",
+        "SNVAng",
+        33.0
+    ],
+    "62": [
+        "ATLAM5",
+        "DNVRng",
+        351.0
+    ],
+    "63": [
+        "CHINng",
+        "LOSAng",
+        1776.0
+    ],
+    "64": [
+        "DNVRng",
+        "NYCMng",
+        1755.0
+    ],
+    "65": [
+        "SNVAng",
+        "STTLng",
+        86.0
+    ],
+    "7": [
+        "CHINng",
+        "DNVRng",
+        1803.75
+    ],
+    "8": [
+        "KSCYng",
+        "NYCMng",
+        270.0
+    ],
+    "9": [
+        "HSTNng",
+        "IPLSng",
+        627.0
+    ]
+}

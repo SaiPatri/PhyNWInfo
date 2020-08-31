@@ -1,0 +1,486 @@
+{
+    "0": [
+        "Berlin",
+        "Bremen"
+    ],
+    "1": [
+        "Berlin",
+        "Dortmund"
+    ],
+    "2": [
+        "Berlin",
+        "Duesseldorf"
+    ],
+    "3": [
+        "Berlin",
+        "Essen"
+    ],
+    "4": [
+        "Berlin",
+        "Frankfurt"
+    ],
+    "5": [
+        "Berlin",
+        "Hamburg"
+    ],
+    "6": [
+        "Berlin",
+        "Hannover"
+    ],
+    "7": [
+        "Berlin",
+        "Karlsruhe"
+    ],
+    "8": [
+        "Berlin",
+        "Koeln"
+    ],
+    "9": [
+        "Berlin",
+        "Leipzig"
+    ],
+    "10": [
+        "Berlin",
+        "Mannheim"
+    ],
+    "11": [
+        "Berlin",
+        "Muenchen"
+    ],
+    "12": [
+        "Berlin",
+        "Nuernberg"
+    ],
+    "13": [
+        "Berlin",
+        "Stuttgart"
+    ],
+    "14": [
+        "Berlin",
+        "Ulm"
+    ],
+    "15": [
+        "Bremen",
+        "Dortmund"
+    ],
+    "16": [
+        "Bremen",
+        "Duesseldorf"
+    ],
+    "17": [
+        "Bremen",
+        "Essen"
+    ],
+    "18": [
+        "Bremen",
+        "Frankfurt"
+    ],
+    "19": [
+        "Bremen",
+        "Hamburg"
+    ],
+    "20": [
+        "Bremen",
+        "Hannover"
+    ],
+    "21": [
+        "Bremen",
+        "Karlsruhe"
+    ],
+    "22": [
+        "Bremen",
+        "Koeln"
+    ],
+    "23": [
+        "Bremen",
+        "Leipzig"
+    ],
+    "24": [
+        "Bremen",
+        "Mannheim"
+    ],
+    "25": [
+        "Bremen",
+        "Muenchen"
+    ],
+    "26": [
+        "Bremen",
+        "Nuernberg"
+    ],
+    "27": [
+        "Bremen",
+        "Stuttgart"
+    ],
+    "28": [
+        "Bremen",
+        "Ulm"
+    ],
+    "29": [
+        "Dortmund",
+        "Duesseldorf"
+    ],
+    "30": [
+        "Dortmund",
+        "Essen"
+    ],
+    "31": [
+        "Dortmund",
+        "Frankfurt"
+    ],
+    "32": [
+        "Dortmund",
+        "Hamburg"
+    ],
+    "33": [
+        "Dortmund",
+        "Hannover"
+    ],
+    "34": [
+        "Dortmund",
+        "Karlsruhe"
+    ],
+    "35": [
+        "Dortmund",
+        "Koeln"
+    ],
+    "36": [
+        "Dortmund",
+        "Leipzig"
+    ],
+    "37": [
+        "Dortmund",
+        "Mannheim"
+    ],
+    "38": [
+        "Dortmund",
+        "Muenchen"
+    ],
+    "39": [
+        "Dortmund",
+        "Nuernberg"
+    ],
+    "40": [
+        "Dortmund",
+        "Stuttgart"
+    ],
+    "41": [
+        "Dortmund",
+        "Ulm"
+    ],
+    "42": [
+        "Duesseldorf",
+        "Essen"
+    ],
+    "43": [
+        "Duesseldorf",
+        "Frankfurt"
+    ],
+    "44": [
+        "Duesseldorf",
+        "Hamburg"
+    ],
+    "45": [
+        "Duesseldorf",
+        "Hannover"
+    ],
+    "46": [
+        "Duesseldorf",
+        "Karlsruhe"
+    ],
+    "47": [
+        "Duesseldorf",
+        "Koeln"
+    ],
+    "48": [
+        "Duesseldorf",
+        "Leipzig"
+    ],
+    "49": [
+        "Duesseldorf",
+        "Mannheim"
+    ],
+    "50": [
+        "Duesseldorf",
+        "Muenchen"
+    ],
+    "51": [
+        "Duesseldorf",
+        "Nuernberg"
+    ],
+    "52": [
+        "Duesseldorf",
+        "Stuttgart"
+    ],
+    "53": [
+        "Duesseldorf",
+        "Ulm"
+    ],
+    "54": [
+        "Essen",
+        "Frankfurt"
+    ],
+    "55": [
+        "Essen",
+        "Hamburg"
+    ],
+    "56": [
+        "Essen",
+        "Hannover"
+    ],
+    "57": [
+        "Essen",
+        "Karlsruhe"
+    ],
+    "58": [
+        "Essen",
+        "Koeln"
+    ],
+    "59": [
+        "Essen",
+        "Leipzig"
+    ],
+    "60": [
+        "Essen",
+        "Mannheim"
+    ],
+    "61": [
+        "Essen",
+        "Muenchen"
+    ],
+    "62": [
+        "Essen",
+        "Nuernberg"
+    ],
+    "63": [
+        "Essen",
+        "Stuttgart"
+    ],
+    "64": [
+        "Essen",
+        "Ulm"
+    ],
+    "65": [
+        "Frankfurt",
+        "Hamburg"
+    ],
+    "66": [
+        "Frankfurt",
+        "Hannover"
+    ],
+    "67": [
+        "Frankfurt",
+        "Karlsruhe"
+    ],
+    "68": [
+        "Frankfurt",
+        "Koeln"
+    ],
+    "69": [
+        "Frankfurt",
+        "Leipzig"
+    ],
+    "70": [
+        "Frankfurt",
+        "Mannheim"
+    ],
+    "71": [
+        "Frankfurt",
+        "Muenchen"
+    ],
+    "72": [
+        "Frankfurt",
+        "Norden"
+    ],
+    "73": [
+        "Frankfurt",
+        "Nuernberg"
+    ],
+    "74": [
+        "Frankfurt",
+        "Stuttgart"
+    ],
+    "75": [
+        "Frankfurt",
+        "Ulm"
+    ],
+    "76": [
+        "Hamburg",
+        "Hannover"
+    ],
+    "77": [
+        "Hamburg",
+        "Karlsruhe"
+    ],
+    "78": [
+        "Hamburg",
+        "Koeln"
+    ],
+    "79": [
+        "Hamburg",
+        "Leipzig"
+    ],
+    "80": [
+        "Hamburg",
+        "Mannheim"
+    ],
+    "81": [
+        "Hamburg",
+        "Muenchen"
+    ],
+    "82": [
+        "Hamburg",
+        "Nuernberg"
+    ],
+    "83": [
+        "Hamburg",
+        "Stuttgart"
+    ],
+    "84": [
+        "Hamburg",
+        "Ulm"
+    ],
+    "85": [
+        "Hannover",
+        "Karlsruhe"
+    ],
+    "86": [
+        "Hannover",
+        "Koeln"
+    ],
+    "87": [
+        "Hannover",
+        "Leipzig"
+    ],
+    "88": [
+        "Hannover",
+        "Mannheim"
+    ],
+    "89": [
+        "Hannover",
+        "Muenchen"
+    ],
+    "90": [
+        "Hannover",
+        "Nuernberg"
+    ],
+    "91": [
+        "Hannover",
+        "Stuttgart"
+    ],
+    "92": [
+        "Hannover",
+        "Ulm"
+    ],
+    "93": [
+        "Karlsruhe",
+        "Koeln"
+    ],
+    "94": [
+        "Karlsruhe",
+        "Leipzig"
+    ],
+    "95": [
+        "Karlsruhe",
+        "Mannheim"
+    ],
+    "96": [
+        "Karlsruhe",
+        "Muenchen"
+    ],
+    "97": [
+        "Karlsruhe",
+        "Nuernberg"
+    ],
+    "98": [
+        "Karlsruhe",
+        "Stuttgart"
+    ],
+    "99": [
+        "Karlsruhe",
+        "Ulm"
+    ],
+    "100": [
+        "Koeln",
+        "Leipzig"
+    ],
+    "101": [
+        "Koeln",
+        "Mannheim"
+    ],
+    "102": [
+        "Koeln",
+        "Muenchen"
+    ],
+    "103": [
+        "Koeln",
+        "Nuernberg"
+    ],
+    "104": [
+        "Koeln",
+        "Stuttgart"
+    ],
+    "105": [
+        "Koeln",
+        "Ulm"
+    ],
+    "106": [
+        "Leipzig",
+        "Mannheim"
+    ],
+    "107": [
+        "Leipzig",
+        "Muenchen"
+    ],
+    "108": [
+        "Leipzig",
+        "Nuernberg"
+    ],
+    "109": [
+        "Leipzig",
+        "Stuttgart"
+    ],
+    "110": [
+        "Leipzig",
+        "Ulm"
+    ],
+    "111": [
+        "Mannheim",
+        "Muenchen"
+    ],
+    "112": [
+        "Mannheim",
+        "Nuernberg"
+    ],
+    "113": [
+        "Mannheim",
+        "Stuttgart"
+    ],
+    "114": [
+        "Mannheim",
+        "Ulm"
+    ],
+    "115": [
+        "Muenchen",
+        "Nuernberg"
+    ],
+    "116": [
+        "Muenchen",
+        "Stuttgart"
+    ],
+    "117": [
+        "Muenchen",
+        "Ulm"
+    ],
+    "118": [
+        "Nuernberg",
+        "Stuttgart"
+    ],
+    "119": [
+        "Nuernberg",
+        "Ulm"
+    ],
+    "120": [
+        "Stuttgart",
+        "Ulm"
+    ]
+}

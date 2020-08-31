@@ -1,0 +1,1419 @@
+{
+    "0": {
+        "linkNo": 0,
+        "startNode": "ATLAng",
+        "endNode": "ATLAM5",
+        "linkDist": 133.0,
+        "noChannels": 0,
+        "noSpans": 2,
+        "spanList": [
+            {
+                "LinkName": "Span_ATLAng_ATLAM5_1",
+                "FiberType": "G.652",
+                "SpanLength": 89.51859716576094,
+                "EDFAGain": 19.694091376467405,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_ATLAng_ATLAM5_2",
+                "FiberType": "G.652",
+                "SpanLength": 43.48140283423906,
+                "EDFAGain": 9.565908623532595,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "1": {
+        "linkNo": 1,
+        "startNode": "HSTNng",
+        "endNode": "ATLAng",
+        "linkDist": 1081.0,
+        "noChannels": 0,
+        "noSpans": 14,
+        "spanList": [
+            {
+                "LinkName": "Span_HSTNng_ATLAng_1",
+                "FiberType": "G.652",
+                "SpanLength": 98.54955391339524,
+                "EDFAGain": 21.680901860946953,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_2",
+                "FiberType": "G.652",
+                "SpanLength": 88.01955306627856,
+                "EDFAGain": 19.364301674581284,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_3",
+                "FiberType": "G.652",
+                "SpanLength": 79.14392005805608,
+                "EDFAGain": 17.411662412772337,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_4",
+                "FiberType": "G.652",
+                "SpanLength": 78.57430216475495,
+                "EDFAGain": 17.28634647624609,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_5",
+                "FiberType": "G.652",
+                "SpanLength": 77.16313693871022,
+                "EDFAGain": 16.975890126516248,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_6",
+                "FiberType": "G.652",
+                "SpanLength": 93.98599444869608,
+                "EDFAGain": 20.676918778713137,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_7",
+                "FiberType": "G.652",
+                "SpanLength": 75.30635376281592,
+                "EDFAGain": 16.5673978278195,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_8",
+                "FiberType": "G.652",
+                "SpanLength": 66.38992147841181,
+                "EDFAGain": 14.605782725250597,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_9",
+                "FiberType": "G.652",
+                "SpanLength": 77.55437832142981,
+                "EDFAGain": 17.061963230714557,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_10",
+                "FiberType": "G.652",
+                "SpanLength": 83.44621965999069,
+                "EDFAGain": 18.35816832519795,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_11",
+                "FiberType": "G.652",
+                "SpanLength": 94.14419664119367,
+                "EDFAGain": 20.71172326106261,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_12",
+                "FiberType": "G.652",
+                "SpanLength": 81.62099861308702,
+                "EDFAGain": 17.956619694879144,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_13",
+                "FiberType": "G.652",
+                "SpanLength": 69.26156193733846,
+                "EDFAGain": 15.23754362621446,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_HSTNng_ATLAng_14",
+                "FiberType": "G.652",
+                "SpanLength": 17.839908995841583,
+                "EDFAGain": 3.924779979085148,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "2": {
+        "linkNo": 2,
+        "startNode": "IPLSng",
+        "endNode": "ATLAng",
+        "linkDist": 591.0,
+        "noChannels": 0,
+        "noSpans": 8,
+        "spanList": [
+            {
+                "LinkName": "Span_IPLSng_ATLAng_1",
+                "FiberType": "G.652",
+                "SpanLength": 78.60648744722636,
+                "EDFAGain": 17.2934272383898,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_2",
+                "FiberType": "G.652",
+                "SpanLength": 53.2909560591098,
+                "EDFAGain": 11.724010333004157,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_3",
+                "FiberType": "G.652",
+                "SpanLength": 95.10289322376092,
+                "EDFAGain": 20.922636509227402,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_4",
+                "FiberType": "G.652",
+                "SpanLength": 78.47286299258683,
+                "EDFAGain": 17.264029858369103,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_5",
+                "FiberType": "G.652",
+                "SpanLength": 51.8443075360766,
+                "EDFAGain": 11.405747657936852,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_6",
+                "FiberType": "G.652",
+                "SpanLength": 89.79324341198318,
+                "EDFAGain": 19.7545135506363,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_7",
+                "FiberType": "G.652",
+                "SpanLength": 76.92926667102579,
+                "EDFAGain": 16.924438667625672,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_ATLAng_8",
+                "FiberType": "G.652",
+                "SpanLength": 66.95998265823054,
+                "EDFAGain": 14.73119618481072,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "3": {
+        "linkNo": 3,
+        "startNode": "WASHng",
+        "endNode": "ATLAng",
+        "linkDist": 901.0,
+        "noChannels": 0,
+        "noSpans": 12,
+        "spanList": [
+            {
+                "LinkName": "Span_WASHng_ATLAng_1",
+                "FiberType": "G.652",
+                "SpanLength": 93.05569269509482,
+                "EDFAGain": 20.47225239292086,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_2",
+                "FiberType": "G.652",
+                "SpanLength": 90.69650330474339,
+                "EDFAGain": 19.953230727043547,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_3",
+                "FiberType": "G.652",
+                "SpanLength": 87.9056014066428,
+                "EDFAGain": 19.339232309461416,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_4",
+                "FiberType": "G.652",
+                "SpanLength": 78.98590345365798,
+                "EDFAGain": 17.376898759804757,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_5",
+                "FiberType": "G.652",
+                "SpanLength": 66.53347168747159,
+                "EDFAGain": 14.63736377124375,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_6",
+                "FiberType": "G.652",
+                "SpanLength": 72.00170139487948,
+                "EDFAGain": 15.840374306873485,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_7",
+                "FiberType": "G.652",
+                "SpanLength": 85.94198671974911,
+                "EDFAGain": 18.907237078344803,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_8",
+                "FiberType": "G.652",
+                "SpanLength": 79.91240075033785,
+                "EDFAGain": 17.580728165074326,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_9",
+                "FiberType": "G.652",
+                "SpanLength": 76.5556440868792,
+                "EDFAGain": 16.842241699113423,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_10",
+                "FiberType": "G.652",
+                "SpanLength": 78.0261711424122,
+                "EDFAGain": 17.165757651330683,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_11",
+                "FiberType": "G.652",
+                "SpanLength": 65.92752882743112,
+                "EDFAGain": 14.504056342034845,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_ATLAng_12",
+                "FiberType": "G.652",
+                "SpanLength": 25.457394530700412,
+                "EDFAGain": 5.60062679675409,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "4": {
+        "linkNo": 4,
+        "startNode": "IPLSng",
+        "endNode": "CHINng",
+        "linkDist": 260.0,
+        "noChannels": 0,
+        "noSpans": 4,
+        "spanList": [
+            {
+                "LinkName": "Span_IPLSng_CHINng_1",
+                "FiberType": "G.652",
+                "SpanLength": 81.45134427793609,
+                "EDFAGain": 17.91929574114594,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_CHINng_2",
+                "FiberType": "G.652",
+                "SpanLength": 73.99379138114693,
+                "EDFAGain": 16.278634103852326,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_CHINng_3",
+                "FiberType": "G.652",
+                "SpanLength": 58.51376363148657,
+                "EDFAGain": 12.873027998927045,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_IPLSng_CHINng_4",
+                "FiberType": "G.652",
+                "SpanLength": 46.041100709430424,
+                "EDFAGain": 10.129042156074693,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "5": {
+        "linkNo": 5,
+        "startNode": "NYCMng",
+        "endNode": "CHINng",
+        "linkDist": 1147.0,
+        "noChannels": 0,
+        "noSpans": 14,
+        "spanList": [
+            {
+                "LinkName": "Span_NYCMng_CHINng_1",
+                "FiberType": "G.652",
+                "SpanLength": 86.37202627070567,
+                "EDFAGain": 19.00184577955525,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_2",
+                "FiberType": "G.652",
+                "SpanLength": 86.32954561851022,
+                "EDFAGain": 18.99250003607225,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_3",
+                "FiberType": "G.652",
+                "SpanLength": 94.33273307201519,
+                "EDFAGain": 20.75320127584334,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_4",
+                "FiberType": "G.652",
+                "SpanLength": 82.34483244105716,
+                "EDFAGain": 18.115863137032576,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_5",
+                "FiberType": "G.652",
+                "SpanLength": 84.44900812735575,
+                "EDFAGain": 18.578781788018265,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_6",
+                "FiberType": "G.652",
+                "SpanLength": 95.20431910542109,
+                "EDFAGain": 20.94495020319264,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_7",
+                "FiberType": "G.652",
+                "SpanLength": 82.77682594407527,
+                "EDFAGain": 18.21090170769656,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_8",
+                "FiberType": "G.652",
+                "SpanLength": 82.29071259164903,
+                "EDFAGain": 18.103956770162785,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_9",
+                "FiberType": "G.652",
+                "SpanLength": 84.92977735173844,
+                "EDFAGain": 18.684551017382457,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_10",
+                "FiberType": "G.652",
+                "SpanLength": 84.58758576301503,
+                "EDFAGain": 18.609268867863307,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_11",
+                "FiberType": "G.652",
+                "SpanLength": 91.49412042731203,
+                "EDFAGain": 20.128706494008647,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_12",
+                "FiberType": "G.652",
+                "SpanLength": 90.76776028170934,
+                "EDFAGain": 19.968907261976057,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_13",
+                "FiberType": "G.652",
+                "SpanLength": 82.09518207243376,
+                "EDFAGain": 18.060940055935426,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_NYCMng_CHINng_14",
+                "FiberType": "G.652",
+                "SpanLength": 19.0255709330019,
+                "EDFAGain": 4.185625605260419,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "6": {
+        "linkNo": 6,
+        "startNode": "KSCYng",
+        "endNode": "DNVRng",
+        "linkDist": 745.0,
+        "noChannels": 0,
+        "noSpans": 10,
+        "spanList": [
+            {
+                "LinkName": "Span_KSCYng_DNVRng_1",
+                "FiberType": "G.652",
+                "SpanLength": 78.87497044042726,
+                "EDFAGain": 17.352493496894,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_2",
+                "FiberType": "G.652",
+                "SpanLength": 73.18873035214887,
+                "EDFAGain": 16.101520677472752,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_3",
+                "FiberType": "G.652",
+                "SpanLength": 89.74148044581017,
+                "EDFAGain": 19.743125698078238,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_4",
+                "FiberType": "G.652",
+                "SpanLength": 85.86808934902,
+                "EDFAGain": 18.8909796567844,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_5",
+                "FiberType": "G.652",
+                "SpanLength": 84.3197133777431,
+                "EDFAGain": 18.55033694310348,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_6",
+                "FiberType": "G.652",
+                "SpanLength": 66.0071218896389,
+                "EDFAGain": 14.521566815720558,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_7",
+                "FiberType": "G.652",
+                "SpanLength": 81.03040964770899,
+                "EDFAGain": 17.82669012249598,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_8",
+                "FiberType": "G.652",
+                "SpanLength": 101.39607743176131,
+                "EDFAGain": 22.307137034987488,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_9",
+                "FiberType": "G.652",
+                "SpanLength": 73.25390223829118,
+                "EDFAGain": 16.11585849242406,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_DNVRng_10",
+                "FiberType": "G.652",
+                "SpanLength": 11.319504827450231,
+                "EDFAGain": 2.490291062039051,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "7": {
+        "linkNo": 7,
+        "startNode": "SNVAng",
+        "endNode": "DNVRng",
+        "linkDist": 1516.0,
+        "noChannels": 0,
+        "noSpans": 18,
+        "spanList": [
+            {
+                "LinkName": "Span_SNVAng_DNVRng_1",
+                "FiberType": "G.652",
+                "SpanLength": 79.82387340701688,
+                "EDFAGain": 17.561252149543712,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_2",
+                "FiberType": "G.652",
+                "SpanLength": 89.92266624291274,
+                "EDFAGain": 19.7829865734408,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_3",
+                "FiberType": "G.652",
+                "SpanLength": 94.73861586910827,
+                "EDFAGain": 20.84249549120382,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_4",
+                "FiberType": "G.652",
+                "SpanLength": 71.82305293512405,
+                "EDFAGain": 15.801071645727292,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_5",
+                "FiberType": "G.652",
+                "SpanLength": 93.65436338724977,
+                "EDFAGain": 20.60395994519495,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_6",
+                "FiberType": "G.652",
+                "SpanLength": 81.2180833376688,
+                "EDFAGain": 17.867978334287137,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_7",
+                "FiberType": "G.652",
+                "SpanLength": 84.84431862972922,
+                "EDFAGain": 18.66575009854043,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_8",
+                "FiberType": "G.652",
+                "SpanLength": 74.61568035727785,
+                "EDFAGain": 16.415449678601128,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_9",
+                "FiberType": "G.652",
+                "SpanLength": 84.89046561682986,
+                "EDFAGain": 18.675902435702568,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_10",
+                "FiberType": "G.652",
+                "SpanLength": 60.99946396700361,
+                "EDFAGain": 13.419882072740794,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_11",
+                "FiberType": "G.652",
+                "SpanLength": 79.15844720361224,
+                "EDFAGain": 17.414858384794695,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_12",
+                "FiberType": "G.652",
+                "SpanLength": 93.68646232605107,
+                "EDFAGain": 20.611021711731237,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_13",
+                "FiberType": "G.652",
+                "SpanLength": 85.75365789980154,
+                "EDFAGain": 18.86580473795634,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_14",
+                "FiberType": "G.652",
+                "SpanLength": 91.12192574470191,
+                "EDFAGain": 20.04682366383442,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_15",
+                "FiberType": "G.652",
+                "SpanLength": 99.88085500873711,
+                "EDFAGain": 21.973788101922164,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_16",
+                "FiberType": "G.652",
+                "SpanLength": 84.46448131061092,
+                "EDFAGain": 18.582185888334404,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_17",
+                "FiberType": "G.652",
+                "SpanLength": 93.95313128684815,
+                "EDFAGain": 20.66968888310659,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_DNVRng_18",
+                "FiberType": "G.652",
+                "SpanLength": 71.45045546971603,
+                "EDFAGain": 15.719100203337527,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "8": {
+        "linkNo": 8,
+        "startNode": "STTLng",
+        "endNode": "DNVRng",
+        "linkDist": 1573.0,
+        "noChannels": 0,
+        "noSpans": 20,
+        "spanList": [
+            {
+                "LinkName": "Span_STTLng_DNVRng_1",
+                "FiberType": "G.652",
+                "SpanLength": 68.00338486776616,
+                "EDFAGain": 14.960744670908555,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_2",
+                "FiberType": "G.652",
+                "SpanLength": 64.89377473894278,
+                "EDFAGain": 14.276630442567411,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_3",
+                "FiberType": "G.652",
+                "SpanLength": 76.00524121905163,
+                "EDFAGain": 16.72115306819136,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_4",
+                "FiberType": "G.652",
+                "SpanLength": 81.80865766625656,
+                "EDFAGain": 17.997904686576444,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_5",
+                "FiberType": "G.652",
+                "SpanLength": 80.31239745053175,
+                "EDFAGain": 17.668727439116985,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_6",
+                "FiberType": "G.652",
+                "SpanLength": 79.77174126282243,
+                "EDFAGain": 17.549783077820933,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_7",
+                "FiberType": "G.652",
+                "SpanLength": 93.73793343441777,
+                "EDFAGain": 20.62234535557191,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_8",
+                "FiberType": "G.652",
+                "SpanLength": 87.20878540427438,
+                "EDFAGain": 19.185932788940363,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_9",
+                "FiberType": "G.652",
+                "SpanLength": 104.75153877335089,
+                "EDFAGain": 23.045338530137194,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_10",
+                "FiberType": "G.652",
+                "SpanLength": 77.5974096969762,
+                "EDFAGain": 17.071430133334765,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_11",
+                "FiberType": "G.652",
+                "SpanLength": 75.56028155971191,
+                "EDFAGain": 16.62326194313662,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_12",
+                "FiberType": "G.652",
+                "SpanLength": 65.0054692426987,
+                "EDFAGain": 14.301203233393712,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_13",
+                "FiberType": "G.652",
+                "SpanLength": 83.81672561653656,
+                "EDFAGain": 18.439679635638043,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_14",
+                "FiberType": "G.652",
+                "SpanLength": 80.26328989731803,
+                "EDFAGain": 17.657923777409966,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_15",
+                "FiberType": "G.652",
+                "SpanLength": 75.85832932516811,
+                "EDFAGain": 16.688832451536985,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_16",
+                "FiberType": "G.652",
+                "SpanLength": 70.01180528572107,
+                "EDFAGain": 15.402597162858635,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_17",
+                "FiberType": "G.652",
+                "SpanLength": 84.38713530165467,
+                "EDFAGain": 18.565169766364026,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_18",
+                "FiberType": "G.652",
+                "SpanLength": 71.89395480281907,
+                "EDFAGain": 15.816670056620195,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_19",
+                "FiberType": "G.652",
+                "SpanLength": 88.75410906137128,
+                "EDFAGain": 19.525903993501682,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_DNVRng_20",
+                "FiberType": "G.652",
+                "SpanLength": 63.35803539260988,
+                "EDFAGain": 13.938767786374173,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "9": {
+        "linkNo": 9,
+        "startNode": "KSCYng",
+        "endNode": "HSTNng",
+        "linkDist": 1028.0,
+        "noChannels": 0,
+        "noSpans": 13,
+        "spanList": [
+            {
+                "LinkName": "Span_KSCYng_HSTNng_1",
+                "FiberType": "G.652",
+                "SpanLength": 79.29901494978066,
+                "EDFAGain": 17.445783288951745,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_2",
+                "FiberType": "G.652",
+                "SpanLength": 81.74460318217541,
+                "EDFAGain": 17.98381270007859,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_3",
+                "FiberType": "G.652",
+                "SpanLength": 96.76022814569501,
+                "EDFAGain": 21.287250192052902,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_4",
+                "FiberType": "G.652",
+                "SpanLength": 78.46973799090003,
+                "EDFAGain": 17.263342357998006,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_5",
+                "FiberType": "G.652",
+                "SpanLength": 78.47755493207848,
+                "EDFAGain": 17.265062085057266,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_6",
+                "FiberType": "G.652",
+                "SpanLength": 89.59157192354053,
+                "EDFAGain": 19.710145823178916,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_7",
+                "FiberType": "G.652",
+                "SpanLength": 88.18159219602701,
+                "EDFAGain": 19.399950283125943,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_8",
+                "FiberType": "G.652",
+                "SpanLength": 75.47765563048755,
+                "EDFAGain": 16.60508423870726,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_9",
+                "FiberType": "G.652",
+                "SpanLength": 80.61384727096521,
+                "EDFAGain": 17.735046399612347,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_10",
+                "FiberType": "G.652",
+                "SpanLength": 77.87960707149762,
+                "EDFAGain": 17.133513555729476,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_11",
+                "FiberType": "G.652",
+                "SpanLength": 89.00635006196039,
+                "EDFAGain": 19.581397013631285,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_12",
+                "FiberType": "G.652",
+                "SpanLength": 94.14908227459199,
+                "EDFAGain": 20.71279810041024,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_HSTNng_13",
+                "FiberType": "G.652",
+                "SpanLength": 18.349154370299985,
+                "EDFAGain": 4.036813961465997,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "10": {
+        "linkNo": 10,
+        "startNode": "LOSAng",
+        "endNode": "HSTNng",
+        "linkDist": 2196.0,
+        "noChannels": 0,
+        "noSpans": 28,
+        "spanList": [
+            {
+                "LinkName": "Span_LOSAng_HSTNng_1",
+                "FiberType": "G.652",
+                "SpanLength": 67.94408217608377,
+                "EDFAGain": 14.947698078738428,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_2",
+                "FiberType": "G.652",
+                "SpanLength": 81.80450719237139,
+                "EDFAGain": 17.996991582321705,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_3",
+                "FiberType": "G.652",
+                "SpanLength": 68.8568491424366,
+                "EDFAGain": 15.148506811336052,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_4",
+                "FiberType": "G.652",
+                "SpanLength": 68.7464315636277,
+                "EDFAGain": 15.124214943998092,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_5",
+                "FiberType": "G.652",
+                "SpanLength": 93.13330318818811,
+                "EDFAGain": 20.489326701401385,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_6",
+                "FiberType": "G.652",
+                "SpanLength": 90.14393515451407,
+                "EDFAGain": 19.831665733993095,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_7",
+                "FiberType": "G.652",
+                "SpanLength": 61.31000075781637,
+                "EDFAGain": 13.4882001667196,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_8",
+                "FiberType": "G.652",
+                "SpanLength": 87.02464572533219,
+                "EDFAGain": 19.145422059573082,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_9",
+                "FiberType": "G.652",
+                "SpanLength": 71.02242953541896,
+                "EDFAGain": 15.624934497792172,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_10",
+                "FiberType": "G.652",
+                "SpanLength": 75.04066262278347,
+                "EDFAGain": 16.508945777012364,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_11",
+                "FiberType": "G.652",
+                "SpanLength": 89.67479811678774,
+                "EDFAGain": 19.728455585693304,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_12",
+                "FiberType": "G.652",
+                "SpanLength": 71.69359110155874,
+                "EDFAGain": 15.772590042342923,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_13",
+                "FiberType": "G.652",
+                "SpanLength": 66.68745285323828,
+                "EDFAGain": 14.671239627712422,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_14",
+                "FiberType": "G.652",
+                "SpanLength": 75.93340944666639,
+                "EDFAGain": 16.705350078266605,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_15",
+                "FiberType": "G.652",
+                "SpanLength": 68.64244308752708,
+                "EDFAGain": 15.101337479255958,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_16",
+                "FiberType": "G.652",
+                "SpanLength": 91.0778382693102,
+                "EDFAGain": 20.037124419248247,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_17",
+                "FiberType": "G.652",
+                "SpanLength": 50.83664211560804,
+                "EDFAGain": 11.184061265433769,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_18",
+                "FiberType": "G.652",
+                "SpanLength": 81.22054521010635,
+                "EDFAGain": 17.868519946223397,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_19",
+                "FiberType": "G.652",
+                "SpanLength": 85.27943890922708,
+                "EDFAGain": 18.76147656002996,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_20",
+                "FiberType": "G.652",
+                "SpanLength": 81.58712631624006,
+                "EDFAGain": 17.94916778957281,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_21",
+                "FiberType": "G.652",
+                "SpanLength": 92.41608770193595,
+                "EDFAGain": 20.33153929442591,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_22",
+                "FiberType": "G.652",
+                "SpanLength": 78.26223757114977,
+                "EDFAGain": 17.21769226565295,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_23",
+                "FiberType": "G.652",
+                "SpanLength": 86.70620888591687,
+                "EDFAGain": 19.07536595490171,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_24",
+                "FiberType": "G.652",
+                "SpanLength": 85.97289809672321,
+                "EDFAGain": 18.914037581279107,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_25",
+                "FiberType": "G.652",
+                "SpanLength": 77.70103828232277,
+                "EDFAGain": 17.09422842211101,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_26",
+                "FiberType": "G.652",
+                "SpanLength": 97.75725401417947,
+                "EDFAGain": 21.506595883119484,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_27",
+                "FiberType": "G.652",
+                "SpanLength": 78.23456997836136,
+                "EDFAGain": 17.2116053952395,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_LOSAng_HSTNng_28",
+                "FiberType": "G.652",
+                "SpanLength": 71.28957298456807,
+                "EDFAGain": 15.683706056604976,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "11": {
+        "linkNo": 11,
+        "startNode": "KSCYng",
+        "endNode": "IPLSng",
+        "linkDist": 903.0,
+        "noChannels": 0,
+        "noSpans": 12,
+        "spanList": [
+            {
+                "LinkName": "Span_KSCYng_IPLSng_1",
+                "FiberType": "G.652",
+                "SpanLength": 79.57394795155872,
+                "EDFAGain": 17.50626854934292,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_2",
+                "FiberType": "G.652",
+                "SpanLength": 85.39262578583558,
+                "EDFAGain": 18.786377672883827,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_3",
+                "FiberType": "G.652",
+                "SpanLength": 85.16111317141048,
+                "EDFAGain": 18.735444897710305,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_4",
+                "FiberType": "G.652",
+                "SpanLength": 77.51802087706409,
+                "EDFAGain": 17.0539645929541,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_5",
+                "FiberType": "G.652",
+                "SpanLength": 84.69868493437805,
+                "EDFAGain": 18.63371068556317,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_6",
+                "FiberType": "G.652",
+                "SpanLength": 74.54633222149629,
+                "EDFAGain": 16.400193088729182,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_7",
+                "FiberType": "G.652",
+                "SpanLength": 101.77988778929316,
+                "EDFAGain": 22.391575313644495,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_8",
+                "FiberType": "G.652",
+                "SpanLength": 85.53800223333471,
+                "EDFAGain": 18.818360491333635,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_9",
+                "FiberType": "G.652",
+                "SpanLength": 83.77844130308199,
+                "EDFAGain": 18.431257086678038,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_10",
+                "FiberType": "G.652",
+                "SpanLength": 64.10547541768776,
+                "EDFAGain": 14.103204591891307,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_11",
+                "FiberType": "G.652",
+                "SpanLength": 73.80633411540174,
+                "EDFAGain": 16.237393505388383,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_KSCYng_IPLSng_12",
+                "FiberType": "G.652",
+                "SpanLength": 7.101134199457533,
+                "EDFAGain": 1.5622495238806573,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "12": {
+        "linkNo": 12,
+        "startNode": "SNVAng",
+        "endNode": "LOSAng",
+        "linkDist": 505.0,
+        "noChannels": 0,
+        "noSpans": 7,
+        "spanList": [
+            {
+                "LinkName": "Span_SNVAng_LOSAng_1",
+                "FiberType": "G.652",
+                "SpanLength": 87.8118458931115,
+                "EDFAGain": 19.31860609648453,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_LOSAng_2",
+                "FiberType": "G.652",
+                "SpanLength": 79.22138594473665,
+                "EDFAGain": 17.428704907842064,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_LOSAng_3",
+                "FiberType": "G.652",
+                "SpanLength": 83.94912414485113,
+                "EDFAGain": 18.46880731186725,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_LOSAng_4",
+                "FiberType": "G.652",
+                "SpanLength": 66.78118863237853,
+                "EDFAGain": 14.691861499123277,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_LOSAng_5",
+                "FiberType": "G.652",
+                "SpanLength": 78.7822680363219,
+                "EDFAGain": 17.332098967990817,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_LOSAng_6",
+                "FiberType": "G.652",
+                "SpanLength": 88.36231075558669,
+                "EDFAGain": 19.439708366229073,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_SNVAng_LOSAng_7",
+                "FiberType": "G.652",
+                "SpanLength": 20.09187659301365,
+                "EDFAGain": 4.420212850463003,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "13": {
+        "linkNo": 13,
+        "startNode": "WASHng",
+        "endNode": "NYCMng",
+        "linkDist": 336.0,
+        "noChannels": 0,
+        "noSpans": 5,
+        "spanList": [
+            {
+                "LinkName": "Span_WASHng_NYCMng_1",
+                "FiberType": "G.652",
+                "SpanLength": 67.85093449321246,
+                "EDFAGain": 14.927205588506743,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_NYCMng_2",
+                "FiberType": "G.652",
+                "SpanLength": 93.70367964495034,
+                "EDFAGain": 20.614809521889075,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_NYCMng_3",
+                "FiberType": "G.652",
+                "SpanLength": 77.90409488614979,
+                "EDFAGain": 17.138900874952956,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_NYCMng_4",
+                "FiberType": "G.652",
+                "SpanLength": 80.74301790329106,
+                "EDFAGain": 17.763463938724033,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_WASHng_NYCMng_5",
+                "FiberType": "G.652",
+                "SpanLength": 15.79827307239637,
+                "EDFAGain": 3.4756200759272016,
+                "attnDB": 0.22
+            }
+        ]
+    },
+    "14": {
+        "linkNo": 14,
+        "startNode": "STTLng",
+        "endNode": "SNVAng",
+        "linkDist": 1138.0,
+        "noChannels": 0,
+        "noSpans": 14,
+        "spanList": [
+            {
+                "LinkName": "Span_STTLng_SNVAng_1",
+                "FiberType": "G.652",
+                "SpanLength": 83.38796392542888,
+                "EDFAGain": 18.345352063594355,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_2",
+                "FiberType": "G.652",
+                "SpanLength": 83.98518930959283,
+                "EDFAGain": 18.476741648110423,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_3",
+                "FiberType": "G.652",
+                "SpanLength": 97.0628564820079,
+                "EDFAGain": 21.353828426041737,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_4",
+                "FiberType": "G.652",
+                "SpanLength": 86.18426955737826,
+                "EDFAGain": 18.960539302623218,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_5",
+                "FiberType": "G.652",
+                "SpanLength": 89.60558936501153,
+                "EDFAGain": 19.713229660302535,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_6",
+                "FiberType": "G.652",
+                "SpanLength": 87.44720098825444,
+                "EDFAGain": 19.238384217415977,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_7",
+                "FiberType": "G.652",
+                "SpanLength": 91.7095268419616,
+                "EDFAGain": 20.176095905231552,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_8",
+                "FiberType": "G.652",
+                "SpanLength": 75.94403793214673,
+                "EDFAGain": 16.70768834507228,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_9",
+                "FiberType": "G.652",
+                "SpanLength": 80.28503417379312,
+                "EDFAGain": 17.662707518234487,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_10",
+                "FiberType": "G.652",
+                "SpanLength": 72.52115863773236,
+                "EDFAGain": 15.954654900301119,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_11",
+                "FiberType": "G.652",
+                "SpanLength": 85.09677815735432,
+                "EDFAGain": 18.72129119461795,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_12",
+                "FiberType": "G.652",
+                "SpanLength": 80.28731648208863,
+                "EDFAGain": 17.663209626059498,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_13",
+                "FiberType": "G.652",
+                "SpanLength": 66.03295665211604,
+                "EDFAGain": 14.52725046346553,
+                "attnDB": 0.22
+            },
+            {
+                "LinkName": "Span_STTLng_SNVAng_14",
+                "FiberType": "G.652",
+                "SpanLength": 58.450121495133445,
+                "EDFAGain": 12.859026728929358,
+                "attnDB": 0.22
+            }
+        ]
+    }
+}

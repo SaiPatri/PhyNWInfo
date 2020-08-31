@@ -1,0 +1,3312 @@
+{
+    "0": [
+        "Essen",
+        "Duesseldorf",
+        132.0
+    ],
+    "1": [
+        "Essen",
+        "Koeln",
+        12.0
+    ],
+    "10": [
+        "Essen",
+        "Dresden",
+        17.5
+    ],
+    "100": [
+        "Koeln",
+        "Mannheim",
+        160.0
+    ],
+    "101": [
+        "Koeln",
+        "Kaiserslautern",
+        7.0
+    ],
+    "102": [
+        "Koeln",
+        "Giessen",
+        14.0
+    ],
+    "103": [
+        "Koeln",
+        "Trier",
+        6.0
+    ],
+    "104": [
+        "Koeln",
+        "Fulda",
+        14.0
+    ],
+    "105": [
+        "Koeln",
+        "Saarbruecken",
+        18.0
+    ],
+    "106": [
+        "Koeln",
+        "Stuttgart",
+        91.0
+    ],
+    "107": [
+        "Koeln",
+        "Karlsruhe",
+        16.0
+    ],
+    "108": [
+        "Koeln",
+        "Ulm",
+        80.0
+    ],
+    "109": [
+        "Koeln",
+        "Konstanz",
+        12.0
+    ],
+    "11": [
+        "Essen",
+        "Erfurt",
+        8.0
+    ],
+    "110": [
+        "Koeln",
+        "Freiburg",
+        80.0
+    ],
+    "111": [
+        "Koeln",
+        "Muenchen",
+        152.0
+    ],
+    "112": [
+        "Koeln",
+        "Augsburg",
+        12.0
+    ],
+    "113": [
+        "Koeln",
+        "Kempten",
+        80.0
+    ],
+    "114": [
+        "Koeln",
+        "Nuernberg",
+        91.0
+    ],
+    "115": [
+        "Koeln",
+        "Bayreuth",
+        12.0
+    ],
+    "116": [
+        "Koeln",
+        "Wuerzburg",
+        16.0
+    ],
+    "117": [
+        "Koeln",
+        "Regensburg",
+        12.0
+    ],
+    "118": [
+        "Dortmund",
+        "Aachen",
+        8.75
+    ],
+    "119": [
+        "Dortmund",
+        "Muenster",
+        22.5
+    ],
+    "12": [
+        "Essen",
+        "Chemnitz",
+        3.0
+    ],
+    "120": [
+        "Dortmund",
+        "Koblenz",
+        22.5
+    ],
+    "121": [
+        "Dortmund",
+        "Siegen",
+        8.75
+    ],
+    "122": [
+        "Dortmund",
+        "Wesel",
+        10.0
+    ],
+    "123": [
+        "Dortmund",
+        "Berlin",
+        101.25
+    ],
+    "124": [
+        "Dortmund",
+        "Leipzig",
+        78.75
+    ],
+    "125": [
+        "Dortmund",
+        "Dresden",
+        50.0
+    ],
+    "126": [
+        "Dortmund",
+        "Erfurt",
+        22.5
+    ],
+    "127": [
+        "Dortmund",
+        "Chemnitz",
+        8.75
+    ],
+    "128": [
+        "Dortmund",
+        "Schwerin",
+        11.25
+    ],
+    "129": [
+        "Dortmund",
+        "Magdeburg",
+        10.0
+    ],
+    "13": [
+        "Essen",
+        "Schwerin",
+        4.0
+    ],
+    "130": [
+        "Dortmund",
+        "Greifswald",
+        7.5
+    ],
+    "131": [
+        "Dortmund",
+        "Hamburg",
+        120.0
+    ],
+    "132": [
+        "Dortmund",
+        "Bremen",
+        26.25
+    ],
+    "133": [
+        "Dortmund",
+        "Kiel",
+        26.25
+    ],
+    "134": [
+        "Dortmund",
+        "Oldenburg",
+        20.0
+    ],
+    "135": [
+        "Dortmund",
+        "Flensburg",
+        7.5
+    ],
+    "136": [
+        "Dortmund",
+        "Bremerhaven",
+        15.0
+    ],
+    "137": [
+        "Dortmund",
+        "Norden",
+        30.0
+    ],
+    "138": [
+        "Dortmund",
+        "Hannover",
+        33.75
+    ],
+    "139": [
+        "Dortmund",
+        "Bielefeld",
+        20.0
+    ],
+    "14": [
+        "Essen",
+        "Magdeburg",
+        3.5
+    ],
+    "140": [
+        "Dortmund",
+        "Braunschweig",
+        33.75
+    ],
+    "141": [
+        "Dortmund",
+        "Osnabrueck",
+        8.75
+    ],
+    "142": [
+        "Dortmund",
+        "Kassel",
+        10.0
+    ],
+    "143": [
+        "Dortmund",
+        "Frankfurt",
+        220.0
+    ],
+    "144": [
+        "Dortmund",
+        "Darmstadt",
+        35.0
+    ],
+    "145": [
+        "Dortmund",
+        "Mannheim",
+        30.0
+    ],
+    "146": [
+        "Dortmund",
+        "Giessen",
+        20.0
+    ],
+    "147": [
+        "Dortmund",
+        "Fulda",
+        20.0
+    ],
+    "148": [
+        "Dortmund",
+        "Saarbruecken",
+        26.25
+    ],
+    "149": [
+        "Dortmund",
+        "Stuttgart",
+        130.0
+    ],
+    "15": [
+        "Essen",
+        "Hamburg",
+        42.0
+    ],
+    "150": [
+        "Dortmund",
+        "Karlsruhe",
+        22.5
+    ],
+    "151": [
+        "Dortmund",
+        "Ulm",
+        15.0
+    ],
+    "152": [
+        "Dortmund",
+        "Freiburg",
+        15.0
+    ],
+    "153": [
+        "Dortmund",
+        "Muenchen",
+        213.75
+    ],
+    "154": [
+        "Dortmund",
+        "Augsburg",
+        17.5
+    ],
+    "155": [
+        "Dortmund",
+        "Nuernberg",
+        130.0
+    ],
+    "156": [
+        "Dortmund",
+        "Wuerzburg",
+        22.5
+    ],
+    "157": [
+        "Aachen",
+        "Muenster",
+        4.5
+    ],
+    "158": [
+        "Aachen",
+        "Koblenz",
+        4.0
+    ],
+    "159": [
+        "Aachen",
+        "Wesel",
+        1.5
+    ],
+    "16": [
+        "Essen",
+        "Bremen",
+        9.0
+    ],
+    "160": [
+        "Aachen",
+        "Berlin",
+        18.0
+    ],
+    "161": [
+        "Aachen",
+        "Dresden",
+        8.75
+    ],
+    "162": [
+        "Aachen",
+        "Erfurt",
+        4.0
+    ],
+    "163": [
+        "Aachen",
+        "Hamburg",
+        21.0
+    ],
+    "164": [
+        "Aachen",
+        "Bremerhaven",
+        20.0
+    ],
+    "165": [
+        "Aachen",
+        "Norden",
+        40.0
+    ],
+    "166": [
+        "Aachen",
+        "Osnabrueck",
+        1.5
+    ],
+    "167": [
+        "Aachen",
+        "Frankfurt",
+        38.5
+    ],
+    "168": [
+        "Aachen",
+        "Kaiserslautern",
+        1.75
+    ],
+    "169": [
+        "Aachen",
+        "Trier",
+        10.0
+    ],
+    "17": [
+        "Essen",
+        "Kiel",
+        9.0
+    ],
+    "170": [
+        "Aachen",
+        "Fulda",
+        3.5
+    ],
+    "171": [
+        "Aachen",
+        "Saarbruecken",
+        4.5
+    ],
+    "172": [
+        "Aachen",
+        "Konstanz",
+        3.0
+    ],
+    "173": [
+        "Aachen",
+        "Freiburg",
+        20.0
+    ],
+    "174": [
+        "Aachen",
+        "Nuernberg",
+        22.75
+    ],
+    "175": [
+        "Muenster",
+        "Siegen",
+        5.25
+    ],
+    "176": [
+        "Muenster",
+        "Wesel",
+        5.25
+    ],
+    "177": [
+        "Muenster",
+        "Berlin",
+        54.0
+    ],
+    "178": [
+        "Muenster",
+        "Schwerin",
+        6.0
+    ],
+    "179": [
+        "Muenster",
+        "Hamburg",
+        63.0
+    ],
+    "18": [
+        "Essen",
+        "Norden",
+        80.0
+    ],
+    "180": [
+        "Muenster",
+        "Bremen",
+        13.5
+    ],
+    "181": [
+        "Muenster",
+        "Bremerhaven",
+        60.0
+    ],
+    "182": [
+        "Muenster",
+        "Norden",
+        120.0
+    ],
+    "183": [
+        "Muenster",
+        "Hannover",
+        18.0
+    ],
+    "184": [
+        "Muenster",
+        "Bielefeld",
+        9.0
+    ],
+    "185": [
+        "Muenster",
+        "Osnabrueck",
+        30.0
+    ],
+    "186": [
+        "Muenster",
+        "Kassel",
+        6.0
+    ],
+    "187": [
+        "Muenster",
+        "Frankfurt",
+        115.5
+    ],
+    "188": [
+        "Muenster",
+        "Fulda",
+        10.5
+    ],
+    "189": [
+        "Muenster",
+        "Konstanz",
+        9.0
+    ],
+    "19": [
+        "Essen",
+        "Hannover",
+        12.0
+    ],
+    "190": [
+        "Muenster",
+        "Nuernberg",
+        68.25
+    ],
+    "191": [
+        "Koblenz",
+        "Siegen",
+        4.0
+    ],
+    "192": [
+        "Koblenz",
+        "Berlin",
+        45.0
+    ],
+    "193": [
+        "Koblenz",
+        "Dresden",
+        22.5
+    ],
+    "194": [
+        "Koblenz",
+        "Hamburg",
+        54.0
+    ],
+    "195": [
+        "Koblenz",
+        "Bremerhaven",
+        7.0
+    ],
+    "196": [
+        "Koblenz",
+        "Norden",
+        14.0
+    ],
+    "197": [
+        "Koblenz",
+        "Bielefeld",
+        9.0
+    ],
+    "198": [
+        "Koblenz",
+        "Osnabrueck",
+        4.0
+    ],
+    "199": [
+        "Koblenz",
+        "Kassel",
+        5.0
+    ],
+    "2": [
+        "Essen",
+        "Dortmund",
+        15.0
+    ],
+    "20": [
+        "Essen",
+        "Bielefeld",
+        7.0
+    ],
+    "200": [
+        "Koblenz",
+        "Frankfurt",
+        88.0
+    ],
+    "201": [
+        "Koblenz",
+        "Darmstadt",
+        16.0
+    ],
+    "202": [
+        "Koblenz",
+        "Mannheim",
+        14.0
+    ],
+    "203": [
+        "Koblenz",
+        "Kaiserslautern",
+        4.0
+    ],
+    "204": [
+        "Koblenz",
+        "Giessen",
+        9.0
+    ],
+    "205": [
+        "Koblenz",
+        "Trier",
+        3.5
+    ],
+    "206": [
+        "Koblenz",
+        "Fulda",
+        9.0
+    ],
+    "207": [
+        "Koblenz",
+        "Saarbruecken",
+        12.0
+    ],
+    "208": [
+        "Koblenz",
+        "Konstanz",
+        8.0
+    ],
+    "209": [
+        "Koblenz",
+        "Wuerzburg",
+        10.0
+    ],
+    "21": [
+        "Essen",
+        "Osnabrueck",
+        3.0
+    ],
+    "210": [
+        "Siegen",
+        "Berlin",
+        20.25
+    ],
+    "211": [
+        "Siegen",
+        "Hamburg",
+        24.0
+    ],
+    "212": [
+        "Siegen",
+        "Bremerhaven",
+        3.0
+    ],
+    "213": [
+        "Siegen",
+        "Osnabrueck",
+        1.75
+    ],
+    "214": [
+        "Siegen",
+        "Frankfurt",
+        44.0
+    ],
+    "215": [
+        "Siegen",
+        "Mannheim",
+        6.0
+    ],
+    "216": [
+        "Siegen",
+        "Giessen",
+        3.5
+    ],
+    "217": [
+        "Siegen",
+        "Fulda",
+        4.0
+    ],
+    "218": [
+        "Siegen",
+        "Saarbruecken",
+        5.25
+    ],
+    "219": [
+        "Siegen",
+        "Konstanz",
+        3.5
+    ],
+    "22": [
+        "Essen",
+        "Frankfurt",
+        77.0
+    ],
+    "220": [
+        "Siegen",
+        "Nuernberg",
+        26.0
+    ],
+    "221": [
+        "Wesel",
+        "Berlin",
+        20.25
+    ],
+    "222": [
+        "Wesel",
+        "Hamburg",
+        24.0
+    ],
+    "223": [
+        "Wesel",
+        "Bremerhaven",
+        3.0
+    ],
+    "224": [
+        "Wesel",
+        "Norden",
+        40.0
+    ],
+    "225": [
+        "Wesel",
+        "Bielefeld",
+        4.0
+    ],
+    "226": [
+        "Wesel",
+        "Osnabrueck",
+        1.75
+    ],
+    "227": [
+        "Wesel",
+        "Frankfurt",
+        44.0
+    ],
+    "228": [
+        "Wesel",
+        "Fulda",
+        4.0
+    ],
+    "229": [
+        "Wesel",
+        "Saarbruecken",
+        5.25
+    ],
+    "23": [
+        "Essen",
+        "Darmstadt",
+        12.0
+    ],
+    "230": [
+        "Wesel",
+        "Konstanz",
+        3.5
+    ],
+    "231": [
+        "Berlin",
+        "Leipzig",
+        141.75
+    ],
+    "232": [
+        "Berlin",
+        "Dresden",
+        90.0
+    ],
+    "233": [
+        "Berlin",
+        "Erfurt",
+        45.0
+    ],
+    "234": [
+        "Berlin",
+        "Chemnitz",
+        18.0
+    ],
+    "235": [
+        "Berlin",
+        "Schwerin",
+        20.25
+    ],
+    "236": [
+        "Berlin",
+        "Magdeburg",
+        18.0
+    ],
+    "237": [
+        "Berlin",
+        "Greifswald",
+        13.5
+    ],
+    "238": [
+        "Berlin",
+        "Hamburg",
+        243.0
+    ],
+    "239": [
+        "Berlin",
+        "Bremen",
+        54.0
+    ],
+    "24": [
+        "Essen",
+        "Mannheim",
+        80.0
+    ],
+    "240": [
+        "Berlin",
+        "Kiel",
+        54.0
+    ],
+    "241": [
+        "Berlin",
+        "Oldenburg",
+        40.5
+    ],
+    "242": [
+        "Berlin",
+        "Bremerhaven",
+        31.5
+    ],
+    "243": [
+        "Berlin",
+        "Hannover",
+        67.5
+    ],
+    "244": [
+        "Berlin",
+        "Bielefeld",
+        40.5
+    ],
+    "245": [
+        "Berlin",
+        "Braunschweig",
+        67.5
+    ],
+    "246": [
+        "Berlin",
+        "Osnabrueck",
+        18.0
+    ],
+    "247": [
+        "Berlin",
+        "Kassel",
+        22.5
+    ],
+    "248": [
+        "Berlin",
+        "Frankfurt",
+        445.5
+    ],
+    "249": [
+        "Berlin",
+        "Darmstadt",
+        72.0
+    ],
+    "25": [
+        "Essen",
+        "Saarbruecken",
+        9.0
+    ],
+    "250": [
+        "Berlin",
+        "Mannheim",
+        63.0
+    ],
+    "251": [
+        "Berlin",
+        "Kaiserslautern",
+        20.25
+    ],
+    "252": [
+        "Berlin",
+        "Giessen",
+        40.5
+    ],
+    "253": [
+        "Berlin",
+        "Trier",
+        18.0
+    ],
+    "254": [
+        "Berlin",
+        "Fulda",
+        40.5
+    ],
+    "255": [
+        "Berlin",
+        "Saarbruecken",
+        54.0
+    ],
+    "256": [
+        "Berlin",
+        "Stuttgart",
+        263.25
+    ],
+    "257": [
+        "Berlin",
+        "Karlsruhe",
+        45.0
+    ],
+    "258": [
+        "Berlin",
+        "Ulm",
+        31.5
+    ],
+    "259": [
+        "Berlin",
+        "Konstanz",
+        36.0
+    ],
+    "26": [
+        "Essen",
+        "Stuttgart",
+        45.5
+    ],
+    "260": [
+        "Berlin",
+        "Freiburg",
+        31.5
+    ],
+    "261": [
+        "Berlin",
+        "Muenchen",
+        427.5
+    ],
+    "262": [
+        "Berlin",
+        "Augsburg",
+        36.0
+    ],
+    "263": [
+        "Berlin",
+        "Passau",
+        15.75
+    ],
+    "264": [
+        "Berlin",
+        "Nuernberg",
+        263.25
+    ],
+    "265": [
+        "Berlin",
+        "Bayreuth",
+        36.0
+    ],
+    "266": [
+        "Berlin",
+        "Wuerzburg",
+        45.0
+    ],
+    "267": [
+        "Leipzig",
+        "Dresden",
+        70.0
+    ],
+    "268": [
+        "Leipzig",
+        "Erfurt",
+        31.5
+    ],
+    "269": [
+        "Leipzig",
+        "Chemnitz",
+        14.0
+    ],
+    "27": [
+        "Essen",
+        "Karlsruhe",
+        8.0
+    ],
+    "270": [
+        "Leipzig",
+        "Schwerin",
+        17.5
+    ],
+    "271": [
+        "Leipzig",
+        "Magdeburg",
+        14.0
+    ],
+    "272": [
+        "Leipzig",
+        "Greifswald",
+        12.25
+    ],
+    "273": [
+        "Leipzig",
+        "Hamburg",
+        189.0
+    ],
+    "274": [
+        "Leipzig",
+        "Hannover",
+        52.5
+    ],
+    "275": [
+        "Leipzig",
+        "Bielefeld",
+        31.5
+    ],
+    "276": [
+        "Leipzig",
+        "Braunschweig",
+        52.5
+    ],
+    "277": [
+        "Leipzig",
+        "Frankfurt",
+        346.5
+    ],
+    "278": [
+        "Leipzig",
+        "Darmstadt",
+        56.0
+    ],
+    "279": [
+        "Leipzig",
+        "Mannheim",
+        49.0
+    ],
+    "28": [
+        "Essen",
+        "Muenchen",
+        76.0
+    ],
+    "280": [
+        "Leipzig",
+        "Stuttgart",
+        204.75
+    ],
+    "281": [
+        "Leipzig",
+        "Karlsruhe",
+        35.0
+    ],
+    "282": [
+        "Leipzig",
+        "Ulm",
+        24.5
+    ],
+    "283": [
+        "Leipzig",
+        "Muenchen",
+        332.5
+    ],
+    "284": [
+        "Leipzig",
+        "Augsburg",
+        28.0
+    ],
+    "285": [
+        "Leipzig",
+        "Nuernberg",
+        204.75
+    ],
+    "286": [
+        "Leipzig",
+        "Wuerzburg",
+        35.0
+    ],
+    "287": [
+        "Dresden",
+        "Erfurt",
+        20.0
+    ],
+    "288": [
+        "Dresden",
+        "Chemnitz",
+        7.5
+    ],
+    "289": [
+        "Dresden",
+        "Schwerin",
+        11.25
+    ],
+    "29": [
+        "Essen",
+        "Augsburg",
+        6.0
+    ],
+    "290": [
+        "Dresden",
+        "Magdeburg",
+        10.0
+    ],
+    "291": [
+        "Dresden",
+        "Greifswald",
+        7.5
+    ],
+    "292": [
+        "Dresden",
+        "Hamburg",
+        120.0
+    ],
+    "293": [
+        "Dresden",
+        "Bremen",
+        26.25
+    ],
+    "294": [
+        "Dresden",
+        "Kiel",
+        26.25
+    ],
+    "295": [
+        "Dresden",
+        "Norden",
+        30.0
+    ],
+    "296": [
+        "Dresden",
+        "Hannover",
+        33.75
+    ],
+    "297": [
+        "Dresden",
+        "Bielefeld",
+        20.0
+    ],
+    "298": [
+        "Dresden",
+        "Braunschweig",
+        33.75
+    ],
+    "299": [
+        "Dresden",
+        "Kassel",
+        11.25
+    ],
+    "3": [
+        "Essen",
+        "Aachen",
+        3.0
+    ],
+    "30": [
+        "Essen",
+        "Nuernberg",
+        45.5
+    ],
+    "300": [
+        "Dresden",
+        "Frankfurt",
+        220.0
+    ],
+    "301": [
+        "Dresden",
+        "Darmstadt",
+        35.0
+    ],
+    "302": [
+        "Dresden",
+        "Mannheim",
+        30.0
+    ],
+    "303": [
+        "Dresden",
+        "Trier",
+        8.75
+    ],
+    "304": [
+        "Dresden",
+        "Stuttgart",
+        130.0
+    ],
+    "305": [
+        "Dresden",
+        "Karlsruhe",
+        22.5
+    ],
+    "306": [
+        "Dresden",
+        "Ulm",
+        15.0
+    ],
+    "307": [
+        "Dresden",
+        "Konstanz",
+        17.5
+    ],
+    "308": [
+        "Dresden",
+        "Freiburg",
+        15.0
+    ],
+    "309": [
+        "Dresden",
+        "Muenchen",
+        213.75
+    ],
+    "31": [
+        "Essen",
+        "Wuerzburg",
+        8.0
+    ],
+    "310": [
+        "Dresden",
+        "Augsburg",
+        17.5
+    ],
+    "311": [
+        "Dresden",
+        "Nuernberg",
+        130.0
+    ],
+    "312": [
+        "Dresden",
+        "Bayreuth",
+        17.5
+    ],
+    "313": [
+        "Dresden",
+        "Wuerzburg",
+        22.5
+    ],
+    "314": [
+        "Dresden",
+        "Regensburg",
+        17.5
+    ],
+    "315": [
+        "Erfurt",
+        "Chemnitz",
+        3.5
+    ],
+    "316": [
+        "Erfurt",
+        "Schwerin",
+        5.0
+    ],
+    "317": [
+        "Erfurt",
+        "Magdeburg",
+        4.5
+    ],
+    "318": [
+        "Erfurt",
+        "Hamburg",
+        54.0
+    ],
+    "319": [
+        "Erfurt",
+        "Bremen",
+        12.0
+    ],
+    "32": [
+        "Duesseldorf",
+        "Koeln",
+        264.0
+    ],
+    "320": [
+        "Erfurt",
+        "Kiel",
+        12.0
+    ],
+    "321": [
+        "Erfurt",
+        "Hannover",
+        15.0
+    ],
+    "322": [
+        "Erfurt",
+        "Bielefeld",
+        9.0
+    ],
+    "323": [
+        "Erfurt",
+        "Braunschweig",
+        15.0
+    ],
+    "324": [
+        "Erfurt",
+        "Kassel",
+        4.5
+    ],
+    "325": [
+        "Erfurt",
+        "Frankfurt",
+        99.0
+    ],
+    "326": [
+        "Erfurt",
+        "Darmstadt",
+        16.0
+    ],
+    "327": [
+        "Erfurt",
+        "Mannheim",
+        14.0
+    ],
+    "328": [
+        "Erfurt",
+        "Giessen",
+        9.0
+    ],
+    "329": [
+        "Erfurt",
+        "Fulda",
+        9.0
+    ],
+    "33": [
+        "Duesseldorf",
+        "Dortmund",
+        82.5
+    ],
+    "330": [
+        "Erfurt",
+        "Stuttgart",
+        58.5
+    ],
+    "331": [
+        "Erfurt",
+        "Karlsruhe",
+        10.0
+    ],
+    "332": [
+        "Erfurt",
+        "Muenchen",
+        95.0
+    ],
+    "333": [
+        "Erfurt",
+        "Augsburg",
+        8.0
+    ],
+    "334": [
+        "Erfurt",
+        "Nuernberg",
+        58.5
+    ],
+    "335": [
+        "Erfurt",
+        "Bayreuth",
+        8.0
+    ],
+    "336": [
+        "Erfurt",
+        "Wuerzburg",
+        9.0
+    ],
+    "337": [
+        "Chemnitz",
+        "Schwerin",
+        2.0
+    ],
+    "338": [
+        "Chemnitz",
+        "Magdeburg",
+        1.75
+    ],
+    "339": [
+        "Chemnitz",
+        "Hamburg",
+        21.0
+    ],
+    "34": [
+        "Duesseldorf",
+        "Aachen",
+        110.0
+    ],
+    "340": [
+        "Chemnitz",
+        "Hannover",
+        6.0
+    ],
+    "341": [
+        "Chemnitz",
+        "Bielefeld",
+        3.5
+    ],
+    "342": [
+        "Chemnitz",
+        "Braunschweig",
+        6.0
+    ],
+    "343": [
+        "Chemnitz",
+        "Frankfurt",
+        38.5
+    ],
+    "344": [
+        "Chemnitz",
+        "Mannheim",
+        40.0
+    ],
+    "345": [
+        "Chemnitz",
+        "Giessen",
+        3.5
+    ],
+    "346": [
+        "Chemnitz",
+        "Stuttgart",
+        22.75
+    ],
+    "347": [
+        "Chemnitz",
+        "Karlsruhe",
+        4.0
+    ],
+    "348": [
+        "Chemnitz",
+        "Muenchen",
+        38.0
+    ],
+    "349": [
+        "Chemnitz",
+        "Augsburg",
+        3.0
+    ],
+    "35": [
+        "Duesseldorf",
+        "Muenster",
+        330.0
+    ],
+    "350": [
+        "Chemnitz",
+        "Nuernberg",
+        22.75
+    ],
+    "351": [
+        "Chemnitz",
+        "Bayreuth",
+        20.0
+    ],
+    "352": [
+        "Chemnitz",
+        "Wuerzburg",
+        4.0
+    ],
+    "353": [
+        "Schwerin",
+        "Magdeburg",
+        2.0
+    ],
+    "354": [
+        "Schwerin",
+        "Greifswald",
+        1.5
+    ],
+    "355": [
+        "Schwerin",
+        "Hamburg",
+        24.0
+    ],
+    "356": [
+        "Schwerin",
+        "Bremen",
+        6.0
+    ],
+    "357": [
+        "Schwerin",
+        "Kiel",
+        5.25
+    ],
+    "358": [
+        "Schwerin",
+        "Hannover",
+        7.5
+    ],
+    "359": [
+        "Schwerin",
+        "Bielefeld",
+        4.5
+    ],
+    "36": [
+        "Duesseldorf",
+        "Koblenz",
+        38.5
+    ],
+    "360": [
+        "Schwerin",
+        "Frankfurt",
+        49.5
+    ],
+    "361": [
+        "Schwerin",
+        "Mannheim",
+        7.0
+    ],
+    "362": [
+        "Schwerin",
+        "Stuttgart",
+        29.25
+    ],
+    "363": [
+        "Schwerin",
+        "Karlsruhe",
+        5.0
+    ],
+    "364": [
+        "Schwerin",
+        "Muenchen",
+        47.5
+    ],
+    "365": [
+        "Schwerin",
+        "Augsburg",
+        4.0
+    ],
+    "366": [
+        "Schwerin",
+        "Nuernberg",
+        29.25
+    ],
+    "367": [
+        "Schwerin",
+        "Wuerzburg",
+        5.0
+    ],
+    "368": [
+        "Magdeburg",
+        "Greifswald",
+        1.5
+    ],
+    "369": [
+        "Magdeburg",
+        "Hamburg",
+        24.0
+    ],
+    "37": [
+        "Duesseldorf",
+        "Siegen",
+        16.5
+    ],
+    "370": [
+        "Magdeburg",
+        "Bremen",
+        5.25
+    ],
+    "371": [
+        "Magdeburg",
+        "Kiel",
+        5.25
+    ],
+    "372": [
+        "Magdeburg",
+        "Hannover",
+        6.75
+    ],
+    "373": [
+        "Magdeburg",
+        "Bielefeld",
+        4.0
+    ],
+    "374": [
+        "Magdeburg",
+        "Braunschweig",
+        6.0
+    ],
+    "375": [
+        "Magdeburg",
+        "Frankfurt",
+        44.0
+    ],
+    "376": [
+        "Magdeburg",
+        "Mannheim",
+        6.0
+    ],
+    "377": [
+        "Magdeburg",
+        "Stuttgart",
+        26.0
+    ],
+    "378": [
+        "Magdeburg",
+        "Karlsruhe",
+        4.5
+    ],
+    "379": [
+        "Magdeburg",
+        "Muenchen",
+        42.75
+    ],
+    "38": [
+        "Duesseldorf",
+        "Wesel",
+        16.5
+    ],
+    "380": [
+        "Magdeburg",
+        "Augsburg",
+        3.5
+    ],
+    "381": [
+        "Magdeburg",
+        "Nuernberg",
+        26.0
+    ],
+    "382": [
+        "Magdeburg",
+        "Bayreuth",
+        3.5
+    ],
+    "383": [
+        "Magdeburg",
+        "Wuerzburg",
+        4.5
+    ],
+    "384": [
+        "Greifswald",
+        "Hamburg",
+        18.0
+    ],
+    "385": [
+        "Greifswald",
+        "Bremen",
+        30.0
+    ],
+    "386": [
+        "Greifswald",
+        "Kiel",
+        30.0
+    ],
+    "387": [
+        "Greifswald",
+        "Hannover",
+        5.25
+    ],
+    "388": [
+        "Greifswald",
+        "Bielefeld",
+        3.0
+    ],
+    "389": [
+        "Greifswald",
+        "Frankfurt",
+        33.0
+    ],
+    "39": [
+        "Duesseldorf",
+        "Berlin",
+        173.25
+    ],
+    "390": [
+        "Greifswald",
+        "Karlsruhe",
+        3.5
+    ],
+    "391": [
+        "Hamburg",
+        "Bremen",
+        63.0
+    ],
+    "392": [
+        "Hamburg",
+        "Kiel",
+        54.0
+    ],
+    "393": [
+        "Hamburg",
+        "Oldenburg",
+        48.0
+    ],
+    "394": [
+        "Hamburg",
+        "Flensburg",
+        18.0
+    ],
+    "395": [
+        "Hamburg",
+        "Bremerhaven",
+        36.0
+    ],
+    "396": [
+        "Hamburg",
+        "Norden",
+        72.0
+    ],
+    "397": [
+        "Hamburg",
+        "Hannover",
+        72.0
+    ],
+    "398": [
+        "Hamburg",
+        "Bielefeld",
+        48.0
+    ],
+    "399": [
+        "Hamburg",
+        "Braunschweig",
+        72.0
+    ],
+    "4": [
+        "Essen",
+        "Muenster",
+        9.0
+    ],
+    "40": [
+        "Duesseldorf",
+        "Leipzig",
+        134.75
+    ],
+    "400": [
+        "Hamburg",
+        "Osnabrueck",
+        21.0
+    ],
+    "401": [
+        "Hamburg",
+        "Kassel",
+        27.0
+    ],
+    "402": [
+        "Hamburg",
+        "Frankfurt",
+        528.0
+    ],
+    "403": [
+        "Hamburg",
+        "Darmstadt",
+        84.0
+    ],
+    "404": [
+        "Hamburg",
+        "Mannheim",
+        72.0
+    ],
+    "405": [
+        "Hamburg",
+        "Giessen",
+        48.0
+    ],
+    "406": [
+        "Hamburg",
+        "Fulda",
+        48.0
+    ],
+    "407": [
+        "Hamburg",
+        "Saarbruecken",
+        63.0
+    ],
+    "408": [
+        "Hamburg",
+        "Stuttgart",
+        312.0
+    ],
+    "409": [
+        "Hamburg",
+        "Karlsruhe",
+        54.0
+    ],
+    "41": [
+        "Duesseldorf",
+        "Dresden",
+        82.5
+    ],
+    "410": [
+        "Hamburg",
+        "Ulm",
+        36.0
+    ],
+    "411": [
+        "Hamburg",
+        "Freiburg",
+        36.0
+    ],
+    "412": [
+        "Hamburg",
+        "Muenchen",
+        513.0
+    ],
+    "413": [
+        "Hamburg",
+        "Augsburg",
+        42.0
+    ],
+    "414": [
+        "Hamburg",
+        "Nuernberg",
+        312.0
+    ],
+    "415": [
+        "Hamburg",
+        "Wuerzburg",
+        54.0
+    ],
+    "416": [
+        "Hamburg",
+        "Regensburg",
+        42.0
+    ],
+    "417": [
+        "Bremen",
+        "Kiel",
+        13.5
+    ],
+    "418": [
+        "Bremen",
+        "Oldenburg",
+        9.0
+    ],
+    "419": [
+        "Bremen",
+        "Flensburg",
+        30.0
+    ],
+    "42": [
+        "Duesseldorf",
+        "Erfurt",
+        38.5
+    ],
+    "420": [
+        "Bremen",
+        "Bremerhaven",
+        36.0
+    ],
+    "421": [
+        "Bremen",
+        "Norden",
+        120.0
+    ],
+    "422": [
+        "Bremen",
+        "Hannover",
+        15.75
+    ],
+    "423": [
+        "Bremen",
+        "Bielefeld",
+        10.5
+    ],
+    "424": [
+        "Bremen",
+        "Braunschweig",
+        18.0
+    ],
+    "425": [
+        "Bremen",
+        "Osnabrueck",
+        4.5
+    ],
+    "426": [
+        "Bremen",
+        "Kassel",
+        6.0
+    ],
+    "427": [
+        "Bremen",
+        "Frankfurt",
+        115.5
+    ],
+    "428": [
+        "Bremen",
+        "Darmstadt",
+        18.0
+    ],
+    "429": [
+        "Bremen",
+        "Mannheim",
+        120.0
+    ],
+    "43": [
+        "Duesseldorf",
+        "Schwerin",
+        19.25
+    ],
+    "430": [
+        "Bremen",
+        "Giessen",
+        10.5
+    ],
+    "431": [
+        "Bremen",
+        "Trier",
+        4.5
+    ],
+    "432": [
+        "Bremen",
+        "Stuttgart",
+        68.25
+    ],
+    "433": [
+        "Bremen",
+        "Karlsruhe",
+        12.0
+    ],
+    "434": [
+        "Bremen",
+        "Muenchen",
+        114.0
+    ],
+    "435": [
+        "Bremen",
+        "Augsburg",
+        9.0
+    ],
+    "436": [
+        "Bremen",
+        "Nuernberg",
+        68.25
+    ],
+    "437": [
+        "Bremen",
+        "Wuerzburg",
+        12.0
+    ],
+    "438": [
+        "Kiel",
+        "Oldenburg",
+        10.5
+    ],
+    "439": [
+        "Kiel",
+        "Flensburg",
+        18.0
+    ],
+    "44": [
+        "Duesseldorf",
+        "Magdeburg",
+        16.5
+    ],
+    "440": [
+        "Kiel",
+        "Bremerhaven",
+        60.0
+    ],
+    "441": [
+        "Kiel",
+        "Hannover",
+        18.0
+    ],
+    "442": [
+        "Kiel",
+        "Bielefeld",
+        10.5
+    ],
+    "443": [
+        "Kiel",
+        "Braunschweig",
+        18.0
+    ],
+    "444": [
+        "Kiel",
+        "Kassel",
+        6.0
+    ],
+    "445": [
+        "Kiel",
+        "Frankfurt",
+        115.5
+    ],
+    "446": [
+        "Kiel",
+        "Darmstadt",
+        18.0
+    ],
+    "447": [
+        "Kiel",
+        "Mannheim",
+        120.0
+    ],
+    "448": [
+        "Kiel",
+        "Stuttgart",
+        68.25
+    ],
+    "449": [
+        "Kiel",
+        "Karlsruhe",
+        12.0
+    ],
+    "45": [
+        "Duesseldorf",
+        "Greifswald",
+        66.0
+    ],
+    "450": [
+        "Kiel",
+        "Muenchen",
+        114.0
+    ],
+    "451": [
+        "Kiel",
+        "Augsburg",
+        9.0
+    ],
+    "452": [
+        "Kiel",
+        "Nuernberg",
+        68.25
+    ],
+    "453": [
+        "Kiel",
+        "Bayreuth",
+        9.0
+    ],
+    "454": [
+        "Kiel",
+        "Wuerzburg",
+        12.0
+    ],
+    "455": [
+        "Oldenburg",
+        "Bremerhaven",
+        6.0
+    ],
+    "456": [
+        "Oldenburg",
+        "Norden",
+        80.0
+    ],
+    "457": [
+        "Oldenburg",
+        "Hannover",
+        13.5
+    ],
+    "458": [
+        "Oldenburg",
+        "Bielefeld",
+        8.0
+    ],
+    "459": [
+        "Oldenburg",
+        "Osnabrueck",
+        3.0
+    ],
+    "46": [
+        "Duesseldorf",
+        "Hamburg",
+        198.0
+    ],
+    "460": [
+        "Oldenburg",
+        "Frankfurt",
+        88.0
+    ],
+    "461": [
+        "Oldenburg",
+        "Stuttgart",
+        52.0
+    ],
+    "462": [
+        "Oldenburg",
+        "Muenchen",
+        85.5
+    ],
+    "463": [
+        "Flensburg",
+        "Bremerhaven",
+        6.0
+    ],
+    "464": [
+        "Flensburg",
+        "Hannover",
+        5.25
+    ],
+    "465": [
+        "Flensburg",
+        "Bielefeld",
+        3.0
+    ],
+    "466": [
+        "Flensburg",
+        "Frankfurt",
+        33.0
+    ],
+    "467": [
+        "Bremerhaven",
+        "Hannover",
+        10.5
+    ],
+    "468": [
+        "Bremerhaven",
+        "Bielefeld",
+        6.0
+    ],
+    "469": [
+        "Bremerhaven",
+        "Frankfurt",
+        66.0
+    ],
+    "47": [
+        "Duesseldorf",
+        "Bremen",
+        330.0
+    ],
+    "470": [
+        "Norden",
+        "Hannover",
+        21.0
+    ],
+    "471": [
+        "Norden",
+        "Bielefeld",
+        12.0
+    ],
+    "472": [
+        "Norden",
+        "Osnabrueck",
+        40.0
+    ],
+    "473": [
+        "Norden",
+        "Frankfurt",
+        132.0
+    ],
+    "474": [
+        "Norden",
+        "Saarbruecken",
+        120.0
+    ],
+    "475": [
+        "Norden",
+        "Konstanz",
+        80.0
+    ],
+    "476": [
+        "Norden",
+        "Muenchen",
+        133.0
+    ],
+    "477": [
+        "Norden",
+        "Passau",
+        24.0
+    ],
+    "478": [
+        "Hannover",
+        "Bielefeld",
+        12.0
+    ],
+    "479": [
+        "Hannover",
+        "Braunschweig",
+        20.25
+    ],
+    "48": [
+        "Duesseldorf",
+        "Kiel",
+        330.0
+    ],
+    "480": [
+        "Hannover",
+        "Osnabrueck",
+        5.25
+    ],
+    "481": [
+        "Hannover",
+        "Kassel",
+        7.5
+    ],
+    "482": [
+        "Hannover",
+        "Frankfurt",
+        148.5
+    ],
+    "483": [
+        "Hannover",
+        "Darmstadt",
+        24.0
+    ],
+    "484": [
+        "Hannover",
+        "Mannheim",
+        21.0
+    ],
+    "485": [
+        "Hannover",
+        "Giessen",
+        13.5
+    ],
+    "486": [
+        "Hannover",
+        "Trier",
+        6.0
+    ],
+    "487": [
+        "Hannover",
+        "Fulda",
+        13.5
+    ],
+    "488": [
+        "Hannover",
+        "Saarbruecken",
+        18.0
+    ],
+    "489": [
+        "Hannover",
+        "Stuttgart",
+        87.75
+    ],
+    "49": [
+        "Duesseldorf",
+        "Oldenburg",
+        33.0
+    ],
+    "490": [
+        "Hannover",
+        "Karlsruhe",
+        15.0
+    ],
+    "491": [
+        "Hannover",
+        "Ulm",
+        10.5
+    ],
+    "492": [
+        "Hannover",
+        "Konstanz",
+        12.0
+    ],
+    "493": [
+        "Hannover",
+        "Freiburg",
+        10.5
+    ],
+    "494": [
+        "Hannover",
+        "Muenchen",
+        142.5
+    ],
+    "495": [
+        "Hannover",
+        "Augsburg",
+        12.0
+    ],
+    "496": [
+        "Hannover",
+        "Nuernberg",
+        87.75
+    ],
+    "497": [
+        "Hannover",
+        "Wuerzburg",
+        15.0
+    ],
+    "498": [
+        "Bielefeld",
+        "Braunschweig",
+        12.0
+    ],
+    "499": [
+        "Bielefeld",
+        "Osnabrueck",
+        3.5
+    ],
+    "5": [
+        "Essen",
+        "Koblenz",
+        8.0
+    ],
+    "50": [
+        "Duesseldorf",
+        "Flensburg",
+        66.0
+    ],
+    "500": [
+        "Bielefeld",
+        "Kassel",
+        4.5
+    ],
+    "501": [
+        "Bielefeld",
+        "Frankfurt",
+        88.0
+    ],
+    "502": [
+        "Bielefeld",
+        "Darmstadt",
+        14.0
+    ],
+    "503": [
+        "Bielefeld",
+        "Mannheim",
+        12.0
+    ],
+    "504": [
+        "Bielefeld",
+        "Giessen",
+        8.0
+    ],
+    "505": [
+        "Bielefeld",
+        "Fulda",
+        8.0
+    ],
+    "506": [
+        "Bielefeld",
+        "Saarbruecken",
+        10.5
+    ],
+    "507": [
+        "Bielefeld",
+        "Stuttgart",
+        52.0
+    ],
+    "508": [
+        "Bielefeld",
+        "Karlsruhe",
+        9.0
+    ],
+    "509": [
+        "Bielefeld",
+        "Ulm",
+        6.0
+    ],
+    "51": [
+        "Duesseldorf",
+        "Bremerhaven",
+        132.0
+    ],
+    "510": [
+        "Bielefeld",
+        "Muenchen",
+        85.5
+    ],
+    "511": [
+        "Bielefeld",
+        "Augsburg",
+        7.0
+    ],
+    "512": [
+        "Bielefeld",
+        "Nuernberg",
+        52.0
+    ],
+    "513": [
+        "Bielefeld",
+        "Bayreuth",
+        7.0
+    ],
+    "514": [
+        "Bielefeld",
+        "Wuerzburg",
+        9.0
+    ],
+    "515": [
+        "Braunschweig",
+        "Kassel",
+        6.75
+    ],
+    "516": [
+        "Braunschweig",
+        "Frankfurt",
+        148.5
+    ],
+    "517": [
+        "Braunschweig",
+        "Stuttgart",
+        87.75
+    ],
+    "518": [
+        "Braunschweig",
+        "Karlsruhe",
+        15.0
+    ],
+    "519": [
+        "Braunschweig",
+        "Muenchen",
+        142.5
+    ],
+    "52": [
+        "Duesseldorf",
+        "Norden",
+        264.0
+    ],
+    "520": [
+        "Osnabrueck",
+        "Frankfurt",
+        38.5
+    ],
+    "521": [
+        "Osnabrueck",
+        "Stuttgart",
+        22.75
+    ],
+    "522": [
+        "Osnabrueck",
+        "Muenchen",
+        38.0
+    ],
+    "523": [
+        "Kassel",
+        "Frankfurt",
+        49.5
+    ],
+    "524": [
+        "Kassel",
+        "Darmstadt",
+        8.0
+    ],
+    "525": [
+        "Kassel",
+        "Mannheim",
+        7.0
+    ],
+    "526": [
+        "Kassel",
+        "Giessen",
+        4.0
+    ],
+    "527": [
+        "Kassel",
+        "Fulda",
+        4.0
+    ],
+    "528": [
+        "Kassel",
+        "Stuttgart",
+        29.25
+    ],
+    "529": [
+        "Kassel",
+        "Karlsruhe",
+        5.0
+    ],
+    "53": [
+        "Duesseldorf",
+        "Hannover",
+        57.75
+    ],
+    "530": [
+        "Kassel",
+        "Muenchen",
+        47.5
+    ],
+    "531": [
+        "Kassel",
+        "Nuernberg",
+        29.25
+    ],
+    "532": [
+        "Frankfurt",
+        "Darmstadt",
+        132.0
+    ],
+    "533": [
+        "Frankfurt",
+        "Mannheim",
+        132.0
+    ],
+    "534": [
+        "Frankfurt",
+        "Kaiserslautern",
+        44.0
+    ],
+    "535": [
+        "Frankfurt",
+        "Giessen",
+        77.0
+    ],
+    "536": [
+        "Frankfurt",
+        "Trier",
+        38.5
+    ],
+    "537": [
+        "Frankfurt",
+        "Fulda",
+        77.0
+    ],
+    "538": [
+        "Frankfurt",
+        "Saarbruecken",
+        115.5
+    ],
+    "539": [
+        "Frankfurt",
+        "Stuttgart",
+        572.0
+    ],
+    "54": [
+        "Duesseldorf",
+        "Bielefeld",
+        33.0
+    ],
+    "540": [
+        "Frankfurt",
+        "Karlsruhe",
+        99.0
+    ],
+    "541": [
+        "Frankfurt",
+        "Ulm",
+        66.0
+    ],
+    "542": [
+        "Frankfurt",
+        "Konstanz",
+        77.0
+    ],
+    "543": [
+        "Frankfurt",
+        "Freiburg",
+        66.0
+    ],
+    "544": [
+        "Frankfurt",
+        "Muenchen",
+        940.5
+    ],
+    "545": [
+        "Frankfurt",
+        "Augsburg",
+        77.0
+    ],
+    "546": [
+        "Frankfurt",
+        "Kempten",
+        66.0
+    ],
+    "547": [
+        "Frankfurt",
+        "Passau",
+        33.0
+    ],
+    "548": [
+        "Frankfurt",
+        "Nuernberg",
+        572.0
+    ],
+    "549": [
+        "Frankfurt",
+        "Bayreuth",
+        77.0
+    ],
+    "55": [
+        "Duesseldorf",
+        "Braunschweig",
+        57.75
+    ],
+    "550": [
+        "Frankfurt",
+        "Wuerzburg",
+        99.0
+    ],
+    "551": [
+        "Frankfurt",
+        "Regensburg",
+        77.0
+    ],
+    "552": [
+        "Darmstadt",
+        "Mannheim",
+        96.0
+    ],
+    "553": [
+        "Darmstadt",
+        "Kaiserslautern",
+        6.0
+    ],
+    "554": [
+        "Darmstadt",
+        "Giessen",
+        14.0
+    ],
+    "555": [
+        "Darmstadt",
+        "Trier",
+        6.0
+    ],
+    "556": [
+        "Darmstadt",
+        "Fulda",
+        14.0
+    ],
+    "557": [
+        "Darmstadt",
+        "Saarbruecken",
+        18.0
+    ],
+    "558": [
+        "Darmstadt",
+        "Stuttgart",
+        91.0
+    ],
+    "559": [
+        "Darmstadt",
+        "Karlsruhe",
+        16.0
+    ],
+    "56": [
+        "Duesseldorf",
+        "Osnabrueck",
+        110.0
+    ],
+    "560": [
+        "Darmstadt",
+        "Ulm",
+        80.0
+    ],
+    "561": [
+        "Darmstadt",
+        "Freiburg",
+        80.0
+    ],
+    "562": [
+        "Darmstadt",
+        "Muenchen",
+        152.0
+    ],
+    "563": [
+        "Darmstadt",
+        "Augsburg",
+        12.0
+    ],
+    "564": [
+        "Darmstadt",
+        "Nuernberg",
+        91.0
+    ],
+    "565": [
+        "Darmstadt",
+        "Wuerzburg",
+        16.0
+    ],
+    "566": [
+        "Mannheim",
+        "Kaiserslautern",
+        6.0
+    ],
+    "567": [
+        "Mannheim",
+        "Giessen",
+        12.0
+    ],
+    "568": [
+        "Mannheim",
+        "Trier",
+        40.0
+    ],
+    "569": [
+        "Mannheim",
+        "Fulda",
+        12.0
+    ],
+    "57": [
+        "Duesseldorf",
+        "Kassel",
+        19.25
+    ],
+    "570": [
+        "Mannheim",
+        "Saarbruecken",
+        120.0
+    ],
+    "571": [
+        "Mannheim",
+        "Stuttgart",
+        78.0
+    ],
+    "572": [
+        "Mannheim",
+        "Karlsruhe",
+        12.0
+    ],
+    "573": [
+        "Mannheim",
+        "Ulm",
+        48.0
+    ],
+    "574": [
+        "Mannheim",
+        "Konstanz",
+        80.0
+    ],
+    "575": [
+        "Mannheim",
+        "Freiburg",
+        48.0
+    ],
+    "576": [
+        "Mannheim",
+        "Muenchen",
+        133.0
+    ],
+    "577": [
+        "Mannheim",
+        "Augsburg",
+        80.0
+    ],
+    "578": [
+        "Mannheim",
+        "Kempten",
+        48.0
+    ],
+    "579": [
+        "Mannheim",
+        "Nuernberg",
+        78.0
+    ],
+    "58": [
+        "Duesseldorf",
+        "Frankfurt",
+        363.0
+    ],
+    "580": [
+        "Mannheim",
+        "Bayreuth",
+        80.0
+    ],
+    "581": [
+        "Mannheim",
+        "Wuerzburg",
+        14.0
+    ],
+    "582": [
+        "Kaiserslautern",
+        "Trier",
+        1.75
+    ],
+    "583": [
+        "Kaiserslautern",
+        "Saarbruecken",
+        4.5
+    ],
+    "584": [
+        "Kaiserslautern",
+        "Stuttgart",
+        26.0
+    ],
+    "585": [
+        "Kaiserslautern",
+        "Karlsruhe",
+        4.0
+    ],
+    "586": [
+        "Kaiserslautern",
+        "Muenchen",
+        42.75
+    ],
+    "587": [
+        "Giessen",
+        "Fulda",
+        7.0
+    ],
+    "588": [
+        "Giessen",
+        "Stuttgart",
+        52.0
+    ],
+    "589": [
+        "Giessen",
+        "Karlsruhe",
+        9.0
+    ],
+    "59": [
+        "Duesseldorf",
+        "Darmstadt",
+        440.0
+    ],
+    "590": [
+        "Giessen",
+        "Muenchen",
+        85.5
+    ],
+    "591": [
+        "Giessen",
+        "Nuernberg",
+        52.0
+    ],
+    "592": [
+        "Giessen",
+        "Wuerzburg",
+        9.0
+    ],
+    "593": [
+        "Trier",
+        "Saarbruecken",
+        30.0
+    ],
+    "594": [
+        "Trier",
+        "Stuttgart",
+        22.75
+    ],
+    "595": [
+        "Trier",
+        "Karlsruhe",
+        4.0
+    ],
+    "596": [
+        "Trier",
+        "Muenchen",
+        38.0
+    ],
+    "597": [
+        "Fulda",
+        "Stuttgart",
+        52.0
+    ],
+    "598": [
+        "Fulda",
+        "Karlsruhe",
+        9.0
+    ],
+    "599": [
+        "Fulda",
+        "Muenchen",
+        85.5
+    ],
+    "6": [
+        "Essen",
+        "Siegen",
+        3.5
+    ],
+    "60": [
+        "Duesseldorf",
+        "Mannheim",
+        264.0
+    ],
+    "600": [
+        "Fulda",
+        "Nuernberg",
+        52.0
+    ],
+    "601": [
+        "Fulda",
+        "Bayreuth",
+        7.0
+    ],
+    "602": [
+        "Fulda",
+        "Wuerzburg",
+        8.0
+    ],
+    "603": [
+        "Saarbruecken",
+        "Stuttgart",
+        68.25
+    ],
+    "604": [
+        "Saarbruecken",
+        "Karlsruhe",
+        10.5
+    ],
+    "605": [
+        "Saarbruecken",
+        "Freiburg",
+        60.0
+    ],
+    "606": [
+        "Saarbruecken",
+        "Muenchen",
+        114.0
+    ],
+    "607": [
+        "Saarbruecken",
+        "Augsburg",
+        9.0
+    ],
+    "608": [
+        "Saarbruecken",
+        "Nuernberg",
+        68.25
+    ],
+    "609": [
+        "Stuttgart",
+        "Karlsruhe",
+        52.0
+    ],
+    "61": [
+        "Duesseldorf",
+        "Giessen",
+        33.0
+    ],
+    "610": [
+        "Stuttgart",
+        "Ulm",
+        260.0
+    ],
+    "611": [
+        "Stuttgart",
+        "Konstanz",
+        39.0
+    ],
+    "612": [
+        "Stuttgart",
+        "Freiburg",
+        39.0
+    ],
+    "613": [
+        "Stuttgart",
+        "Muenchen",
+        555.75
+    ],
+    "614": [
+        "Stuttgart",
+        "Augsburg",
+        45.5
+    ],
+    "615": [
+        "Stuttgart",
+        "Kempten",
+        39.0
+    ],
+    "616": [
+        "Stuttgart",
+        "Passau",
+        19.5
+    ],
+    "617": [
+        "Stuttgart",
+        "Nuernberg",
+        338.0
+    ],
+    "618": [
+        "Stuttgart",
+        "Bayreuth",
+        45.5
+    ],
+    "619": [
+        "Stuttgart",
+        "Wuerzburg",
+        52.0
+    ],
+    "62": [
+        "Duesseldorf",
+        "Trier",
+        110.0
+    ],
+    "620": [
+        "Stuttgart",
+        "Regensburg",
+        45.5
+    ],
+    "621": [
+        "Karlsruhe",
+        "Ulm",
+        7.0
+    ],
+    "622": [
+        "Karlsruhe",
+        "Konstanz",
+        8.0
+    ],
+    "623": [
+        "Karlsruhe",
+        "Freiburg",
+        6.0
+    ],
+    "624": [
+        "Karlsruhe",
+        "Muenchen",
+        95.0
+    ],
+    "625": [
+        "Karlsruhe",
+        "Augsburg",
+        8.0
+    ],
+    "626": [
+        "Karlsruhe",
+        "Kempten",
+        7.0
+    ],
+    "627": [
+        "Karlsruhe",
+        "Nuernberg",
+        58.5
+    ],
+    "628": [
+        "Karlsruhe",
+        "Bayreuth",
+        8.0
+    ],
+    "629": [
+        "Karlsruhe",
+        "Wuerzburg",
+        10.0
+    ],
+    "63": [
+        "Duesseldorf",
+        "Fulda",
+        33.0
+    ],
+    "630": [
+        "Ulm",
+        "Konstanz",
+        40.0
+    ],
+    "631": [
+        "Ulm",
+        "Muenchen",
+        66.5
+    ],
+    "632": [
+        "Ulm",
+        "Augsburg",
+        24.0
+    ],
+    "633": [
+        "Ulm",
+        "Kempten",
+        24.0
+    ],
+    "634": [
+        "Ulm",
+        "Nuernberg",
+        39.0
+    ],
+    "635": [
+        "Ulm",
+        "Wuerzburg",
+        7.0
+    ],
+    "636": [
+        "Konstanz",
+        "Freiburg",
+        24.0
+    ],
+    "637": [
+        "Konstanz",
+        "Muenchen",
+        76.0
+    ],
+    "638": [
+        "Konstanz",
+        "Augsburg",
+        6.0
+    ],
+    "639": [
+        "Konstanz",
+        "Kempten",
+        24.0
+    ],
+    "64": [
+        "Duesseldorf",
+        "Saarbruecken",
+        330.0
+    ],
+    "640": [
+        "Konstanz",
+        "Bayreuth",
+        6.0
+    ],
+    "641": [
+        "Freiburg",
+        "Muenchen",
+        66.5
+    ],
+    "642": [
+        "Muenchen",
+        "Augsburg",
+        66.5
+    ],
+    "643": [
+        "Muenchen",
+        "Kempten",
+        57.0
+    ],
+    "644": [
+        "Muenchen",
+        "Passau",
+        28.5
+    ],
+    "645": [
+        "Muenchen",
+        "Nuernberg",
+        494.0
+    ],
+    "646": [
+        "Muenchen",
+        "Bayreuth",
+        76.0
+    ],
+    "647": [
+        "Muenchen",
+        "Wuerzburg",
+        95.0
+    ],
+    "648": [
+        "Muenchen",
+        "Regensburg",
+        66.5
+    ],
+    "649": [
+        "Augsburg",
+        "Kempten",
+        40.0
+    ],
+    "65": [
+        "Duesseldorf",
+        "Stuttgart",
+        214.5
+    ],
+    "650": [
+        "Augsburg",
+        "Nuernberg",
+        45.5
+    ],
+    "651": [
+        "Augsburg",
+        "Bayreuth",
+        6.0
+    ],
+    "652": [
+        "Augsburg",
+        "Wuerzburg",
+        7.0
+    ],
+    "653": [
+        "Passau",
+        "Nuernberg",
+        19.5
+    ],
+    "654": [
+        "Passau",
+        "Bayreuth",
+        20.0
+    ],
+    "655": [
+        "Passau",
+        "Wuerzburg",
+        3.5
+    ],
+    "656": [
+        "Passau",
+        "Regensburg",
+        12.0
+    ],
+    "657": [
+        "Nuernberg",
+        "Bayreuth",
+        39.0
+    ],
+    "658": [
+        "Nuernberg",
+        "Wuerzburg",
+        52.0
+    ],
+    "659": [
+        "Nuernberg",
+        "Regensburg",
+        39.0
+    ],
+    "66": [
+        "Duesseldorf",
+        "Karlsruhe",
+        38.5
+    ],
+    "660": [
+        "Bayreuth",
+        "Wuerzburg",
+        8.0
+    ],
+    "661": [
+        "Bayreuth",
+        "Regensburg",
+        6.0
+    ],
+    "67": [
+        "Duesseldorf",
+        "Ulm",
+        132.0
+    ],
+    "68": [
+        "Duesseldorf",
+        "Freiburg",
+        132.0
+    ],
+    "69": [
+        "Duesseldorf",
+        "Muenchen",
+        365.75
+    ],
+    "7": [
+        "Essen",
+        "Wesel",
+        3.0
+    ],
+    "70": [
+        "Duesseldorf",
+        "Augsburg",
+        220.0
+    ],
+    "71": [
+        "Duesseldorf",
+        "Nuernberg",
+        214.5
+    ],
+    "72": [
+        "Duesseldorf",
+        "Wuerzburg",
+        38.5
+    ],
+    "73": [
+        "Duesseldorf",
+        "Regensburg",
+        220.0
+    ],
+    "74": [
+        "Koeln",
+        "Dortmund",
+        35.0
+    ],
+    "75": [
+        "Koeln",
+        "Aachen",
+        40.0
+    ],
+    "76": [
+        "Koeln",
+        "Muenster",
+        18.0
+    ],
+    "77": [
+        "Koeln",
+        "Koblenz",
+        14.0
+    ],
+    "78": [
+        "Koeln",
+        "Siegen",
+        7.0
+    ],
+    "79": [
+        "Koeln",
+        "Wesel",
+        7.0
+    ],
+    "8": [
+        "Essen",
+        "Berlin",
+        36.0
+    ],
+    "80": [
+        "Koeln",
+        "Berlin",
+        72.0
+    ],
+    "81": [
+        "Koeln",
+        "Leipzig",
+        56.0
+    ],
+    "82": [
+        "Koeln",
+        "Dresden",
+        35.0
+    ],
+    "83": [
+        "Koeln",
+        "Erfurt",
+        16.0
+    ],
+    "84": [
+        "Koeln",
+        "Chemnitz",
+        6.0
+    ],
+    "85": [
+        "Koeln",
+        "Schwerin",
+        8.0
+    ],
+    "86": [
+        "Koeln",
+        "Magdeburg",
+        7.0
+    ],
+    "87": [
+        "Koeln",
+        "Hamburg",
+        84.0
+    ],
+    "88": [
+        "Koeln",
+        "Bremen",
+        18.0
+    ],
+    "89": [
+        "Koeln",
+        "Kiel",
+        18.0
+    ],
+    "9": [
+        "Essen",
+        "Leipzig",
+        28.0
+    ],
+    "90": [
+        "Koeln",
+        "Oldenburg",
+        14.0
+    ],
+    "91": [
+        "Koeln",
+        "Bremerhaven",
+        80.0
+    ],
+    "92": [
+        "Koeln",
+        "Norden",
+        160.0
+    ],
+    "93": [
+        "Koeln",
+        "Hannover",
+        24.0
+    ],
+    "94": [
+        "Koeln",
+        "Bielefeld",
+        14.0
+    ],
+    "95": [
+        "Koeln",
+        "Braunschweig",
+        24.0
+    ],
+    "96": [
+        "Koeln",
+        "Osnabrueck",
+        6.0
+    ],
+    "97": [
+        "Koeln",
+        "Kassel",
+        8.0
+    ],
+    "98": [
+        "Koeln",
+        "Frankfurt",
+        154.0
+    ],
+    "99": [
+        "Koeln",
+        "Darmstadt",
+        24.0
+    ]
+}
