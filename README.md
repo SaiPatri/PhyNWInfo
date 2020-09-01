@@ -1,5 +1,5 @@
 # PhyNWInfo
-## [NOTE: Datasets for ECOC2020 will be uploaded by 04.09.2020 due to vacations. Thank you for your patience.]
+#### [NOTE: Datasets for ECOC2020 for Germany and US are available. Others will be made available based on decision of the paper. Thank you for your patience.]
 ## A Physical Network Information resource for reference networks
 Reference Physical Network information JSON files, which can be used for various
 Optical Network assessment 
