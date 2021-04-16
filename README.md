@@ -1,17 +1,20 @@
 # PhyNWInfo
-#### [NOTE: Datasets for ECOC2020 for Germany and US are available. Others will be made available based on decision of the paper. Thank you for your patience.]
 ## A Physical Network Information resource for reference networks
 Reference Physical Network information JSON files, which can be used for various
 Optical Network assessment 
 
 ## Introduction
-For HeCSON and many other path calculation models, a detailed description of the
+For flexible grid optical network planning, a detailed description of the
 underlying physical network is needed.
 
 More importantly, for QoT calculations, one needs information related to the
 number of spans, the type of fiber used, the gain and noise figure of EDFAs on 
-the links, etc. These files can be downloaded and used as a reference for 
-various path calculation models or to reproduce the results of HeCSON.
+the links, etc. 
+
+For generating traffic demands, we use a traffic model described in the paper [Planning Optical Networks for Unexpected Traffic Growth](https://arxiv.org/abs/2012.04360).
+
+
+These files can be downloaded and used as a reference for various path calculation models or to reproduce the results of our published works, like [HeCSON: OFC 2020](https://arxiv.org/abs/2005.07610), [multi-period planner: ECOC 2020](https://arxiv.org/abs/2012.04360), or [Dynamic Network Reconfigurations: Accepted for OFC 2021](https://mediatum.ub.tum.de/doc/1601724/2y5lg1p2idvmvj7rrpja9fz31.Optical_Rerouting_OFC.pdf).
 
 ## Networks
 Currently, we have the following networks available
@@ -22,10 +25,23 @@ Currently, we have the following networks available
 - US Abilene
 
 Each network is divided into its own directory and consists of the node, links
-and demands json files. The nodes and the demand files are pretty straightforward.
-However, the link json files consist of more information.
+and demands json files.
 
-The basic nodes, links and demand files were taken from [SNDLib](http://sndlib.zib.de/home.action).
+The basic nodes, links and demand files were taken from [SNDLib](http://sndlib.zib.de/home.action) and further modified to suit optical networks
+
+## Physical Node information
+Traverse to the node information file. Each node consists the following details.
+"NodeID": \[ Node_Name, cood-y, cood-x, num_of_IXPs, num_of-DCs \]
+IXPs - Internet Exchange Points and DCs - Data centers (taken from [Data-center map](https://www.datacentermap.com/) )
+Eg:
+"0": [
+        "Berlin",
+        506.0,
+        955.0,
+        7,
+        16
+ ]
+ 
 
 ## Physical Link Information
 
@@ -82,6 +98,9 @@ As an example, the Nobel-EU span distribution is seen as follows:
 
 ![Eu-Nobel Span Distribution](https://github.com/SaiPatri/PhyNWInfo/blob/master/Inkedspanlens-eu_LI.jpg)
 
+## Traffic Growth
+The multi-year growth of traffic for US and Germany follows CISCO VNI forecast (expected growth). The graphs are available in the folder Traffic Model.
+
 ## More questions?
 
-In case of doubts, or questions on how to use this dataset, please contact Sai Kireet Patri (SPatri@adva.com)
+In case of questions on how to use this dataset, or opportunities for extension/collaboration please contact Sai Kireet Patri (SPatri@adva.com).
