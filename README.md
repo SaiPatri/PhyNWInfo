@@ -23,11 +23,14 @@ Currently, we have the following networks available
 - Germany 17
 - Nobel-EU
 - US Abilene
+- Spain
+- Sweden
 
 Each network is divided into its own directory and consists of the node, links
 and demands json files.
 
-The basic nodes, links and demand files were taken from [SNDLib](http://sndlib.zib.de/home.action) and further modified to suit optical networks
+The basic nodes, links and demand files were taken from [SNDLib](http://sndlib.zib.de/home.action) and further modified to suit optical networks.
+The Spanish and Swedish topologies can be found in [Internet Topology Zoo](http://www.topology-zoo.org/dataset.html) as RedIRIS and OptoSUNET topologies respectively.
 
 ## Physical Node information
 Traverse to the node information file. Each node consists the following details.
