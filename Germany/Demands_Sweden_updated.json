@@ -1,0 +1,1432 @@
+{
+  "0": [
+    "Goteborg",
+    "Skovde",
+    53.75
+  ],
+  "1": [
+    "Goteborg",
+    "Orebro",
+    59.375
+  ],
+  "10": [
+    "Goteborg",
+    "Kristianstad",
+    48.125
+  ],
+  "100": [
+    "Halmstad",
+    "Malmo",
+    35.0
+  ],
+  "101": [
+    "Halmstad",
+    "Stockholm",
+    368.75
+  ],
+  "102": [
+    "Halmstad",
+    "Vasten",
+    27.5
+  ],
+  "103": [
+    "Halmstad",
+    "Kiruna",
+    42.5
+  ],
+  "104": [
+    "Halmstad",
+    "Lulea",
+    20.0
+  ],
+  "105": [
+    "Halmstad",
+    "Umea",
+    27.5
+  ],
+  "106": [
+    "Halmstad",
+    "Sundsvall",
+    20.0
+  ],
+  "107": [
+    "Halmstad",
+    "Gavle",
+    29.375
+  ],
+  "108": [
+    "Halmstad",
+    "Borlange",
+    27.5
+  ],
+  "109": [
+    "Halmstad",
+    "Uppsala",
+    27.5
+  ],
+  "11": [
+    "Goteborg",
+    "Ronneby",
+    48.125
+  ],
+  "110": [
+    "Linkoping",
+    "Boras",
+    35.0
+  ],
+  "111": [
+    "Linkoping",
+    "Trollhattan",
+    38.75
+  ],
+  "112": [
+    "Linkoping",
+    "Jonkoping",
+    65.0
+  ],
+  "113": [
+    "Linkoping",
+    "Vaxjo",
+    38.75
+  ],
+  "114": [
+    "Linkoping",
+    "Lund",
+    38.75
+  ],
+  "115": [
+    "Linkoping",
+    "Kristianstad",
+    35.0
+  ],
+  "116": [
+    "Linkoping",
+    "Ronneby",
+    35.0
+  ],
+  "117": [
+    "Linkoping",
+    "Kalmar",
+    35.0
+  ],
+  "118": [
+    "Linkoping",
+    "Visby",
+    65.0
+  ],
+  "119": [
+    "Linkoping",
+    "Malmo",
+    50.0
+  ],
+  "12": [
+    "Goteborg",
+    "Kalmar",
+    48.125
+  ],
+  "120": [
+    "Linkoping",
+    "Stockholm",
+    601.25
+  ],
+  "121": [
+    "Linkoping",
+    "Vasten",
+    35.0
+  ],
+  "122": [
+    "Linkoping",
+    "Kiruna",
+    65.0
+  ],
+  "123": [
+    "Linkoping",
+    "Lulea",
+    20.0
+  ],
+  "124": [
+    "Linkoping",
+    "Umea",
+    35.0
+  ],
+  "125": [
+    "Linkoping",
+    "Sundsvall",
+    20.0
+  ],
+  "126": [
+    "Linkoping",
+    "Gavle",
+    38.75
+  ],
+  "127": [
+    "Linkoping",
+    "Borlange",
+    35.0
+  ],
+  "128": [
+    "Linkoping",
+    "Uppsala",
+    35.0
+  ],
+  "129": [
+    "Boras",
+    "Trollhattan",
+    29.375
+  ],
+  "13": [
+    "Goteborg",
+    "Visby",
+    42.5
+  ],
+  "130": [
+    "Boras",
+    "Jonkoping",
+    27.5
+  ],
+  "131": [
+    "Boras",
+    "Vaxjo",
+    29.375
+  ],
+  "132": [
+    "Boras",
+    "Lund",
+    29.375
+  ],
+  "133": [
+    "Boras",
+    "Kristianstad",
+    27.5
+  ],
+  "134": [
+    "Boras",
+    "Ronneby",
+    27.5
+  ],
+  "135": [
+    "Boras",
+    "Kalmar",
+    27.5
+  ],
+  "136": [
+    "Boras",
+    "Visby",
+    42.5
+  ],
+  "137": [
+    "Boras",
+    "Malmo",
+    35.0
+  ],
+  "138": [
+    "Boras",
+    "Stockholm",
+    368.75
+  ],
+  "139": [
+    "Boras",
+    "Vasten",
+    27.5
+  ],
+  "14": [
+    "Goteborg",
+    "Malmo",
+    76.25
+  ],
+  "140": [
+    "Boras",
+    "Kiruna",
+    42.5
+  ],
+  "141": [
+    "Boras",
+    "Lulea",
+    20.0
+  ],
+  "142": [
+    "Boras",
+    "Umea",
+    27.5
+  ],
+  "143": [
+    "Boras",
+    "Sundsvall",
+    20.0
+  ],
+  "144": [
+    "Boras",
+    "Gavle",
+    29.375
+  ],
+  "145": [
+    "Boras",
+    "Borlange",
+    27.5
+  ],
+  "146": [
+    "Boras",
+    "Uppsala",
+    27.5
+  ],
+  "147": [
+    "Trollhattan",
+    "Jonkoping",
+    29.375
+  ],
+  "148": [
+    "Trollhattan",
+    "Vaxjo",
+    31.25
+  ],
+  "149": [
+    "Trollhattan",
+    "Lund",
+    31.25
+  ],
+  "15": [
+    "Goteborg",
+    "Stockholm",
+    1240.625
+  ],
+  "150": [
+    "Trollhattan",
+    "Kristianstad",
+    29.375
+  ],
+  "151": [
+    "Trollhattan",
+    "Ronneby",
+    29.375
+  ],
+  "152": [
+    "Trollhattan",
+    "Kalmar",
+    29.375
+  ],
+  "153": [
+    "Trollhattan",
+    "Visby",
+    27.5
+  ],
+  "154": [
+    "Trollhattan",
+    "Malmo",
+    38.75
+  ],
+  "155": [
+    "Trollhattan",
+    "Stockholm",
+    426.875
+  ],
+  "156": [
+    "Trollhattan",
+    "Vasten",
+    29.375
+  ],
+  "157": [
+    "Trollhattan",
+    "Kiruna",
+    27.5
+  ],
+  "158": [
+    "Trollhattan",
+    "Lulea",
+    20.0
+  ],
+  "159": [
+    "Trollhattan",
+    "Umea",
+    29.375
+  ],
+  "16": [
+    "Goteborg",
+    "Vasten",
+    48.125
+  ],
+  "160": [
+    "Trollhattan",
+    "Sundsvall",
+    20.0
+  ],
+  "161": [
+    "Trollhattan",
+    "Gavle",
+    31.25
+  ],
+  "162": [
+    "Trollhattan",
+    "Borlange",
+    29.375
+  ],
+  "163": [
+    "Trollhattan",
+    "Uppsala",
+    29.375
+  ],
+  "164": [
+    "Jonkoping",
+    "Vaxjo",
+    27.5
+  ],
+  "165": [
+    "Jonkoping",
+    "Lund",
+    29.375
+  ],
+  "166": [
+    "Jonkoping",
+    "Kristianstad",
+    27.5
+  ],
+  "167": [
+    "Jonkoping",
+    "Ronneby",
+    27.5
+  ],
+  "168": [
+    "Jonkoping",
+    "Kalmar",
+    27.5
+  ],
+  "169": [
+    "Jonkoping",
+    "Visby",
+    42.5
+  ],
+  "17": [
+    "Goteborg",
+    "Kiruna",
+    42.5
+  ],
+  "170": [
+    "Jonkoping",
+    "Malmo",
+    35.0
+  ],
+  "171": [
+    "Jonkoping",
+    "Stockholm",
+    368.75
+  ],
+  "172": [
+    "Jonkoping",
+    "Vasten",
+    27.5
+  ],
+  "173": [
+    "Jonkoping",
+    "Kiruna",
+    42.5
+  ],
+  "174": [
+    "Jonkoping",
+    "Lulea",
+    20.0
+  ],
+  "175": [
+    "Jonkoping",
+    "Umea",
+    27.5
+  ],
+  "176": [
+    "Jonkoping",
+    "Sundsvall",
+    20.0
+  ],
+  "177": [
+    "Jonkoping",
+    "Gavle",
+    29.375
+  ],
+  "178": [
+    "Jonkoping",
+    "Borlange",
+    27.5
+  ],
+  "179": [
+    "Jonkoping",
+    "Uppsala",
+    27.5
+  ],
+  "18": [
+    "Goteborg",
+    "Lulea",
+    20.0
+  ],
+  "180": [
+    "Vaxjo",
+    "Lund",
+    29.375
+  ],
+  "181": [
+    "Vaxjo",
+    "Kristianstad",
+    29.375
+  ],
+  "182": [
+    "Vaxjo",
+    "Ronneby",
+    29.375
+  ],
+  "183": [
+    "Vaxjo",
+    "Kalmar",
+    27.5
+  ],
+  "184": [
+    "Vaxjo",
+    "Visby",
+    27.5
+  ],
+  "185": [
+    "Vaxjo",
+    "Malmo",
+    38.75
+  ],
+  "186": [
+    "Vaxjo",
+    "Stockholm",
+    426.875
+  ],
+  "187": [
+    "Vaxjo",
+    "Vasten",
+    29.375
+  ],
+  "188": [
+    "Vaxjo",
+    "Kiruna",
+    27.5
+  ],
+  "189": [
+    "Vaxjo",
+    "Lulea",
+    20.0
+  ],
+  "19": [
+    "Goteborg",
+    "Umea",
+    48.125
+  ],
+  "190": [
+    "Vaxjo",
+    "Umea",
+    29.375
+  ],
+  "191": [
+    "Vaxjo",
+    "Sundsvall",
+    20.0
+  ],
+  "192": [
+    "Vaxjo",
+    "Gavle",
+    31.25
+  ],
+  "193": [
+    "Vaxjo",
+    "Borlange",
+    29.375
+  ],
+  "194": [
+    "Vaxjo",
+    "Uppsala",
+    29.375
+  ],
+  "195": [
+    "Lund",
+    "Kristianstad",
+    29.375
+  ],
+  "196": [
+    "Lund",
+    "Ronneby",
+    29.375
+  ],
+  "197": [
+    "Lund",
+    "Kalmar",
+    29.375
+  ],
+  "198": [
+    "Lund",
+    "Visby",
+    27.5
+  ],
+  "199": [
+    "Lund",
+    "Malmo",
+    35.0
+  ],
+  "2": [
+    "Goteborg",
+    "Karlstad",
+    48.125
+  ],
+  "20": [
+    "Goteborg",
+    "Sundsvall",
+    20.0
+  ],
+  "200": [
+    "Lund",
+    "Stockholm",
+    426.875
+  ],
+  "201": [
+    "Lund",
+    "Vasten",
+    29.375
+  ],
+  "202": [
+    "Lund",
+    "Kiruna",
+    27.5
+  ],
+  "203": [
+    "Lund",
+    "Lulea",
+    20.0
+  ],
+  "204": [
+    "Lund",
+    "Umea",
+    29.375
+  ],
+  "205": [
+    "Lund",
+    "Sundsvall",
+    20.0
+  ],
+  "206": [
+    "Lund",
+    "Gavle",
+    31.25
+  ],
+  "207": [
+    "Lund",
+    "Borlange",
+    29.375
+  ],
+  "208": [
+    "Lund",
+    "Uppsala",
+    29.375
+  ],
+  "209": [
+    "Kristianstad",
+    "Ronneby",
+    42.5
+  ],
+  "21": [
+    "Goteborg",
+    "Gavle",
+    53.75
+  ],
+  "210": [
+    "Kristianstad",
+    "Kalmar",
+    27.5
+  ],
+  "211": [
+    "Kristianstad",
+    "Visby",
+    42.5
+  ],
+  "212": [
+    "Kristianstad",
+    "Malmo",
+    65.0
+  ],
+  "213": [
+    "Kristianstad",
+    "Stockholm",
+    368.75
+  ],
+  "214": [
+    "Kristianstad",
+    "Vasten",
+    27.5
+  ],
+  "215": [
+    "Kristianstad",
+    "Kiruna",
+    42.5
+  ],
+  "216": [
+    "Kristianstad",
+    "Lulea",
+    20.0
+  ],
+  "217": [
+    "Kristianstad",
+    "Umea",
+    27.5
+  ],
+  "218": [
+    "Kristianstad",
+    "Sundsvall",
+    20.0
+  ],
+  "219": [
+    "Kristianstad",
+    "Gavle",
+    29.375
+  ],
+  "22": [
+    "Goteborg",
+    "Borlange",
+    48.125
+  ],
+  "220": [
+    "Kristianstad",
+    "Borlange",
+    27.5
+  ],
+  "221": [
+    "Kristianstad",
+    "Uppsala",
+    27.5
+  ],
+  "222": [
+    "Ronneby",
+    "Kalmar",
+    42.5
+  ],
+  "223": [
+    "Ronneby",
+    "Visby",
+    42.5
+  ],
+  "224": [
+    "Ronneby",
+    "Malmo",
+    35.0
+  ],
+  "225": [
+    "Ronneby",
+    "Stockholm",
+    368.75
+  ],
+  "226": [
+    "Ronneby",
+    "Vasten",
+    27.5
+  ],
+  "227": [
+    "Ronneby",
+    "Kiruna",
+    42.5
+  ],
+  "228": [
+    "Ronneby",
+    "Lulea",
+    20.0
+  ],
+  "229": [
+    "Ronneby",
+    "Umea",
+    27.5
+  ],
+  "23": [
+    "Goteborg",
+    "Uppsala",
+    48.125
+  ],
+  "230": [
+    "Ronneby",
+    "Sundsvall",
+    20.0
+  ],
+  "231": [
+    "Ronneby",
+    "Gavle",
+    29.375
+  ],
+  "232": [
+    "Ronneby",
+    "Borlange",
+    27.5
+  ],
+  "233": [
+    "Ronneby",
+    "Uppsala",
+    27.5
+  ],
+  "234": [
+    "Kalmar",
+    "Visby",
+    42.5
+  ],
+  "235": [
+    "Kalmar",
+    "Malmo",
+    35.0
+  ],
+  "236": [
+    "Kalmar",
+    "Stockholm",
+    368.75
+  ],
+  "237": [
+    "Kalmar",
+    "Vasten",
+    27.5
+  ],
+  "238": [
+    "Kalmar",
+    "Kiruna",
+    42.5
+  ],
+  "239": [
+    "Kalmar",
+    "Lulea",
+    20.0
+  ],
+  "24": [
+    "Skovde",
+    "Orebro",
+    31.25
+  ],
+  "240": [
+    "Kalmar",
+    "Umea",
+    27.5
+  ],
+  "241": [
+    "Kalmar",
+    "Sundsvall",
+    20.0
+  ],
+  "242": [
+    "Kalmar",
+    "Gavle",
+    29.375
+  ],
+  "243": [
+    "Kalmar",
+    "Borlange",
+    27.5
+  ],
+  "244": [
+    "Kalmar",
+    "Uppsala",
+    27.5
+  ],
+  "245": [
+    "Visby",
+    "Malmo",
+    65.0
+  ],
+  "247": [
+    "Visby",
+    "Vasten",
+    42.5
+  ],
+  "248": [
+    "Visby",
+    "Kiruna",
+    27.5
+  ],
+  "249": [
+    "Visby",
+    "Lulea",
+    20.0
+  ],
+  "25": [
+    "Skovde",
+    "Karlstad",
+    29.375
+  ],
+  "250": [
+    "Visby",
+    "Umea",
+    42.5
+  ],
+  "251": [
+    "Visby",
+    "Sundsvall",
+    20.0
+  ],
+  "252": [
+    "Visby",
+    "Gavle",
+    27.5
+  ],
+  "253": [
+    "Visby",
+    "Borlange",
+    42.5
+  ],
+  "254": [
+    "Visby",
+    "Uppsala",
+    42.5
+  ],
+  "255": [
+    "Malmo",
+    "Stockholm",
+    717.5
+  ],
+  "256": [
+    "Malmo",
+    "Vasten",
+    35.0
+  ],
+  "257": [
+    "Malmo",
+    "Kiruna",
+    65.0
+  ],
+  "258": [
+    "Malmo",
+    "Lulea",
+    20.0
+  ],
+  "259": [
+    "Malmo",
+    "Umea",
+    35.0
+  ],
+  "26": [
+    "Skovde",
+    "Halmstad",
+    29.375
+  ],
+  "260": [
+    "Malmo",
+    "Sundsvall",
+    20.0
+  ],
+  "261": [
+    "Malmo",
+    "Gavle",
+    38.75
+  ],
+  "262": [
+    "Malmo",
+    "Borlange",
+    35.0
+  ],
+  "263": [
+    "Malmo",
+    "Uppsala",
+    35.0
+  ],
+  "264": [
+    "Stockholm",
+    "Vasten",
+    310.625
+  ],
+  "265": [
+    "Stockholm",
+    "Kiruna",
+    310.625
+  ],
+  "266": [
+    "Stockholm",
+    "Lulea",
+    20.0
+  ],
+  "267": [
+    "Stockholm",
+    "Umea",
+    368.75
+  ],
+  "268": [
+    "Stockholm",
+    "Sundsvall",
+    20.0
+  ],
+  "269": [
+    "Stockholm",
+    "Gavle",
+    426.875
+  ],
+  "27": [
+    "Skovde",
+    "Linkoping",
+    38.75
+  ],
+  "270": [
+    "Stockholm",
+    "Borlange",
+    368.75
+  ],
+  "271": [
+    "Stockholm",
+    "Uppsala",
+    310.625
+  ],
+  "272": [
+    "Vasten",
+    "Kiruna",
+    42.5
+  ],
+  "273": [
+    "Vasten",
+    "Lulea",
+    20.0
+  ],
+  "274": [
+    "Vasten",
+    "Umea",
+    27.5
+  ],
+  "275": [
+    "Vasten",
+    "Sundsvall",
+    20.0
+  ],
+  "276": [
+    "Vasten",
+    "Gavle",
+    29.375
+  ],
+  "277": [
+    "Vasten",
+    "Borlange",
+    27.5
+  ],
+  "278": [
+    "Vasten",
+    "Uppsala",
+    27.5
+  ],
+  "28": [
+    "Skovde",
+    "Boras",
+    27.5
+  ],
+  "289": [
+    "Lulea",
+    "Uppsala",
+    20.0
+  ],
+  "29": [
+    "Skovde",
+    "Trollhattan",
+    29.375
+  ],
+  "292": [
+    "Umea",
+    "Borlange",
+    27.5
+  ],
+  "293": [
+    "Umea",
+    "Uppsala",
+    27.5
+  ],
+  "295": [
+    "Sundsvall",
+    "Borlange",
+    20.0
+  ],
+  "296": [
+    "Sundsvall",
+    "Uppsala",
+    20.0
+  ],
+  "297": [
+    "Gavle",
+    "Borlange",
+    27.5
+  ],
+  "298": [
+    "Gavle",
+    "Uppsala",
+    27.5
+  ],
+  "299": [
+    "Borlange",
+    "Uppsala",
+    27.5
+  ],
+  "3": [
+    "Goteborg",
+    "Halmstad",
+    42.5
+  ],
+  "30": [
+    "Skovde",
+    "Jonkoping",
+    29.375
+  ],
+  "31": [
+    "Skovde",
+    "Vaxjo",
+    31.25
+  ],
+  "32": [
+    "Skovde",
+    "Lund",
+    31.25
+  ],
+  "33": [
+    "Skovde",
+    "Kristianstad",
+    29.375
+  ],
+  "34": [
+    "Skovde",
+    "Ronneby",
+    29.375
+  ],
+  "35": [
+    "Skovde",
+    "Kalmar",
+    29.375
+  ],
+  "36": [
+    "Skovde",
+    "Visby",
+    27.5
+  ],
+  "37": [
+    "Skovde",
+    "Malmo",
+    38.75
+  ],
+  "38": [
+    "Skovde",
+    "Stockholm",
+    426.875
+  ],
+  "39": [
+    "Skovde",
+    "Vasten",
+    29.375
+  ],
+  "4": [
+    "Goteborg",
+    "Linkoping",
+    76.25
+  ],
+  "40": [
+    "Skovde",
+    "Kiruna",
+    27.5
+  ],
+  "41": [
+    "Skovde",
+    "Lulea",
+    20.0
+  ],
+  "42": [
+    "Skovde",
+    "Umea",
+    29.375
+  ],
+  "43": [
+    "Skovde",
+    "Sundsvall",
+    20.0
+  ],
+  "44": [
+    "Skovde",
+    "Gavle",
+    31.25
+  ],
+  "45": [
+    "Skovde",
+    "Borlange",
+    29.375
+  ],
+  "46": [
+    "Skovde",
+    "Uppsala",
+    29.375
+  ],
+  "47": [
+    "Orebro",
+    "Karlstad",
+    29.375
+  ],
+  "48": [
+    "Orebro",
+    "Halmstad",
+    31.25
+  ],
+  "49": [
+    "Orebro",
+    "Linkoping",
+    42.5
+  ],
+  "5": [
+    "Goteborg",
+    "Boras",
+    42.5
+  ],
+  "50": [
+    "Orebro",
+    "Boras",
+    31.25
+  ],
+  "51": [
+    "Orebro",
+    "Trollhattan",
+    33.125
+  ],
+  "52": [
+    "Orebro",
+    "Jonkoping",
+    31.25
+  ],
+  "53": [
+    "Orebro",
+    "Vaxjo",
+    33.125
+  ],
+  "54": [
+    "Orebro",
+    "Lund",
+    33.125
+  ],
+  "55": [
+    "Orebro",
+    "Kristianstad",
+    31.25
+  ],
+  "56": [
+    "Orebro",
+    "Ronneby",
+    31.25
+  ],
+  "57": [
+    "Orebro",
+    "Kalmar",
+    31.25
+  ],
+  "58": [
+    "Orebro",
+    "Visby",
+    29.375
+  ],
+  "59": [
+    "Orebro",
+    "Malmo",
+    42.5
+  ],
+  "6": [
+    "Goteborg",
+    "Trollhattan",
+    48.125
+  ],
+  "60": [
+    "Orebro",
+    "Stockholm",
+    485.0
+  ],
+  "61": [
+    "Orebro",
+    "Vasten",
+    29.375
+  ],
+  "62": [
+    "Orebro",
+    "Kiruna",
+    29.375
+  ],
+  "63": [
+    "Orebro",
+    "Lulea",
+    20.0
+  ],
+  "64": [
+    "Orebro",
+    "Umea",
+    31.25
+  ],
+  "65": [
+    "Orebro",
+    "Sundsvall",
+    20.0
+  ],
+  "66": [
+    "Orebro",
+    "Gavle",
+    33.125
+  ],
+  "67": [
+    "Orebro",
+    "Borlange",
+    29.375
+  ],
+  "68": [
+    "Orebro",
+    "Uppsala",
+    31.25
+  ],
+  "69": [
+    "Karlstad",
+    "Halmstad",
+    27.5
+  ],
+  "7": [
+    "Goteborg",
+    "Jonkoping",
+    48.125
+  ],
+  "70": [
+    "Karlstad",
+    "Linkoping",
+    35.0
+  ],
+  "71": [
+    "Karlstad",
+    "Boras",
+    27.5
+  ],
+  "72": [
+    "Karlstad",
+    "Trollhattan",
+    27.5
+  ],
+  "73": [
+    "Karlstad",
+    "Jonkoping",
+    27.5
+  ],
+  "74": [
+    "Karlstad",
+    "Vaxjo",
+    29.375
+  ],
+  "75": [
+    "Karlstad",
+    "Lund",
+    29.375
+  ],
+  "76": [
+    "Karlstad",
+    "Kristianstad",
+    27.5
+  ],
+  "77": [
+    "Karlstad",
+    "Ronneby",
+    27.5
+  ],
+  "78": [
+    "Karlstad",
+    "Kalmar",
+    27.5
+  ],
+  "79": [
+    "Karlstad",
+    "Visby",
+    42.5
+  ],
+  "8": [
+    "Goteborg",
+    "Vaxjo",
+    53.75
+  ],
+  "80": [
+    "Karlstad",
+    "Malmo",
+    35.0
+  ],
+  "81": [
+    "Karlstad",
+    "Stockholm",
+    368.75
+  ],
+  "82": [
+    "Karlstad",
+    "Vasten",
+    27.5
+  ],
+  "83": [
+    "Karlstad",
+    "Kiruna",
+    42.5
+  ],
+  "84": [
+    "Karlstad",
+    "Lulea",
+    20.0
+  ],
+  "85": [
+    "Karlstad",
+    "Umea",
+    27.5
+  ],
+  "86": [
+    "Karlstad",
+    "Sundsvall",
+    20.0
+  ],
+  "87": [
+    "Karlstad",
+    "Gavle",
+    29.375
+  ],
+  "88": [
+    "Karlstad",
+    "Borlange",
+    27.5
+  ],
+  "89": [
+    "Karlstad",
+    "Uppsala",
+    27.5
+  ],
+  "9": [
+    "Goteborg",
+    "Lund",
+    53.75
+  ],
+  "90": [
+    "Halmstad",
+    "Linkoping",
+    35.0
+  ],
+  "91": [
+    "Halmstad",
+    "Boras",
+    27.5
+  ],
+  "92": [
+    "Halmstad",
+    "Trollhattan",
+    29.375
+  ],
+  "93": [
+    "Halmstad",
+    "Jonkoping",
+    27.5
+  ],
+  "94": [
+    "Halmstad",
+    "Vaxjo",
+    29.375
+  ],
+  "95": [
+    "Halmstad",
+    "Lund",
+    27.5
+  ],
+  "96": [
+    "Halmstad",
+    "Kristianstad",
+    27.5
+  ],
+  "97": [
+    "Halmstad",
+    "Ronneby",
+    27.5
+  ],
+  "98": [
+    "Halmstad",
+    "Kalmar",
+    27.5
+  ],
+  "99": [
+    "Halmstad",
+    "Visby",
+    42.5
+  ]
+}

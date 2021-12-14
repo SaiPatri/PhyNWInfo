@@ -1,0 +1,929 @@
+{
+  "0": {
+    "linkNo": 0,
+    "startNode": "Goteborg",
+    "endNode": "Halmstad",
+    "linkDist": 138.97,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Goteborg_Halmstad_1",
+        "FiberType": "G.652",
+        "SpanLength": 81.39489022376186,
+        "EDFAGain": 17.90687584922761,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Goteborg_Halmstad_2",
+        "FiberType": "G.652",
+        "SpanLength": 57.575109776238136,
+        "EDFAGain": 12.666524150772391,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "1": {
+    "linkNo": 1,
+    "startNode": "Goteborg",
+    "endNode": "Boras",
+    "linkDist": 64.48,
+    "noChannels": 0,
+    "noSpans": 1,
+    "spanList": [
+      {
+        "LinkName": "Span_Goteborg_Boras_1",
+        "FiberType": "G.652",
+        "SpanLength": 64.48,
+        "EDFAGain": 14.1856,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "2": {
+    "linkNo": 2,
+    "startNode": "Goteborg",
+    "endNode": "Trollhattan",
+    "linkDist": 75.85,
+    "noChannels": 0,
+    "noSpans": 1,
+    "spanList": [
+      {
+        "LinkName": "Span_Goteborg_Trollhattan_1",
+        "FiberType": "G.652",
+        "SpanLength": 75.85,
+        "EDFAGain": 16.686999999999998,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "3": {
+    "linkNo": 3,
+    "startNode": "Skovde",
+    "endNode": "Orebro",
+    "linkDist": 145.91,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Skovde_Orebro_1",
+        "FiberType": "G.652",
+        "SpanLength": 78.52871935296932,
+        "EDFAGain": 17.27631825765325,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Skovde_Orebro_2",
+        "FiberType": "G.652",
+        "SpanLength": 67.38128064703068,
+        "EDFAGain": 14.82388174234675,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "4": {
+    "linkNo": 4,
+    "startNode": "Skovde",
+    "endNode": "Boras",
+    "linkDist": 111.92,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Skovde_Boras_1",
+        "FiberType": "G.652",
+        "SpanLength": 82.17931099664172,
+        "EDFAGain": 18.07944841926118,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Skovde_Boras_2",
+        "FiberType": "G.652",
+        "SpanLength": 29.740689003358284,
+        "EDFAGain": 6.542951580738823,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "5": {
+    "linkNo": 5,
+    "startNode": "Skovde",
+    "endNode": "Trollhattan",
+    "linkDist": 104.34,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Skovde_Trollhattan_1",
+        "FiberType": "G.652",
+        "SpanLength": 78.18759510968216,
+        "EDFAGain": 17.201270924130075,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Skovde_Trollhattan_2",
+        "FiberType": "G.652",
+        "SpanLength": 26.15240489031784,
+        "EDFAGain": 5.753529075869925,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "6": {
+    "linkNo": 6,
+    "startNode": "Orebro",
+    "endNode": "Borlange",
+    "linkDist": 160.87,
+    "noChannels": 0,
+    "noSpans": 3,
+    "spanList": [
+      {
+        "LinkName": "Span_Orebro_Borlange_1",
+        "FiberType": "G.652",
+        "SpanLength": 80.17405659401473,
+        "EDFAGain": 17.63829245068324,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Borlange_2",
+        "FiberType": "G.652",
+        "SpanLength": 80.2279802843068,
+        "EDFAGain": 17.650155662547494,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Borlange_3",
+        "FiberType": "G.652",
+        "SpanLength": 0.46796312167847987,
+        "EDFAGain": 0.10295188676926557,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "7": {
+    "linkNo": 7,
+    "startNode": "Orebro",
+    "endNode": "Karlstad",
+    "linkDist": 110.42,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Orebro_Karlstad_1",
+        "FiberType": "G.652",
+        "SpanLength": 75.95357309774602,
+        "EDFAGain": 16.709786081504124,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Karlstad_2",
+        "FiberType": "G.652",
+        "SpanLength": 34.466426902253986,
+        "EDFAGain": 7.582613918495877,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "8": {
+    "linkNo": 8,
+    "startNode": "Orebro",
+    "endNode": "Vasten",
+    "linkDist": 1034.86,
+    "noChannels": 0,
+    "noSpans": 13,
+    "spanList": [
+      {
+        "LinkName": "Span_Orebro_Vasten_1",
+        "FiberType": "G.652",
+        "SpanLength": 79.11919481483038,
+        "EDFAGain": 17.406222859262684,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_2",
+        "FiberType": "G.652",
+        "SpanLength": 77.25426150350744,
+        "EDFAGain": 16.995937530771638,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_3",
+        "FiberType": "G.652",
+        "SpanLength": 80.51431653750127,
+        "EDFAGain": 17.71314963825028,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_4",
+        "FiberType": "G.652",
+        "SpanLength": 77.88132089227285,
+        "EDFAGain": 17.133890596300027,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_5",
+        "FiberType": "G.652",
+        "SpanLength": 81.31703676233508,
+        "EDFAGain": 17.889748087713716,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_6",
+        "FiberType": "G.652",
+        "SpanLength": 80.49879577397535,
+        "EDFAGain": 17.709735070274576,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_7",
+        "FiberType": "G.652",
+        "SpanLength": 77.53208322705964,
+        "EDFAGain": 17.05705830995312,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_8",
+        "FiberType": "G.652",
+        "SpanLength": 83.04652269661831,
+        "EDFAGain": 18.27023499325603,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_9",
+        "FiberType": "G.652",
+        "SpanLength": 77.40912671577166,
+        "EDFAGain": 17.030007877469767,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_10",
+        "FiberType": "G.652",
+        "SpanLength": 79.67608874144311,
+        "EDFAGain": 17.528739523117483,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_11",
+        "FiberType": "G.652",
+        "SpanLength": 81.69653883388747,
+        "EDFAGain": 17.973238543455246,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_12",
+        "FiberType": "G.652",
+        "SpanLength": 82.60393511399351,
+        "EDFAGain": 18.172865725078573,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Orebro_Vasten_13",
+        "FiberType": "G.652",
+        "SpanLength": 76.31077838680395,
+        "EDFAGain": 16.78837124509687,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "9": {
+    "linkNo": 9,
+    "startNode": "Karlstad",
+    "endNode": "Trollhattan",
+    "linkDist": 171.4,
+    "noChannels": 0,
+    "noSpans": 3,
+    "spanList": [
+      {
+        "LinkName": "Span_Karlstad_Trollhattan_1",
+        "FiberType": "G.652",
+        "SpanLength": 78.61489932355354,
+        "EDFAGain": 17.29527785118178,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Karlstad_Trollhattan_2",
+        "FiberType": "G.652",
+        "SpanLength": 82.3077645990318,
+        "EDFAGain": 18.107708211786996,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Karlstad_Trollhattan_3",
+        "FiberType": "G.652",
+        "SpanLength": 10.477336077414662,
+        "EDFAGain": 2.3050139370312257,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "10": {
+    "linkNo": 10,
+    "startNode": "Halmstad",
+    "endNode": "Lund",
+    "linkDist": 128.15,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Halmstad_Lund_1",
+        "FiberType": "G.652",
+        "SpanLength": 81.99787882516436,
+        "EDFAGain": 18.03953334153616,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Halmstad_Lund_2",
+        "FiberType": "G.652",
+        "SpanLength": 46.15212117483564,
+        "EDFAGain": 10.153466658463842,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "11": {
+    "linkNo": 11,
+    "startNode": "Linkoping",
+    "endNode": "Stockholm",
+    "linkDist": 198.84,
+    "noChannels": 0,
+    "noSpans": 3,
+    "spanList": [
+      {
+        "LinkName": "Span_Linkoping_Stockholm_1",
+        "FiberType": "G.652",
+        "SpanLength": 80.05819764641186,
+        "EDFAGain": 17.61280348221061,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Linkoping_Stockholm_2",
+        "FiberType": "G.652",
+        "SpanLength": 80.11431110441006,
+        "EDFAGain": 17.625148442970215,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Linkoping_Stockholm_3",
+        "FiberType": "G.652",
+        "SpanLength": 38.667491249178084,
+        "EDFAGain": 8.506848074819178,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "12": {
+    "linkNo": 12,
+    "startNode": "Linkoping",
+    "endNode": "Jonkoping",
+    "linkDist": 127.95,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Linkoping_Jonkoping_1",
+        "FiberType": "G.652",
+        "SpanLength": 81.07547649111694,
+        "EDFAGain": 17.83660482804573,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Linkoping_Jonkoping_2",
+        "FiberType": "G.652",
+        "SpanLength": 46.87452350888306,
+        "EDFAGain": 10.312395171954273,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "13": {
+    "linkNo": 13,
+    "startNode": "Jonkoping",
+    "endNode": "Vaxjo",
+    "linkDist": 136.25,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Jonkoping_Vaxjo_1",
+        "FiberType": "G.652",
+        "SpanLength": 78.13060261523336,
+        "EDFAGain": 17.188732575351338,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Jonkoping_Vaxjo_2",
+        "FiberType": "G.652",
+        "SpanLength": 58.11939738476664,
+        "EDFAGain": 12.786267424648662,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "14": {
+    "linkNo": 14,
+    "startNode": "Vaxjo",
+    "endNode": "Lund",
+    "linkDist": 188.95,
+    "noChannels": 0,
+    "noSpans": 3,
+    "spanList": [
+      {
+        "LinkName": "Span_Vaxjo_Lund_1",
+        "FiberType": "G.652",
+        "SpanLength": 81.56484737359845,
+        "EDFAGain": 17.94426642219166,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Vaxjo_Lund_2",
+        "FiberType": "G.652",
+        "SpanLength": 80.92066631929407,
+        "EDFAGain": 17.802546590244695,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Vaxjo_Lund_3",
+        "FiberType": "G.652",
+        "SpanLength": 26.464486307107464,
+        "EDFAGain": 5.822186987563642,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "15": {
+    "linkNo": 15,
+    "startNode": "Vaxjo",
+    "endNode": "Kalmar",
+    "linkDist": 110.93,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Vaxjo_Kalmar_1",
+        "FiberType": "G.652",
+        "SpanLength": 80.39157867321957,
+        "EDFAGain": 17.686147308108307,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Vaxjo_Kalmar_2",
+        "FiberType": "G.652",
+        "SpanLength": 30.538421326780437,
+        "EDFAGain": 6.718452691891696,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "16": {
+    "linkNo": 16,
+    "startNode": "Lund",
+    "endNode": "Malmo",
+    "linkDist": 20.0,
+    "noChannels": 0,
+    "noSpans": 1,
+    "spanList": [
+      {
+        "LinkName": "Span_Lund_Malmo_1",
+        "FiberType": "G.652",
+        "SpanLength": 20.0,
+        "EDFAGain": 4.4,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "17": {
+    "linkNo": 17,
+    "startNode": "Kristianstad",
+    "endNode": "Ronneby",
+    "linkDist": 86.04,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Kristianstad_Ronneby_1",
+        "FiberType": "G.652",
+        "SpanLength": 81.7187788318029,
+        "EDFAGain": 17.978131342996637,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Kristianstad_Ronneby_2",
+        "FiberType": "G.652",
+        "SpanLength": 4.321221168197113,
+        "EDFAGain": 0.9506686570033648,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "18": {
+    "linkNo": 18,
+    "startNode": "Kristianstad",
+    "endNode": "Malmo",
+    "linkDist": 93.91,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Kristianstad_Malmo_1",
+        "FiberType": "G.652",
+        "SpanLength": 77.62947231232415,
+        "EDFAGain": 17.078483908711313,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Kristianstad_Malmo_2",
+        "FiberType": "G.652",
+        "SpanLength": 16.280527687675843,
+        "EDFAGain": 3.5817160912886856,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "19": {
+    "linkNo": 19,
+    "startNode": "Ronneby",
+    "endNode": "Kalmar",
+    "linkDist": 106.99,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Ronneby_Kalmar_1",
+        "FiberType": "G.652",
+        "SpanLength": 79.47352289398555,
+        "EDFAGain": 17.48417503667682,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Ronneby_Kalmar_2",
+        "FiberType": "G.652",
+        "SpanLength": 27.51647710601445,
+        "EDFAGain": 6.053624963323179,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "20": {
+    "linkNo": 20,
+    "startNode": "Visby",
+    "endNode": "Stockholm",
+    "linkDist": 376.72,
+    "noChannels": 0,
+    "noSpans": 5,
+    "spanList": [
+      {
+        "LinkName": "Span_Visby_Stockholm_1",
+        "FiberType": "G.652",
+        "SpanLength": 78.71798138382917,
+        "EDFAGain": 17.317955904442417,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Visby_Stockholm_2",
+        "FiberType": "G.652",
+        "SpanLength": 75.57027521139516,
+        "EDFAGain": 16.625460546506936,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Visby_Stockholm_3",
+        "FiberType": "G.652",
+        "SpanLength": 77.15284878703929,
+        "EDFAGain": 16.973626733148645,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Visby_Stockholm_4",
+        "FiberType": "G.652",
+        "SpanLength": 75.92127195897096,
+        "EDFAGain": 16.70267983097361,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Visby_Stockholm_5",
+        "FiberType": "G.652",
+        "SpanLength": 69.35762265876546,
+        "EDFAGain": 15.258676984928401,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "21": {
+    "linkNo": 21,
+    "startNode": "Stockholm",
+    "endNode": "Vasten",
+    "linkDist": 968.19,
+    "noChannels": 0,
+    "noSpans": 13,
+    "spanList": [
+      {
+        "LinkName": "Span_Stockholm_Vasten_1",
+        "FiberType": "G.652",
+        "SpanLength": 79.71013251176332,
+        "EDFAGain": 17.536229152587932,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_2",
+        "FiberType": "G.652",
+        "SpanLength": 77.33828576689359,
+        "EDFAGain": 17.01442286871659,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_3",
+        "FiberType": "G.652",
+        "SpanLength": 82.46180646093123,
+        "EDFAGain": 18.14159742140487,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_4",
+        "FiberType": "G.652",
+        "SpanLength": 79.30673351536416,
+        "EDFAGain": 17.447481373380114,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_5",
+        "FiberType": "G.652",
+        "SpanLength": 83.38563077917308,
+        "EDFAGain": 18.34483877141808,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_6",
+        "FiberType": "G.652",
+        "SpanLength": 80.7192217056481,
+        "EDFAGain": 17.758228775242582,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_7",
+        "FiberType": "G.652",
+        "SpanLength": 78.09872982742944,
+        "EDFAGain": 17.181720562034478,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_8",
+        "FiberType": "G.652",
+        "SpanLength": 81.29998431827276,
+        "EDFAGain": 17.885996550020007,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_9",
+        "FiberType": "G.652",
+        "SpanLength": 79.84542969661976,
+        "EDFAGain": 17.565994533256347,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_10",
+        "FiberType": "G.652",
+        "SpanLength": 81.42271172511946,
+        "EDFAGain": 17.91299657952628,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_11",
+        "FiberType": "G.652",
+        "SpanLength": 80.34804914915755,
+        "EDFAGain": 17.67657081281466,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_12",
+        "FiberType": "G.652",
+        "SpanLength": 79.63538586945036,
+        "EDFAGain": 17.51978489127908,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Stockholm_Vasten_13",
+        "FiberType": "G.652",
+        "SpanLength": 4.617898674177212,
+        "EDFAGain": 1.0159377083189867,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "22": {
+    "linkNo": 22,
+    "startNode": "Stockholm",
+    "endNode": "Uppsala",
+    "linkDist": 68.59,
+    "noChannels": 0,
+    "noSpans": 1,
+    "spanList": [
+      {
+        "LinkName": "Span_Stockholm_Uppsala_1",
+        "FiberType": "G.652",
+        "SpanLength": 68.59,
+        "EDFAGain": 15.0898,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "23": {
+    "linkNo": 23,
+    "startNode": "Kiruna",
+    "endNode": "Lulea",
+    "linkDist": 344.05,
+    "noChannels": 0,
+    "noSpans": 5,
+    "spanList": [
+      {
+        "LinkName": "Span_Kiruna_Lulea_1",
+        "FiberType": "G.652",
+        "SpanLength": 81.04031864072135,
+        "EDFAGain": 17.8288701009587,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Kiruna_Lulea_2",
+        "FiberType": "G.652",
+        "SpanLength": 84.93768763714613,
+        "EDFAGain": 18.68629128017215,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Kiruna_Lulea_3",
+        "FiberType": "G.652",
+        "SpanLength": 82.7410493939481,
+        "EDFAGain": 18.203030866668584,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Kiruna_Lulea_4",
+        "FiberType": "G.652",
+        "SpanLength": 81.23776917769496,
+        "EDFAGain": 17.87230921909289,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Kiruna_Lulea_5",
+        "FiberType": "G.652",
+        "SpanLength": 14.093175150489472,
+        "EDFAGain": 3.1004985331076838,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "24": {
+    "linkNo": 24,
+    "startNode": "Lulea",
+    "endNode": "Umea",
+    "linkDist": 269.55,
+    "noChannels": 0,
+    "noSpans": 4,
+    "spanList": [
+      {
+        "LinkName": "Span_Lulea_Umea_1",
+        "FiberType": "G.652",
+        "SpanLength": 79.82753707877086,
+        "EDFAGain": 17.562058157329588,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Lulea_Umea_2",
+        "FiberType": "G.652",
+        "SpanLength": 80.90496533556276,
+        "EDFAGain": 17.799092373823807,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Lulea_Umea_3",
+        "FiberType": "G.652",
+        "SpanLength": 78.94651551546318,
+        "EDFAGain": 17.3682334134019,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Lulea_Umea_4",
+        "FiberType": "G.652",
+        "SpanLength": 29.870982070203212,
+        "EDFAGain": 6.571616055444706,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "25": {
+    "linkNo": 25,
+    "startNode": "Umea",
+    "endNode": "Sundsvall",
+    "linkDist": 260.81,
+    "noChannels": 0,
+    "noSpans": 4,
+    "spanList": [
+      {
+        "LinkName": "Span_Umea_Sundsvall_1",
+        "FiberType": "G.652",
+        "SpanLength": 79.32714068250398,
+        "EDFAGain": 17.451970950150876,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Umea_Sundsvall_2",
+        "FiberType": "G.652",
+        "SpanLength": 81.30237008857964,
+        "EDFAGain": 17.88652141948752,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Umea_Sundsvall_3",
+        "FiberType": "G.652",
+        "SpanLength": 84.04871339276225,
+        "EDFAGain": 18.490716946407694,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Umea_Sundsvall_4",
+        "FiberType": "G.652",
+        "SpanLength": 16.131775836154148,
+        "EDFAGain": 3.5489906839539125,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "26": {
+    "linkNo": 26,
+    "startNode": "Sundsvall",
+    "endNode": "Gavle",
+    "linkDist": 210.21,
+    "noChannels": 0,
+    "noSpans": 3,
+    "spanList": [
+      {
+        "LinkName": "Span_Sundsvall_Gavle_1",
+        "FiberType": "G.652",
+        "SpanLength": 79.93409589058012,
+        "EDFAGain": 17.58550109592763,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Sundsvall_Gavle_2",
+        "FiberType": "G.652",
+        "SpanLength": 80.821101729001,
+        "EDFAGain": 17.780642380380222,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Sundsvall_Gavle_3",
+        "FiberType": "G.652",
+        "SpanLength": 49.45480238041888,
+        "EDFAGain": 10.880056523692154,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "27": {
+    "linkNo": 27,
+    "startNode": "Gavle",
+    "endNode": "Borlange",
+    "linkDist": 110.43,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Gavle_Borlange_1",
+        "FiberType": "G.652",
+        "SpanLength": 78.8804227561755,
+        "EDFAGain": 17.35369300635861,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Gavle_Borlange_2",
+        "FiberType": "G.652",
+        "SpanLength": 31.5495772438245,
+        "EDFAGain": 6.9409069936413905,
+        "attnDB": 0.22
+      }
+    ]
+  },
+  "28": {
+    "linkNo": 28,
+    "startNode": "Gavle",
+    "endNode": "Uppsala",
+    "linkDist": 103.85,
+    "noChannels": 0,
+    "noSpans": 2,
+    "spanList": [
+      {
+        "LinkName": "Span_Gavle_Uppsala_1",
+        "FiberType": "G.652",
+        "SpanLength": 76.87099820031891,
+        "EDFAGain": 16.91161960407016,
+        "attnDB": 0.22
+      },
+      {
+        "LinkName": "Span_Gavle_Uppsala_2",
+        "FiberType": "G.652",
+        "SpanLength": 26.979001799681086,
+        "EDFAGain": 5.935380395929839,
+        "attnDB": 0.22
+      }
+    ]
+  }
+}
