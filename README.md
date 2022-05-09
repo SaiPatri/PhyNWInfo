@@ -103,6 +103,7 @@ As an example, the Nobel-EU span distribution is seen as follows:
 
 ## Traffic Growth
 Traffic growth occurs non-homogeneously, according to a novel traffic model. Once published in an academic publication, this will be included in the repository. The graphs from our previous publications are available in the folder Traffic Model. The traffic growth depends on the node-importance metric. Here shown is an example of the node size according to their importance in the Nobel-Germany network.
+![Nobel-Germany Node Importance](https://github.com/SaiPatri/PhyNWInfo/blob/master/germany_node_traffics.PNG)
 
 
 ## More questions?
