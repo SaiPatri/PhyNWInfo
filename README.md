@@ -66,7 +66,7 @@ are:
 - attn (dB/km)
 
 An example is as follows:
-
+```
 "4": {
         "linkNo": 4,
         "startNode": "Aachen",
@@ -91,7 +91,7 @@ An example is as follows:
             }
         ]
     }
-
+```
 ## A brief view on data generation methodology
 
 The link information on the number of spans, span lengths, EDFA used and gain
@@ -102,8 +102,16 @@ As an example, the Nobel-EU span distribution is seen as follows:
 ![Eu-Nobel Span Distribution](https://github.com/SaiPatri/PhyNWInfo/blob/master/Inkedspanlens-eu_LI.jpg)
 
 ## Traffic Growth
-The multi-year growth of traffic for US and Germany follows CISCO VNI forecast (expected growth). The graphs are available in the folder Traffic Model.
+Traffic growth occurs non-homogeneously, according to a novel traffic model. Once published in an academic publication, this will be included in the repository. The graphs from our previous publications are available in the folder Traffic Model. The traffic growth depends on the node-importance metric. Here shown is an example of the node size according to their importance in the Nobel-Germany network.
+
 
 ## More questions?
 
 In case of questions on how to use this dataset, or opportunities for extension/collaboration please contact Sai Kireet Patri (SPatri@adva.com).
+
+## How to Cite:
+@misc{phynwinfo,
+    title= {Github, \textit{Physical Network Information}},
+    howpublished= "\url{www.github.com/SaiPatri/PhyNWInfo}, Accessed: yyyy-mm-dd",
+    authors={Patri, Sai Kireet},
+}
