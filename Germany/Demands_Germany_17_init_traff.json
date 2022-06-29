@@ -2,107 +2,107 @@
     "0": [
         "Berlin",
         "Bremen",
-        40.5
+        162.0
     ],
     "1": [
         "Berlin",
         "Dortmund",
-        78.75
+        1890.0
     ],
     "10": [
         "Berlin",
         "Mannheim",
-        45.0
+        180.0
     ],
     "100": [
         "Koeln",
         "Leipzig",
-        49.0
+        1176.0
     ],
     "101": [
         "Koeln",
         "Mannheim",
-        20.0
+        80.0
     ],
     "102": [
         "Koeln",
         "Muenchen",
-        95.0
+        380.0
     ],
     "103": [
         "Koeln",
         "Nuernberg",
-        91.0
+        2184.0
     ],
     "104": [
         "Koeln",
         "Stuttgart",
-        78.0
+        312.0
     ],
     "105": [
         "Koeln",
         "Ulm",
-        10.0
+        40.0
     ],
     "106": [
         "Leipzig",
         "Mannheim",
-        42.0
+        168.0
     ],
     "107": [
         "Leipzig",
         "Muenchen",
-        199.5
+        798.0
     ],
     "108": [
         "Leipzig",
         "Nuernberg",
-        159.25
+        3822.0
     ],
     "109": [
         "Leipzig",
         "Stuttgart",
-        159.25
+        3822.0
     ],
     "11": [
         "Berlin",
         "Muenchen",
-        213.75
+        855.0
     ],
     "110": [
         "Leipzig",
         "Ulm",
-        21.0
+        84.0
     ],
     "111": [
         "Mannheim",
         "Muenchen",
-        76.0
+        304.0
     ],
     "112": [
         "Mannheim",
         "Nuernberg",
-        78.0
+        312.0
     ],
     "113": [
         "Mannheim",
         "Stuttgart",
-        65.0
+        260.0
     ],
     "114": [
         "Mannheim",
         "Ulm",
-        8.0
+        32.0
     ],
     "115": [
         "Muenchen",
         "Nuernberg",
-        308.75
+        1235.0
     ],
     "116": [
         "Muenchen",
         "Stuttgart",
-        308.75
+        1235.0
     ],
     "117": [
         "Muenchen",
@@ -112,182 +112,182 @@
     "118": [
         "Nuernberg",
         "Stuttgart",
-        253.5
+        1014.0
     ],
     "119": [
         "Nuernberg",
         "Ulm",
-        39.0
+        156.0
     ],
     "12": [
         "Berlin",
         "Nuernberg",
-        204.75
+        4914.0
     ],
     "120": [
         "Stuttgart",
         "Ulm",
-        26.0
+        104.0
     ],
     "13": [
         "Berlin",
         "Stuttgart",
-        175.5
+        702.0
     ],
     "14": [
         "Berlin",
         "Ulm",
-        22.5
+        90.0
     ],
     "15": [
         "Bremen",
         "Dortmund",
-        26.25
+        630.0
     ],
     "16": [
         "Bremen",
         "Duesseldorf",
-        41.25
+        165.0
     ],
     "17": [
         "Bremen",
         "Essen",
-        7.5
+        30.0
     ],
     "18": [
         "Bremen",
         "Frankfurt",
-        132.0
+        3696.0
     ],
     "19": [
         "Bremen",
         "Hamburg",
-        45.0
+        180.0
     ],
     "2": [
         "Berlin",
         "Duesseldorf",
-        123.75
+        495.0
     ],
     "20": [
         "Bremen",
         "Hannover",
-        18.0
+        504.0
     ],
     "21": [
         "Bremen",
         "Karlsruhe",
-        7.5
+        30.0
     ],
     "22": [
         "Bremen",
         "Koeln",
-        18.0
+        72.0
     ],
     "23": [
         "Bremen",
         "Leipzig",
-        36.75
+        882.0
     ],
     "24": [
         "Bremen",
         "Mannheim",
-        15.0
+        60.0
     ],
     "25": [
         "Bremen",
         "Muenchen",
-        71.25
+        285.0
     ],
     "26": [
         "Bremen",
         "Nuernberg",
-        68.25
+        1638.0
     ],
     "27": [
         "Bremen",
         "Stuttgart",
-        58.5
+        234.0
     ],
     "28": [
         "Bremen",
         "Ulm",
-        7.5
+        30.0
     ],
     "29": [
         "Dortmund",
         "Duesseldorf",
-        82.5
+        330.0
     ],
     "3": [
         "Berlin",
         "Essen",
-        22.5
+        90.0
     ],
     "30": [
         "Dortmund",
         "Essen",
-        12.5
+        50.0
     ],
     "31": [
         "Dortmund",
         "Frankfurt",
-        247.5
+        7920.0
     ],
     "32": [
         "Dortmund",
         "Hamburg",
-        105.0
+        2520.0
     ],
     "33": [
         "Dortmund",
         "Hannover",
-        33.75
+        1080.0
     ],
     "34": [
         "Dortmund",
         "Karlsruhe",
-        15.0
+        60.0
     ],
     "35": [
         "Dortmund",
         "Koeln",
-        30.0
+        120.0
     ],
     "36": [
         "Dortmund",
         "Leipzig",
-        70.0
+        1960.0
     ],
     "37": [
         "Dortmund",
         "Mannheim",
-        30.0
+        120.0
     ],
     "38": [
         "Dortmund",
         "Muenchen",
-        142.5
+        570.0
     ],
     "39": [
         "Dortmund",
         "Nuernberg",
-        130.0
+        3640.0
     ],
     "4": [
         "Berlin",
         "Frankfurt",
-        396.0
+        11088.0
     ],
     "40": [
         "Dortmund",
         "Stuttgart",
-        113.75
+        2730.0
     ],
     "41": [
         "Dortmund",
         "Ulm",
-        15.0
+        60.0
     ],
     "42": [
         "Duesseldorf",
@@ -297,287 +297,287 @@
     "43": [
         "Duesseldorf",
         "Frankfurt",
-        423.5
+        10164.0
     ],
     "44": [
         "Duesseldorf",
         "Hamburg",
-        165.0
+        660.0
     ],
     "45": [
         "Duesseldorf",
         "Hannover",
-        66.0
+        1848.0
     ],
     "46": [
         "Duesseldorf",
         "Karlsruhe",
-        22.0
+        88.0
     ],
     "47": [
         "Duesseldorf",
         "Koeln",
-        44.0
+        176.0
     ],
     "48": [
         "Duesseldorf",
         "Leipzig",
-        115.5
+        462.0
     ],
     "49": [
         "Duesseldorf",
         "Mannheim",
-        44.0
+        176.0
     ],
     "5": [
         "Berlin",
         "Hamburg",
-        135.0
+        540.0
     ],
     "50": [
         "Duesseldorf",
         "Muenchen",
-        209.0
+        836.0
     ],
     "51": [
         "Duesseldorf",
         "Nuernberg",
-        214.5
+        858.0
     ],
     "52": [
         "Duesseldorf",
         "Stuttgart",
-        178.75
+        715.0
     ],
     "53": [
         "Duesseldorf",
         "Ulm",
-        22.0
+        88.0
     ],
     "54": [
         "Essen",
         "Frankfurt",
-        77.0
+        1848.0
     ],
     "55": [
         "Essen",
         "Hamburg",
-        30.0
+        120.0
     ],
     "56": [
         "Essen",
         "Hannover",
-        12.0
+        336.0
     ],
     "57": [
         "Essen",
         "Karlsruhe",
-        4.0
+        16.0
     ],
     "58": [
         "Essen",
         "Koeln",
-        10.0
+        40.0
     ],
     "59": [
         "Essen",
         "Leipzig",
-        21.0
+        84.0
     ],
     "6": [
         "Berlin",
         "Hannover",
-        54.0
+        1512.0
     ],
     "60": [
         "Essen",
         "Mannheim",
-        8.0
+        32.0
     ],
     "61": [
         "Essen",
         "Muenchen",
-        38.0
+        152.0
     ],
     "62": [
         "Essen",
         "Nuernberg",
-        39.0
+        156.0
     ],
     "63": [
         "Essen",
         "Stuttgart",
-        32.5
+        130.0
     ],
     "64": [
         "Essen",
         "Ulm",
-        4.0
+        16.0
     ],
     "65": [
         "Frankfurt",
         "Hamburg",
-        528.0
+        14784.0
     ],
     "66": [
         "Frankfurt",
         "Hannover",
-        165.0
+        5940.0
     ],
     "67": [
         "Frankfurt",
         "Karlsruhe",
-        77.0
+        1848.0
     ],
     "68": [
         "Frankfurt",
         "Koeln",
-        154.0
+        3696.0
     ],
     "69": [
         "Frankfurt",
         "Leipzig",
-        308.0
+        8624.0
     ],
     "7": [
         "Berlin",
         "Karlsruhe",
-        22.5
+        90.0
     ],
     "70": [
         "Frankfurt",
         "Mannheim",
-        132.0
+        528.0
     ],
     "71": [
         "Frankfurt",
         "Muenchen",
-        731.5
+        17556.0
     ],
     "72": [
         "Frankfurt",
         "Norden",
-        154.0
+        3696.0
     ],
     "73": [
         "Frankfurt",
         "Nuernberg",
-        572.0
+        16016.0
     ],
     "74": [
         "Frankfurt",
         "Stuttgart",
-        572.0
+        16016.0
     ],
     "75": [
         "Frankfurt",
         "Ulm",
-        77.0
+        1848.0
     ],
     "76": [
         "Hamburg",
         "Hannover",
-        72.0
+        2016.0
     ],
     "77": [
         "Hamburg",
         "Karlsruhe",
-        30.0
+        120.0
     ],
     "78": [
         "Hamburg",
         "Koeln",
-        72.0
+        288.0
     ],
     "79": [
         "Hamburg",
         "Leipzig",
-        147.0
+        3528.0
     ],
     "8": [
         "Berlin",
         "Koeln",
-        54.0
+        216.0
     ],
     "80": [
         "Hamburg",
         "Mannheim",
-        60.0
+        240.0
     ],
     "81": [
         "Hamburg",
         "Muenchen",
-        285.0
+        1140.0
     ],
     "82": [
         "Hamburg",
         "Nuernberg",
-        273.0
+        6552.0
     ],
     "83": [
         "Hamburg",
         "Stuttgart",
-        234.0
+        936.0
     ],
     "84": [
         "Hamburg",
         "Ulm",
-        30.0
+        120.0
     ],
     "85": [
         "Hannover",
         "Karlsruhe",
-        12.0
+        336.0
     ],
     "86": [
         "Hannover",
         "Koeln",
-        27.0
+        864.0
     ],
     "87": [
         "Hannover",
         "Leipzig",
-        47.25
+        1512.0
     ],
     "88": [
         "Hannover",
         "Mannheim",
-        24.0
+        672.0
     ],
     "89": [
         "Hannover",
         "Muenchen",
-        114.0
+        3192.0
     ],
     "9": [
         "Berlin",
         "Leipzig",
-        94.5
+        378.0
     ],
     "90": [
         "Hannover",
         "Nuernberg",
-        97.5
+        3510.0
     ],
     "91": [
         "Hannover",
         "Stuttgart",
-        87.75
+        2808.0
     ],
     "92": [
         "Hannover",
         "Ulm",
-        12.0
+        336.0
     ],
     "93": [
         "Karlsruhe",
         "Koeln",
-        10.0
+        40.0
     ],
     "94": [
         "Karlsruhe",
         "Leipzig",
-        21.0
+        84.0
     ],
     "95": [
         "Karlsruhe",
@@ -587,21 +587,21 @@
     "96": [
         "Karlsruhe",
         "Muenchen",
-        38.0
+        152.0
     ],
     "97": [
         "Karlsruhe",
         "Nuernberg",
-        39.0
+        156.0
     ],
     "98": [
         "Karlsruhe",
         "Stuttgart",
-        26.0
+        104.0
     ],
     "99": [
         "Karlsruhe",
         "Ulm",
-        4.0
+        16.0
     ]
 }
