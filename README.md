@@ -1,4 +1,6 @@
 # PhyNWInfo
+## [UPDATE: For OFC 2023 submission metadata, please refer to OFC2023 folder]
+
 ## A Physical Network Information resource for reference networks
 Reference Physical Network information JSON files, which can be used for various
 Optical Network assessment 

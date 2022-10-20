@@ -1,0 +1,3252 @@
+{
+    "0": [
+        "Seattle",
+        "LosAngeles",
+        0.0
+    ],
+    "1": [
+        "Seattle",
+        "SanFrancisco",
+        0.0
+    ],
+    "2": [
+        "Seattle",
+        "LasVegas",
+        0.0
+    ],
+    "3": [
+        "Seattle",
+        "SaltLakeCity",
+        0.0
+    ],
+    "4": [
+        "Seattle",
+        "ElPaso",
+        0.0
+    ],
+    "5": [
+        "Seattle",
+        "Dallas",
+        0.0
+    ],
+    "6": [
+        "Seattle",
+        "Houston",
+        0.0
+    ],
+    "7": [
+        "Seattle",
+        "Tulsa",
+        0.0
+    ],
+    "8": [
+        "Seattle",
+        "Minneapolis",
+        0.0
+    ],
+    "9": [
+        "Seattle",
+        "KansasCity",
+        0.0
+    ],
+    "10": [
+        "Seattle",
+        "Denver",
+        0.0
+    ],
+    "11": [
+        "Seattle",
+        "Chicago",
+        0.0
+    ],
+    "12": [
+        "Seattle",
+        "Indianapolis",
+        0.0
+    ],
+    "13": [
+        "Seattle",
+        "Detroit",
+        0.0
+    ],
+    "14": [
+        "Seattle",
+        "StLouis",
+        0.0
+    ],
+    "15": [
+        "Seattle",
+        "Nashville",
+        0.0
+    ],
+    "16": [
+        "Seattle",
+        "Cleveland",
+        0.0
+    ],
+    "17": [
+        "Seattle",
+        "NewYork",
+        0.0
+    ],
+    "18": [
+        "Seattle",
+        "Albany",
+        0.0
+    ],
+    "19": [
+        "Seattle",
+        "Charlotte",
+        0.0
+    ],
+    "20": [
+        "Seattle",
+        "NewOrleans",
+        0.0
+    ],
+    "21": [
+        "Seattle",
+        "Boston",
+        0.0
+    ],
+    "22": [
+        "Seattle",
+        "Atlanta",
+        0.0
+    ],
+    "23": [
+        "Seattle",
+        "Miami",
+        0.0
+    ],
+    "24": [
+        "Seattle",
+        "WashingtonDC",
+        0.0
+    ],
+    "25": [
+        "LosAngeles",
+        "Seattle",
+        0.0
+    ],
+    "26": [
+        "LosAngeles",
+        "SanFrancisco",
+        0.0
+    ],
+    "27": [
+        "LosAngeles",
+        "LasVegas",
+        0.0
+    ],
+    "28": [
+        "LosAngeles",
+        "SaltLakeCity",
+        0.0
+    ],
+    "29": [
+        "LosAngeles",
+        "ElPaso",
+        0.0
+    ],
+    "30": [
+        "LosAngeles",
+        "Dallas",
+        0.0
+    ],
+    "31": [
+        "LosAngeles",
+        "Houston",
+        0.0
+    ],
+    "32": [
+        "LosAngeles",
+        "Tulsa",
+        0.0
+    ],
+    "33": [
+        "LosAngeles",
+        "Minneapolis",
+        0.0
+    ],
+    "34": [
+        "LosAngeles",
+        "KansasCity",
+        0.0
+    ],
+    "35": [
+        "LosAngeles",
+        "Denver",
+        0.0
+    ],
+    "36": [
+        "LosAngeles",
+        "Chicago",
+        0.0
+    ],
+    "37": [
+        "LosAngeles",
+        "Indianapolis",
+        0.0
+    ],
+    "38": [
+        "LosAngeles",
+        "Detroit",
+        0.0
+    ],
+    "39": [
+        "LosAngeles",
+        "StLouis",
+        0.0
+    ],
+    "40": [
+        "LosAngeles",
+        "Nashville",
+        0.0
+    ],
+    "41": [
+        "LosAngeles",
+        "Cleveland",
+        0.0
+    ],
+    "42": [
+        "LosAngeles",
+        "NewYork",
+        0.0
+    ],
+    "43": [
+        "LosAngeles",
+        "Albany",
+        0.0
+    ],
+    "44": [
+        "LosAngeles",
+        "Charlotte",
+        0.0
+    ],
+    "45": [
+        "LosAngeles",
+        "NewOrleans",
+        0.0
+    ],
+    "46": [
+        "LosAngeles",
+        "Boston",
+        0.0
+    ],
+    "47": [
+        "LosAngeles",
+        "Atlanta",
+        0.0
+    ],
+    "48": [
+        "LosAngeles",
+        "Miami",
+        0.0
+    ],
+    "49": [
+        "LosAngeles",
+        "WashingtonDC",
+        0.0
+    ],
+    "50": [
+        "SanFrancisco",
+        "Seattle",
+        0.0
+    ],
+    "51": [
+        "SanFrancisco",
+        "LosAngeles",
+        0.0
+    ],
+    "52": [
+        "SanFrancisco",
+        "LasVegas",
+        0.0
+    ],
+    "53": [
+        "SanFrancisco",
+        "SaltLakeCity",
+        0.0
+    ],
+    "54": [
+        "SanFrancisco",
+        "ElPaso",
+        0.0
+    ],
+    "55": [
+        "SanFrancisco",
+        "Dallas",
+        0.0
+    ],
+    "56": [
+        "SanFrancisco",
+        "Houston",
+        0.0
+    ],
+    "57": [
+        "SanFrancisco",
+        "Tulsa",
+        0.0
+    ],
+    "58": [
+        "SanFrancisco",
+        "Minneapolis",
+        0.0
+    ],
+    "59": [
+        "SanFrancisco",
+        "KansasCity",
+        0.0
+    ],
+    "60": [
+        "SanFrancisco",
+        "Denver",
+        0.0
+    ],
+    "61": [
+        "SanFrancisco",
+        "Chicago",
+        0.0
+    ],
+    "62": [
+        "SanFrancisco",
+        "Indianapolis",
+        0.0
+    ],
+    "63": [
+        "SanFrancisco",
+        "Detroit",
+        0.0
+    ],
+    "64": [
+        "SanFrancisco",
+        "StLouis",
+        0.0
+    ],
+    "65": [
+        "SanFrancisco",
+        "Nashville",
+        0.0
+    ],
+    "66": [
+        "SanFrancisco",
+        "Cleveland",
+        0.0
+    ],
+    "67": [
+        "SanFrancisco",
+        "NewYork",
+        0.0
+    ],
+    "68": [
+        "SanFrancisco",
+        "Albany",
+        0.0
+    ],
+    "69": [
+        "SanFrancisco",
+        "Charlotte",
+        0.0
+    ],
+    "70": [
+        "SanFrancisco",
+        "NewOrleans",
+        0.0
+    ],
+    "71": [
+        "SanFrancisco",
+        "Boston",
+        0.0
+    ],
+    "72": [
+        "SanFrancisco",
+        "Atlanta",
+        0.0
+    ],
+    "73": [
+        "SanFrancisco",
+        "Miami",
+        0.0
+    ],
+    "74": [
+        "SanFrancisco",
+        "WashingtonDC",
+        0.0
+    ],
+    "75": [
+        "LasVegas",
+        "Seattle",
+        0.0
+    ],
+    "76": [
+        "LasVegas",
+        "LosAngeles",
+        0.0
+    ],
+    "77": [
+        "LasVegas",
+        "SanFrancisco",
+        0.0
+    ],
+    "78": [
+        "LasVegas",
+        "SaltLakeCity",
+        0.0
+    ],
+    "79": [
+        "LasVegas",
+        "ElPaso",
+        0.0
+    ],
+    "80": [
+        "LasVegas",
+        "Dallas",
+        0.0
+    ],
+    "81": [
+        "LasVegas",
+        "Houston",
+        0.0
+    ],
+    "82": [
+        "LasVegas",
+        "Tulsa",
+        0.0
+    ],
+    "83": [
+        "LasVegas",
+        "Minneapolis",
+        0.0
+    ],
+    "84": [
+        "LasVegas",
+        "KansasCity",
+        0.0
+    ],
+    "85": [
+        "LasVegas",
+        "Denver",
+        0.0
+    ],
+    "86": [
+        "LasVegas",
+        "Chicago",
+        0.0
+    ],
+    "87": [
+        "LasVegas",
+        "Indianapolis",
+        0.0
+    ],
+    "88": [
+        "LasVegas",
+        "Detroit",
+        0.0
+    ],
+    "89": [
+        "LasVegas",
+        "StLouis",
+        0.0
+    ],
+    "90": [
+        "LasVegas",
+        "Nashville",
+        0.0
+    ],
+    "91": [
+        "LasVegas",
+        "Cleveland",
+        0.0
+    ],
+    "92": [
+        "LasVegas",
+        "NewYork",
+        0.0
+    ],
+    "93": [
+        "LasVegas",
+        "Albany",
+        0.0
+    ],
+    "94": [
+        "LasVegas",
+        "Charlotte",
+        0.0
+    ],
+    "95": [
+        "LasVegas",
+        "NewOrleans",
+        0.0
+    ],
+    "96": [
+        "LasVegas",
+        "Boston",
+        0.0
+    ],
+    "97": [
+        "LasVegas",
+        "Atlanta",
+        0.0
+    ],
+    "98": [
+        "LasVegas",
+        "Miami",
+        0.0
+    ],
+    "99": [
+        "LasVegas",
+        "WashingtonDC",
+        0.0
+    ],
+    "100": [
+        "SaltLakeCity",
+        "Seattle",
+        0.0
+    ],
+    "101": [
+        "SaltLakeCity",
+        "LosAngeles",
+        0.0
+    ],
+    "102": [
+        "SaltLakeCity",
+        "SanFrancisco",
+        0.0
+    ],
+    "103": [
+        "SaltLakeCity",
+        "LasVegas",
+        0.0
+    ],
+    "104": [
+        "SaltLakeCity",
+        "ElPaso",
+        0.0
+    ],
+    "105": [
+        "SaltLakeCity",
+        "Dallas",
+        0.0
+    ],
+    "106": [
+        "SaltLakeCity",
+        "Houston",
+        0.0
+    ],
+    "107": [
+        "SaltLakeCity",
+        "Tulsa",
+        0.0
+    ],
+    "108": [
+        "SaltLakeCity",
+        "Minneapolis",
+        0.0
+    ],
+    "109": [
+        "SaltLakeCity",
+        "KansasCity",
+        0.0
+    ],
+    "110": [
+        "SaltLakeCity",
+        "Denver",
+        0.0
+    ],
+    "111": [
+        "SaltLakeCity",
+        "Chicago",
+        0.0
+    ],
+    "112": [
+        "SaltLakeCity",
+        "Indianapolis",
+        0.0
+    ],
+    "113": [
+        "SaltLakeCity",
+        "Detroit",
+        0.0
+    ],
+    "114": [
+        "SaltLakeCity",
+        "StLouis",
+        0.0
+    ],
+    "115": [
+        "SaltLakeCity",
+        "Nashville",
+        0.0
+    ],
+    "116": [
+        "SaltLakeCity",
+        "Cleveland",
+        0.0
+    ],
+    "117": [
+        "SaltLakeCity",
+        "NewYork",
+        0.0
+    ],
+    "118": [
+        "SaltLakeCity",
+        "Albany",
+        0.0
+    ],
+    "119": [
+        "SaltLakeCity",
+        "Charlotte",
+        0.0
+    ],
+    "120": [
+        "SaltLakeCity",
+        "NewOrleans",
+        0.0
+    ],
+    "121": [
+        "SaltLakeCity",
+        "Boston",
+        0.0
+    ],
+    "122": [
+        "SaltLakeCity",
+        "Atlanta",
+        0.0
+    ],
+    "123": [
+        "SaltLakeCity",
+        "Miami",
+        0.0
+    ],
+    "124": [
+        "SaltLakeCity",
+        "WashingtonDC",
+        0.0
+    ],
+    "125": [
+        "ElPaso",
+        "Seattle",
+        0.0
+    ],
+    "126": [
+        "ElPaso",
+        "LosAngeles",
+        0.0
+    ],
+    "127": [
+        "ElPaso",
+        "SanFrancisco",
+        0.0
+    ],
+    "128": [
+        "ElPaso",
+        "LasVegas",
+        0.0
+    ],
+    "129": [
+        "ElPaso",
+        "SaltLakeCity",
+        0.0
+    ],
+    "130": [
+        "ElPaso",
+        "Dallas",
+        0.0
+    ],
+    "131": [
+        "ElPaso",
+        "Houston",
+        0.0
+    ],
+    "132": [
+        "ElPaso",
+        "Tulsa",
+        0.0
+    ],
+    "133": [
+        "ElPaso",
+        "Minneapolis",
+        0.0
+    ],
+    "134": [
+        "ElPaso",
+        "KansasCity",
+        0.0
+    ],
+    "135": [
+        "ElPaso",
+        "Denver",
+        0.0
+    ],
+    "136": [
+        "ElPaso",
+        "Chicago",
+        0.0
+    ],
+    "137": [
+        "ElPaso",
+        "Indianapolis",
+        0.0
+    ],
+    "138": [
+        "ElPaso",
+        "Detroit",
+        0.0
+    ],
+    "139": [
+        "ElPaso",
+        "StLouis",
+        0.0
+    ],
+    "140": [
+        "ElPaso",
+        "Nashville",
+        0.0
+    ],
+    "141": [
+        "ElPaso",
+        "Cleveland",
+        0.0
+    ],
+    "142": [
+        "ElPaso",
+        "NewYork",
+        0.0
+    ],
+    "143": [
+        "ElPaso",
+        "Albany",
+        0.0
+    ],
+    "144": [
+        "ElPaso",
+        "Charlotte",
+        0.0
+    ],
+    "145": [
+        "ElPaso",
+        "NewOrleans",
+        0.0
+    ],
+    "146": [
+        "ElPaso",
+        "Boston",
+        0.0
+    ],
+    "147": [
+        "ElPaso",
+        "Atlanta",
+        0.0
+    ],
+    "148": [
+        "ElPaso",
+        "Miami",
+        0.0
+    ],
+    "149": [
+        "ElPaso",
+        "WashingtonDC",
+        0.0
+    ],
+    "150": [
+        "Dallas",
+        "Seattle",
+        0.0
+    ],
+    "151": [
+        "Dallas",
+        "LosAngeles",
+        0.0
+    ],
+    "152": [
+        "Dallas",
+        "SanFrancisco",
+        0.0
+    ],
+    "153": [
+        "Dallas",
+        "LasVegas",
+        0.0
+    ],
+    "154": [
+        "Dallas",
+        "SaltLakeCity",
+        0.0
+    ],
+    "155": [
+        "Dallas",
+        "ElPaso",
+        0.0
+    ],
+    "156": [
+        "Dallas",
+        "Houston",
+        0.0
+    ],
+    "157": [
+        "Dallas",
+        "Tulsa",
+        0.0
+    ],
+    "158": [
+        "Dallas",
+        "Minneapolis",
+        0.0
+    ],
+    "159": [
+        "Dallas",
+        "KansasCity",
+        0.0
+    ],
+    "160": [
+        "Dallas",
+        "Denver",
+        0.0
+    ],
+    "161": [
+        "Dallas",
+        "Chicago",
+        0.0
+    ],
+    "162": [
+        "Dallas",
+        "Indianapolis",
+        0.0
+    ],
+    "163": [
+        "Dallas",
+        "Detroit",
+        0.0
+    ],
+    "164": [
+        "Dallas",
+        "StLouis",
+        0.0
+    ],
+    "165": [
+        "Dallas",
+        "Nashville",
+        0.0
+    ],
+    "166": [
+        "Dallas",
+        "Cleveland",
+        0.0
+    ],
+    "167": [
+        "Dallas",
+        "NewYork",
+        0.0
+    ],
+    "168": [
+        "Dallas",
+        "Albany",
+        0.0
+    ],
+    "169": [
+        "Dallas",
+        "Charlotte",
+        0.0
+    ],
+    "170": [
+        "Dallas",
+        "NewOrleans",
+        0.0
+    ],
+    "171": [
+        "Dallas",
+        "Boston",
+        0.0
+    ],
+    "172": [
+        "Dallas",
+        "Atlanta",
+        0.0
+    ],
+    "173": [
+        "Dallas",
+        "Miami",
+        0.0
+    ],
+    "174": [
+        "Dallas",
+        "WashingtonDC",
+        0.0
+    ],
+    "175": [
+        "Houston",
+        "Seattle",
+        0.0
+    ],
+    "176": [
+        "Houston",
+        "LosAngeles",
+        0.0
+    ],
+    "177": [
+        "Houston",
+        "SanFrancisco",
+        0.0
+    ],
+    "178": [
+        "Houston",
+        "LasVegas",
+        0.0
+    ],
+    "179": [
+        "Houston",
+        "SaltLakeCity",
+        0.0
+    ],
+    "180": [
+        "Houston",
+        "ElPaso",
+        0.0
+    ],
+    "181": [
+        "Houston",
+        "Dallas",
+        0.0
+    ],
+    "182": [
+        "Houston",
+        "Tulsa",
+        0.0
+    ],
+    "183": [
+        "Houston",
+        "Minneapolis",
+        0.0
+    ],
+    "184": [
+        "Houston",
+        "KansasCity",
+        0.0
+    ],
+    "185": [
+        "Houston",
+        "Denver",
+        0.0
+    ],
+    "186": [
+        "Houston",
+        "Chicago",
+        0.0
+    ],
+    "187": [
+        "Houston",
+        "Indianapolis",
+        0.0
+    ],
+    "188": [
+        "Houston",
+        "Detroit",
+        0.0
+    ],
+    "189": [
+        "Houston",
+        "StLouis",
+        0.0
+    ],
+    "190": [
+        "Houston",
+        "Nashville",
+        0.0
+    ],
+    "191": [
+        "Houston",
+        "Cleveland",
+        0.0
+    ],
+    "192": [
+        "Houston",
+        "NewYork",
+        0.0
+    ],
+    "193": [
+        "Houston",
+        "Albany",
+        0.0
+    ],
+    "194": [
+        "Houston",
+        "Charlotte",
+        0.0
+    ],
+    "195": [
+        "Houston",
+        "NewOrleans",
+        0.0
+    ],
+    "196": [
+        "Houston",
+        "Boston",
+        0.0
+    ],
+    "197": [
+        "Houston",
+        "Atlanta",
+        0.0
+    ],
+    "198": [
+        "Houston",
+        "Miami",
+        0.0
+    ],
+    "199": [
+        "Houston",
+        "WashingtonDC",
+        0.0
+    ],
+    "200": [
+        "Tulsa",
+        "Seattle",
+        0.0
+    ],
+    "201": [
+        "Tulsa",
+        "LosAngeles",
+        0.0
+    ],
+    "202": [
+        "Tulsa",
+        "SanFrancisco",
+        0.0
+    ],
+    "203": [
+        "Tulsa",
+        "LasVegas",
+        0.0
+    ],
+    "204": [
+        "Tulsa",
+        "SaltLakeCity",
+        0.0
+    ],
+    "205": [
+        "Tulsa",
+        "ElPaso",
+        0.0
+    ],
+    "206": [
+        "Tulsa",
+        "Dallas",
+        0.0
+    ],
+    "207": [
+        "Tulsa",
+        "Houston",
+        0.0
+    ],
+    "208": [
+        "Tulsa",
+        "Minneapolis",
+        0.0
+    ],
+    "209": [
+        "Tulsa",
+        "KansasCity",
+        0.0
+    ],
+    "210": [
+        "Tulsa",
+        "Denver",
+        0.0
+    ],
+    "211": [
+        "Tulsa",
+        "Chicago",
+        0.0
+    ],
+    "212": [
+        "Tulsa",
+        "Indianapolis",
+        0.0
+    ],
+    "213": [
+        "Tulsa",
+        "Detroit",
+        0.0
+    ],
+    "214": [
+        "Tulsa",
+        "StLouis",
+        0.0
+    ],
+    "215": [
+        "Tulsa",
+        "Nashville",
+        0.0
+    ],
+    "216": [
+        "Tulsa",
+        "Cleveland",
+        0.0
+    ],
+    "217": [
+        "Tulsa",
+        "NewYork",
+        0.0
+    ],
+    "218": [
+        "Tulsa",
+        "Albany",
+        0.0
+    ],
+    "219": [
+        "Tulsa",
+        "Charlotte",
+        0.0
+    ],
+    "220": [
+        "Tulsa",
+        "NewOrleans",
+        0.0
+    ],
+    "221": [
+        "Tulsa",
+        "Boston",
+        0.0
+    ],
+    "222": [
+        "Tulsa",
+        "Atlanta",
+        0.0
+    ],
+    "223": [
+        "Tulsa",
+        "Miami",
+        0.0
+    ],
+    "224": [
+        "Tulsa",
+        "WashingtonDC",
+        0.0
+    ],
+    "225": [
+        "Minneapolis",
+        "Seattle",
+        0.0
+    ],
+    "226": [
+        "Minneapolis",
+        "LosAngeles",
+        0.0
+    ],
+    "227": [
+        "Minneapolis",
+        "SanFrancisco",
+        0.0
+    ],
+    "228": [
+        "Minneapolis",
+        "LasVegas",
+        0.0
+    ],
+    "229": [
+        "Minneapolis",
+        "SaltLakeCity",
+        0.0
+    ],
+    "230": [
+        "Minneapolis",
+        "ElPaso",
+        0.0
+    ],
+    "231": [
+        "Minneapolis",
+        "Dallas",
+        0.0
+    ],
+    "232": [
+        "Minneapolis",
+        "Houston",
+        0.0
+    ],
+    "233": [
+        "Minneapolis",
+        "Tulsa",
+        0.0
+    ],
+    "234": [
+        "Minneapolis",
+        "KansasCity",
+        0.0
+    ],
+    "235": [
+        "Minneapolis",
+        "Denver",
+        0.0
+    ],
+    "236": [
+        "Minneapolis",
+        "Chicago",
+        0.0
+    ],
+    "237": [
+        "Minneapolis",
+        "Indianapolis",
+        0.0
+    ],
+    "238": [
+        "Minneapolis",
+        "Detroit",
+        0.0
+    ],
+    "239": [
+        "Minneapolis",
+        "StLouis",
+        0.0
+    ],
+    "240": [
+        "Minneapolis",
+        "Nashville",
+        0.0
+    ],
+    "241": [
+        "Minneapolis",
+        "Cleveland",
+        0.0
+    ],
+    "242": [
+        "Minneapolis",
+        "NewYork",
+        0.0
+    ],
+    "243": [
+        "Minneapolis",
+        "Albany",
+        0.0
+    ],
+    "244": [
+        "Minneapolis",
+        "Charlotte",
+        0.0
+    ],
+    "245": [
+        "Minneapolis",
+        "NewOrleans",
+        0.0
+    ],
+    "246": [
+        "Minneapolis",
+        "Boston",
+        0.0
+    ],
+    "247": [
+        "Minneapolis",
+        "Atlanta",
+        0.0
+    ],
+    "248": [
+        "Minneapolis",
+        "Miami",
+        0.0
+    ],
+    "249": [
+        "Minneapolis",
+        "WashingtonDC",
+        0.0
+    ],
+    "250": [
+        "KansasCity",
+        "Seattle",
+        0.0
+    ],
+    "251": [
+        "KansasCity",
+        "LosAngeles",
+        0.0
+    ],
+    "252": [
+        "KansasCity",
+        "SanFrancisco",
+        0.0
+    ],
+    "253": [
+        "KansasCity",
+        "LasVegas",
+        0.0
+    ],
+    "254": [
+        "KansasCity",
+        "SaltLakeCity",
+        0.0
+    ],
+    "255": [
+        "KansasCity",
+        "ElPaso",
+        0.0
+    ],
+    "256": [
+        "KansasCity",
+        "Dallas",
+        0.0
+    ],
+    "257": [
+        "KansasCity",
+        "Houston",
+        0.0
+    ],
+    "258": [
+        "KansasCity",
+        "Tulsa",
+        0.0
+    ],
+    "259": [
+        "KansasCity",
+        "Minneapolis",
+        0.0
+    ],
+    "260": [
+        "KansasCity",
+        "Denver",
+        0.0
+    ],
+    "261": [
+        "KansasCity",
+        "Chicago",
+        0.0
+    ],
+    "262": [
+        "KansasCity",
+        "Indianapolis",
+        0.0
+    ],
+    "263": [
+        "KansasCity",
+        "Detroit",
+        0.0
+    ],
+    "264": [
+        "KansasCity",
+        "StLouis",
+        0.0
+    ],
+    "265": [
+        "KansasCity",
+        "Nashville",
+        0.0
+    ],
+    "266": [
+        "KansasCity",
+        "Cleveland",
+        0.0
+    ],
+    "267": [
+        "KansasCity",
+        "NewYork",
+        0.0
+    ],
+    "268": [
+        "KansasCity",
+        "Albany",
+        0.0
+    ],
+    "269": [
+        "KansasCity",
+        "Charlotte",
+        0.0
+    ],
+    "270": [
+        "KansasCity",
+        "NewOrleans",
+        0.0
+    ],
+    "271": [
+        "KansasCity",
+        "Boston",
+        0.0
+    ],
+    "272": [
+        "KansasCity",
+        "Atlanta",
+        0.0
+    ],
+    "273": [
+        "KansasCity",
+        "Miami",
+        0.0
+    ],
+    "274": [
+        "KansasCity",
+        "WashingtonDC",
+        0.0
+    ],
+    "275": [
+        "Denver",
+        "Seattle",
+        0.0
+    ],
+    "276": [
+        "Denver",
+        "LosAngeles",
+        0.0
+    ],
+    "277": [
+        "Denver",
+        "SanFrancisco",
+        0.0
+    ],
+    "278": [
+        "Denver",
+        "LasVegas",
+        0.0
+    ],
+    "279": [
+        "Denver",
+        "SaltLakeCity",
+        0.0
+    ],
+    "280": [
+        "Denver",
+        "ElPaso",
+        0.0
+    ],
+    "281": [
+        "Denver",
+        "Dallas",
+        0.0
+    ],
+    "282": [
+        "Denver",
+        "Houston",
+        0.0
+    ],
+    "283": [
+        "Denver",
+        "Tulsa",
+        0.0
+    ],
+    "284": [
+        "Denver",
+        "Minneapolis",
+        0.0
+    ],
+    "285": [
+        "Denver",
+        "KansasCity",
+        0.0
+    ],
+    "286": [
+        "Denver",
+        "Chicago",
+        0.0
+    ],
+    "287": [
+        "Denver",
+        "Indianapolis",
+        0.0
+    ],
+    "288": [
+        "Denver",
+        "Detroit",
+        0.0
+    ],
+    "289": [
+        "Denver",
+        "StLouis",
+        0.0
+    ],
+    "290": [
+        "Denver",
+        "Nashville",
+        0.0
+    ],
+    "291": [
+        "Denver",
+        "Cleveland",
+        0.0
+    ],
+    "292": [
+        "Denver",
+        "NewYork",
+        0.0
+    ],
+    "293": [
+        "Denver",
+        "Albany",
+        0.0
+    ],
+    "294": [
+        "Denver",
+        "Charlotte",
+        0.0
+    ],
+    "295": [
+        "Denver",
+        "NewOrleans",
+        0.0
+    ],
+    "296": [
+        "Denver",
+        "Boston",
+        0.0
+    ],
+    "297": [
+        "Denver",
+        "Atlanta",
+        0.0
+    ],
+    "298": [
+        "Denver",
+        "Miami",
+        0.0
+    ],
+    "299": [
+        "Denver",
+        "WashingtonDC",
+        0.0
+    ],
+    "300": [
+        "Chicago",
+        "Seattle",
+        0.0
+    ],
+    "301": [
+        "Chicago",
+        "LosAngeles",
+        0.0
+    ],
+    "302": [
+        "Chicago",
+        "SanFrancisco",
+        0.0
+    ],
+    "303": [
+        "Chicago",
+        "LasVegas",
+        0.0
+    ],
+    "304": [
+        "Chicago",
+        "SaltLakeCity",
+        0.0
+    ],
+    "305": [
+        "Chicago",
+        "ElPaso",
+        0.0
+    ],
+    "306": [
+        "Chicago",
+        "Dallas",
+        0.0
+    ],
+    "307": [
+        "Chicago",
+        "Houston",
+        0.0
+    ],
+    "308": [
+        "Chicago",
+        "Tulsa",
+        0.0
+    ],
+    "309": [
+        "Chicago",
+        "Minneapolis",
+        0.0
+    ],
+    "310": [
+        "Chicago",
+        "KansasCity",
+        0.0
+    ],
+    "311": [
+        "Chicago",
+        "Denver",
+        0.0
+    ],
+    "312": [
+        "Chicago",
+        "Indianapolis",
+        0.0
+    ],
+    "313": [
+        "Chicago",
+        "Detroit",
+        0.0
+    ],
+    "314": [
+        "Chicago",
+        "StLouis",
+        0.0
+    ],
+    "315": [
+        "Chicago",
+        "Nashville",
+        0.0
+    ],
+    "316": [
+        "Chicago",
+        "Cleveland",
+        0.0
+    ],
+    "317": [
+        "Chicago",
+        "NewYork",
+        0.0
+    ],
+    "318": [
+        "Chicago",
+        "Albany",
+        0.0
+    ],
+    "319": [
+        "Chicago",
+        "Charlotte",
+        0.0
+    ],
+    "320": [
+        "Chicago",
+        "NewOrleans",
+        0.0
+    ],
+    "321": [
+        "Chicago",
+        "Boston",
+        0.0
+    ],
+    "322": [
+        "Chicago",
+        "Atlanta",
+        0.0
+    ],
+    "323": [
+        "Chicago",
+        "Miami",
+        0.0
+    ],
+    "324": [
+        "Chicago",
+        "WashingtonDC",
+        0.0
+    ],
+    "325": [
+        "Indianapolis",
+        "Seattle",
+        0.0
+    ],
+    "326": [
+        "Indianapolis",
+        "LosAngeles",
+        0.0
+    ],
+    "327": [
+        "Indianapolis",
+        "SanFrancisco",
+        0.0
+    ],
+    "328": [
+        "Indianapolis",
+        "LasVegas",
+        0.0
+    ],
+    "329": [
+        "Indianapolis",
+        "SaltLakeCity",
+        0.0
+    ],
+    "330": [
+        "Indianapolis",
+        "ElPaso",
+        0.0
+    ],
+    "331": [
+        "Indianapolis",
+        "Dallas",
+        0.0
+    ],
+    "332": [
+        "Indianapolis",
+        "Houston",
+        0.0
+    ],
+    "333": [
+        "Indianapolis",
+        "Tulsa",
+        0.0
+    ],
+    "334": [
+        "Indianapolis",
+        "Minneapolis",
+        0.0
+    ],
+    "335": [
+        "Indianapolis",
+        "KansasCity",
+        0.0
+    ],
+    "336": [
+        "Indianapolis",
+        "Denver",
+        0.0
+    ],
+    "337": [
+        "Indianapolis",
+        "Chicago",
+        0.0
+    ],
+    "338": [
+        "Indianapolis",
+        "Detroit",
+        0.0
+    ],
+    "339": [
+        "Indianapolis",
+        "StLouis",
+        0.0
+    ],
+    "340": [
+        "Indianapolis",
+        "Nashville",
+        0.0
+    ],
+    "341": [
+        "Indianapolis",
+        "Cleveland",
+        0.0
+    ],
+    "342": [
+        "Indianapolis",
+        "NewYork",
+        0.0
+    ],
+    "343": [
+        "Indianapolis",
+        "Albany",
+        0.0
+    ],
+    "344": [
+        "Indianapolis",
+        "Charlotte",
+        0.0
+    ],
+    "345": [
+        "Indianapolis",
+        "NewOrleans",
+        0.0
+    ],
+    "346": [
+        "Indianapolis",
+        "Boston",
+        0.0
+    ],
+    "347": [
+        "Indianapolis",
+        "Atlanta",
+        0.0
+    ],
+    "348": [
+        "Indianapolis",
+        "Miami",
+        0.0
+    ],
+    "349": [
+        "Indianapolis",
+        "WashingtonDC",
+        0.0
+    ],
+    "350": [
+        "Detroit",
+        "Seattle",
+        0.0
+    ],
+    "351": [
+        "Detroit",
+        "LosAngeles",
+        0.0
+    ],
+    "352": [
+        "Detroit",
+        "SanFrancisco",
+        0.0
+    ],
+    "353": [
+        "Detroit",
+        "LasVegas",
+        0.0
+    ],
+    "354": [
+        "Detroit",
+        "SaltLakeCity",
+        0.0
+    ],
+    "355": [
+        "Detroit",
+        "ElPaso",
+        0.0
+    ],
+    "356": [
+        "Detroit",
+        "Dallas",
+        0.0
+    ],
+    "357": [
+        "Detroit",
+        "Houston",
+        0.0
+    ],
+    "358": [
+        "Detroit",
+        "Tulsa",
+        0.0
+    ],
+    "359": [
+        "Detroit",
+        "Minneapolis",
+        0.0
+    ],
+    "360": [
+        "Detroit",
+        "KansasCity",
+        0.0
+    ],
+    "361": [
+        "Detroit",
+        "Denver",
+        0.0
+    ],
+    "362": [
+        "Detroit",
+        "Chicago",
+        0.0
+    ],
+    "363": [
+        "Detroit",
+        "Indianapolis",
+        0.0
+    ],
+    "364": [
+        "Detroit",
+        "StLouis",
+        0.0
+    ],
+    "365": [
+        "Detroit",
+        "Nashville",
+        0.0
+    ],
+    "366": [
+        "Detroit",
+        "Cleveland",
+        0.0
+    ],
+    "367": [
+        "Detroit",
+        "NewYork",
+        0.0
+    ],
+    "368": [
+        "Detroit",
+        "Albany",
+        0.0
+    ],
+    "369": [
+        "Detroit",
+        "Charlotte",
+        0.0
+    ],
+    "370": [
+        "Detroit",
+        "NewOrleans",
+        0.0
+    ],
+    "371": [
+        "Detroit",
+        "Boston",
+        0.0
+    ],
+    "372": [
+        "Detroit",
+        "Atlanta",
+        0.0
+    ],
+    "373": [
+        "Detroit",
+        "Miami",
+        0.0
+    ],
+    "374": [
+        "Detroit",
+        "WashingtonDC",
+        0.0
+    ],
+    "375": [
+        "StLouis",
+        "Seattle",
+        0.0
+    ],
+    "376": [
+        "StLouis",
+        "LosAngeles",
+        0.0
+    ],
+    "377": [
+        "StLouis",
+        "SanFrancisco",
+        0.0
+    ],
+    "378": [
+        "StLouis",
+        "LasVegas",
+        0.0
+    ],
+    "379": [
+        "StLouis",
+        "SaltLakeCity",
+        0.0
+    ],
+    "380": [
+        "StLouis",
+        "ElPaso",
+        0.0
+    ],
+    "381": [
+        "StLouis",
+        "Dallas",
+        0.0
+    ],
+    "382": [
+        "StLouis",
+        "Houston",
+        0.0
+    ],
+    "383": [
+        "StLouis",
+        "Tulsa",
+        0.0
+    ],
+    "384": [
+        "StLouis",
+        "Minneapolis",
+        0.0
+    ],
+    "385": [
+        "StLouis",
+        "KansasCity",
+        0.0
+    ],
+    "386": [
+        "StLouis",
+        "Denver",
+        0.0
+    ],
+    "387": [
+        "StLouis",
+        "Chicago",
+        0.0
+    ],
+    "388": [
+        "StLouis",
+        "Indianapolis",
+        0.0
+    ],
+    "389": [
+        "StLouis",
+        "Detroit",
+        0.0
+    ],
+    "390": [
+        "StLouis",
+        "Nashville",
+        0.0
+    ],
+    "391": [
+        "StLouis",
+        "Cleveland",
+        0.0
+    ],
+    "392": [
+        "StLouis",
+        "NewYork",
+        0.0
+    ],
+    "393": [
+        "StLouis",
+        "Albany",
+        0.0
+    ],
+    "394": [
+        "StLouis",
+        "Charlotte",
+        0.0
+    ],
+    "395": [
+        "StLouis",
+        "NewOrleans",
+        0.0
+    ],
+    "396": [
+        "StLouis",
+        "Boston",
+        0.0
+    ],
+    "397": [
+        "StLouis",
+        "Atlanta",
+        0.0
+    ],
+    "398": [
+        "StLouis",
+        "Miami",
+        0.0
+    ],
+    "399": [
+        "StLouis",
+        "WashingtonDC",
+        0.0
+    ],
+    "400": [
+        "Nashville",
+        "Seattle",
+        0.0
+    ],
+    "401": [
+        "Nashville",
+        "LosAngeles",
+        0.0
+    ],
+    "402": [
+        "Nashville",
+        "SanFrancisco",
+        0.0
+    ],
+    "403": [
+        "Nashville",
+        "LasVegas",
+        0.0
+    ],
+    "404": [
+        "Nashville",
+        "SaltLakeCity",
+        0.0
+    ],
+    "405": [
+        "Nashville",
+        "ElPaso",
+        0.0
+    ],
+    "406": [
+        "Nashville",
+        "Dallas",
+        0.0
+    ],
+    "407": [
+        "Nashville",
+        "Houston",
+        0.0
+    ],
+    "408": [
+        "Nashville",
+        "Tulsa",
+        0.0
+    ],
+    "409": [
+        "Nashville",
+        "Minneapolis",
+        0.0
+    ],
+    "410": [
+        "Nashville",
+        "KansasCity",
+        0.0
+    ],
+    "411": [
+        "Nashville",
+        "Denver",
+        0.0
+    ],
+    "412": [
+        "Nashville",
+        "Chicago",
+        0.0
+    ],
+    "413": [
+        "Nashville",
+        "Indianapolis",
+        0.0
+    ],
+    "414": [
+        "Nashville",
+        "Detroit",
+        0.0
+    ],
+    "415": [
+        "Nashville",
+        "StLouis",
+        0.0
+    ],
+    "416": [
+        "Nashville",
+        "Cleveland",
+        0.0
+    ],
+    "417": [
+        "Nashville",
+        "NewYork",
+        0.0
+    ],
+    "418": [
+        "Nashville",
+        "Albany",
+        0.0
+    ],
+    "419": [
+        "Nashville",
+        "Charlotte",
+        0.0
+    ],
+    "420": [
+        "Nashville",
+        "NewOrleans",
+        0.0
+    ],
+    "421": [
+        "Nashville",
+        "Boston",
+        0.0
+    ],
+    "422": [
+        "Nashville",
+        "Atlanta",
+        0.0
+    ],
+    "423": [
+        "Nashville",
+        "Miami",
+        0.0
+    ],
+    "424": [
+        "Nashville",
+        "WashingtonDC",
+        0.0
+    ],
+    "425": [
+        "Cleveland",
+        "Seattle",
+        0.0
+    ],
+    "426": [
+        "Cleveland",
+        "LosAngeles",
+        0.0
+    ],
+    "427": [
+        "Cleveland",
+        "SanFrancisco",
+        0.0
+    ],
+    "428": [
+        "Cleveland",
+        "LasVegas",
+        0.0
+    ],
+    "429": [
+        "Cleveland",
+        "SaltLakeCity",
+        0.0
+    ],
+    "430": [
+        "Cleveland",
+        "ElPaso",
+        0.0
+    ],
+    "431": [
+        "Cleveland",
+        "Dallas",
+        0.0
+    ],
+    "432": [
+        "Cleveland",
+        "Houston",
+        0.0
+    ],
+    "433": [
+        "Cleveland",
+        "Tulsa",
+        0.0
+    ],
+    "434": [
+        "Cleveland",
+        "Minneapolis",
+        0.0
+    ],
+    "435": [
+        "Cleveland",
+        "KansasCity",
+        0.0
+    ],
+    "436": [
+        "Cleveland",
+        "Denver",
+        0.0
+    ],
+    "437": [
+        "Cleveland",
+        "Chicago",
+        0.0
+    ],
+    "438": [
+        "Cleveland",
+        "Indianapolis",
+        0.0
+    ],
+    "439": [
+        "Cleveland",
+        "Detroit",
+        0.0
+    ],
+    "440": [
+        "Cleveland",
+        "StLouis",
+        0.0
+    ],
+    "441": [
+        "Cleveland",
+        "Nashville",
+        0.0
+    ],
+    "442": [
+        "Cleveland",
+        "NewYork",
+        0.0
+    ],
+    "443": [
+        "Cleveland",
+        "Albany",
+        0.0
+    ],
+    "444": [
+        "Cleveland",
+        "Charlotte",
+        0.0
+    ],
+    "445": [
+        "Cleveland",
+        "NewOrleans",
+        0.0
+    ],
+    "446": [
+        "Cleveland",
+        "Boston",
+        0.0
+    ],
+    "447": [
+        "Cleveland",
+        "Atlanta",
+        0.0
+    ],
+    "448": [
+        "Cleveland",
+        "Miami",
+        0.0
+    ],
+    "449": [
+        "Cleveland",
+        "WashingtonDC",
+        0.0
+    ],
+    "450": [
+        "NewYork",
+        "Seattle",
+        0.0
+    ],
+    "451": [
+        "NewYork",
+        "LosAngeles",
+        0.0
+    ],
+    "452": [
+        "NewYork",
+        "SanFrancisco",
+        0.0
+    ],
+    "453": [
+        "NewYork",
+        "LasVegas",
+        0.0
+    ],
+    "454": [
+        "NewYork",
+        "SaltLakeCity",
+        0.0
+    ],
+    "455": [
+        "NewYork",
+        "ElPaso",
+        0.0
+    ],
+    "456": [
+        "NewYork",
+        "Dallas",
+        0.0
+    ],
+    "457": [
+        "NewYork",
+        "Houston",
+        0.0
+    ],
+    "458": [
+        "NewYork",
+        "Tulsa",
+        0.0
+    ],
+    "459": [
+        "NewYork",
+        "Minneapolis",
+        0.0
+    ],
+    "460": [
+        "NewYork",
+        "KansasCity",
+        0.0
+    ],
+    "461": [
+        "NewYork",
+        "Denver",
+        0.0
+    ],
+    "462": [
+        "NewYork",
+        "Chicago",
+        0.0
+    ],
+    "463": [
+        "NewYork",
+        "Indianapolis",
+        0.0
+    ],
+    "464": [
+        "NewYork",
+        "Detroit",
+        0.0
+    ],
+    "465": [
+        "NewYork",
+        "StLouis",
+        0.0
+    ],
+    "466": [
+        "NewYork",
+        "Nashville",
+        0.0
+    ],
+    "467": [
+        "NewYork",
+        "Cleveland",
+        0.0
+    ],
+    "468": [
+        "NewYork",
+        "Albany",
+        0.0
+    ],
+    "469": [
+        "NewYork",
+        "Charlotte",
+        0.0
+    ],
+    "470": [
+        "NewYork",
+        "NewOrleans",
+        0.0
+    ],
+    "471": [
+        "NewYork",
+        "Boston",
+        0.0
+    ],
+    "472": [
+        "NewYork",
+        "Atlanta",
+        0.0
+    ],
+    "473": [
+        "NewYork",
+        "Miami",
+        0.0
+    ],
+    "474": [
+        "NewYork",
+        "WashingtonDC",
+        0.0
+    ],
+    "475": [
+        "Albany",
+        "Seattle",
+        0.0
+    ],
+    "476": [
+        "Albany",
+        "LosAngeles",
+        0.0
+    ],
+    "477": [
+        "Albany",
+        "SanFrancisco",
+        0.0
+    ],
+    "478": [
+        "Albany",
+        "LasVegas",
+        0.0
+    ],
+    "479": [
+        "Albany",
+        "SaltLakeCity",
+        0.0
+    ],
+    "480": [
+        "Albany",
+        "ElPaso",
+        0.0
+    ],
+    "481": [
+        "Albany",
+        "Dallas",
+        0.0
+    ],
+    "482": [
+        "Albany",
+        "Houston",
+        0.0
+    ],
+    "483": [
+        "Albany",
+        "Tulsa",
+        0.0
+    ],
+    "484": [
+        "Albany",
+        "Minneapolis",
+        0.0
+    ],
+    "485": [
+        "Albany",
+        "KansasCity",
+        0.0
+    ],
+    "486": [
+        "Albany",
+        "Denver",
+        0.0
+    ],
+    "487": [
+        "Albany",
+        "Chicago",
+        0.0
+    ],
+    "488": [
+        "Albany",
+        "Indianapolis",
+        0.0
+    ],
+    "489": [
+        "Albany",
+        "Detroit",
+        0.0
+    ],
+    "490": [
+        "Albany",
+        "StLouis",
+        0.0
+    ],
+    "491": [
+        "Albany",
+        "Nashville",
+        0.0
+    ],
+    "492": [
+        "Albany",
+        "Cleveland",
+        0.0
+    ],
+    "493": [
+        "Albany",
+        "NewYork",
+        0.0
+    ],
+    "494": [
+        "Albany",
+        "Charlotte",
+        0.0
+    ],
+    "495": [
+        "Albany",
+        "NewOrleans",
+        0.0
+    ],
+    "496": [
+        "Albany",
+        "Boston",
+        0.0
+    ],
+    "497": [
+        "Albany",
+        "Atlanta",
+        0.0
+    ],
+    "498": [
+        "Albany",
+        "Miami",
+        0.0
+    ],
+    "499": [
+        "Albany",
+        "WashingtonDC",
+        0.0
+    ],
+    "500": [
+        "Charlotte",
+        "Seattle",
+        0.0
+    ],
+    "501": [
+        "Charlotte",
+        "LosAngeles",
+        0.0
+    ],
+    "502": [
+        "Charlotte",
+        "SanFrancisco",
+        0.0
+    ],
+    "503": [
+        "Charlotte",
+        "LasVegas",
+        0.0
+    ],
+    "504": [
+        "Charlotte",
+        "SaltLakeCity",
+        0.0
+    ],
+    "505": [
+        "Charlotte",
+        "ElPaso",
+        0.0
+    ],
+    "506": [
+        "Charlotte",
+        "Dallas",
+        0.0
+    ],
+    "507": [
+        "Charlotte",
+        "Houston",
+        0.0
+    ],
+    "508": [
+        "Charlotte",
+        "Tulsa",
+        0.0
+    ],
+    "509": [
+        "Charlotte",
+        "Minneapolis",
+        0.0
+    ],
+    "510": [
+        "Charlotte",
+        "KansasCity",
+        0.0
+    ],
+    "511": [
+        "Charlotte",
+        "Denver",
+        0.0
+    ],
+    "512": [
+        "Charlotte",
+        "Chicago",
+        0.0
+    ],
+    "513": [
+        "Charlotte",
+        "Indianapolis",
+        0.0
+    ],
+    "514": [
+        "Charlotte",
+        "Detroit",
+        0.0
+    ],
+    "515": [
+        "Charlotte",
+        "StLouis",
+        0.0
+    ],
+    "516": [
+        "Charlotte",
+        "Nashville",
+        0.0
+    ],
+    "517": [
+        "Charlotte",
+        "Cleveland",
+        0.0
+    ],
+    "518": [
+        "Charlotte",
+        "NewYork",
+        0.0
+    ],
+    "519": [
+        "Charlotte",
+        "Albany",
+        0.0
+    ],
+    "520": [
+        "Charlotte",
+        "NewOrleans",
+        0.0
+    ],
+    "521": [
+        "Charlotte",
+        "Boston",
+        0.0
+    ],
+    "522": [
+        "Charlotte",
+        "Atlanta",
+        0.0
+    ],
+    "523": [
+        "Charlotte",
+        "Miami",
+        0.0
+    ],
+    "524": [
+        "Charlotte",
+        "WashingtonDC",
+        0.0
+    ],
+    "525": [
+        "NewOrleans",
+        "Seattle",
+        0.0
+    ],
+    "526": [
+        "NewOrleans",
+        "LosAngeles",
+        0.0
+    ],
+    "527": [
+        "NewOrleans",
+        "SanFrancisco",
+        0.0
+    ],
+    "528": [
+        "NewOrleans",
+        "LasVegas",
+        0.0
+    ],
+    "529": [
+        "NewOrleans",
+        "SaltLakeCity",
+        0.0
+    ],
+    "530": [
+        "NewOrleans",
+        "ElPaso",
+        0.0
+    ],
+    "531": [
+        "NewOrleans",
+        "Dallas",
+        0.0
+    ],
+    "532": [
+        "NewOrleans",
+        "Houston",
+        0.0
+    ],
+    "533": [
+        "NewOrleans",
+        "Tulsa",
+        0.0
+    ],
+    "534": [
+        "NewOrleans",
+        "Minneapolis",
+        0.0
+    ],
+    "535": [
+        "NewOrleans",
+        "KansasCity",
+        0.0
+    ],
+    "536": [
+        "NewOrleans",
+        "Denver",
+        0.0
+    ],
+    "537": [
+        "NewOrleans",
+        "Chicago",
+        0.0
+    ],
+    "538": [
+        "NewOrleans",
+        "Indianapolis",
+        0.0
+    ],
+    "539": [
+        "NewOrleans",
+        "Detroit",
+        0.0
+    ],
+    "540": [
+        "NewOrleans",
+        "StLouis",
+        0.0
+    ],
+    "541": [
+        "NewOrleans",
+        "Nashville",
+        0.0
+    ],
+    "542": [
+        "NewOrleans",
+        "Cleveland",
+        0.0
+    ],
+    "543": [
+        "NewOrleans",
+        "NewYork",
+        0.0
+    ],
+    "544": [
+        "NewOrleans",
+        "Albany",
+        0.0
+    ],
+    "545": [
+        "NewOrleans",
+        "Charlotte",
+        0.0
+    ],
+    "546": [
+        "NewOrleans",
+        "Boston",
+        0.0
+    ],
+    "547": [
+        "NewOrleans",
+        "Atlanta",
+        0.0
+    ],
+    "548": [
+        "NewOrleans",
+        "Miami",
+        0.0
+    ],
+    "549": [
+        "NewOrleans",
+        "WashingtonDC",
+        0.0
+    ],
+    "550": [
+        "Boston",
+        "Seattle",
+        0.0
+    ],
+    "551": [
+        "Boston",
+        "LosAngeles",
+        0.0
+    ],
+    "552": [
+        "Boston",
+        "SanFrancisco",
+        0.0
+    ],
+    "553": [
+        "Boston",
+        "LasVegas",
+        0.0
+    ],
+    "554": [
+        "Boston",
+        "SaltLakeCity",
+        0.0
+    ],
+    "555": [
+        "Boston",
+        "ElPaso",
+        0.0
+    ],
+    "556": [
+        "Boston",
+        "Dallas",
+        0.0
+    ],
+    "557": [
+        "Boston",
+        "Houston",
+        0.0
+    ],
+    "558": [
+        "Boston",
+        "Tulsa",
+        0.0
+    ],
+    "559": [
+        "Boston",
+        "Minneapolis",
+        0.0
+    ],
+    "560": [
+        "Boston",
+        "KansasCity",
+        0.0
+    ],
+    "561": [
+        "Boston",
+        "Denver",
+        0.0
+    ],
+    "562": [
+        "Boston",
+        "Chicago",
+        0.0
+    ],
+    "563": [
+        "Boston",
+        "Indianapolis",
+        0.0
+    ],
+    "564": [
+        "Boston",
+        "Detroit",
+        0.0
+    ],
+    "565": [
+        "Boston",
+        "StLouis",
+        0.0
+    ],
+    "566": [
+        "Boston",
+        "Nashville",
+        0.0
+    ],
+    "567": [
+        "Boston",
+        "Cleveland",
+        0.0
+    ],
+    "568": [
+        "Boston",
+        "NewYork",
+        0.0
+    ],
+    "569": [
+        "Boston",
+        "Albany",
+        0.0
+    ],
+    "570": [
+        "Boston",
+        "Charlotte",
+        0.0
+    ],
+    "571": [
+        "Boston",
+        "NewOrleans",
+        0.0
+    ],
+    "572": [
+        "Boston",
+        "Atlanta",
+        0.0
+    ],
+    "573": [
+        "Boston",
+        "Miami",
+        0.0
+    ],
+    "574": [
+        "Boston",
+        "WashingtonDC",
+        0.0
+    ],
+    "575": [
+        "Atlanta",
+        "Seattle",
+        0.0
+    ],
+    "576": [
+        "Atlanta",
+        "LosAngeles",
+        0.0
+    ],
+    "577": [
+        "Atlanta",
+        "SanFrancisco",
+        0.0
+    ],
+    "578": [
+        "Atlanta",
+        "LasVegas",
+        0.0
+    ],
+    "579": [
+        "Atlanta",
+        "SaltLakeCity",
+        0.0
+    ],
+    "580": [
+        "Atlanta",
+        "ElPaso",
+        0.0
+    ],
+    "581": [
+        "Atlanta",
+        "Dallas",
+        0.0
+    ],
+    "582": [
+        "Atlanta",
+        "Houston",
+        0.0
+    ],
+    "583": [
+        "Atlanta",
+        "Tulsa",
+        0.0
+    ],
+    "584": [
+        "Atlanta",
+        "Minneapolis",
+        0.0
+    ],
+    "585": [
+        "Atlanta",
+        "KansasCity",
+        0.0
+    ],
+    "586": [
+        "Atlanta",
+        "Denver",
+        0.0
+    ],
+    "587": [
+        "Atlanta",
+        "Chicago",
+        0.0
+    ],
+    "588": [
+        "Atlanta",
+        "Indianapolis",
+        0.0
+    ],
+    "589": [
+        "Atlanta",
+        "Detroit",
+        0.0
+    ],
+    "590": [
+        "Atlanta",
+        "StLouis",
+        0.0
+    ],
+    "591": [
+        "Atlanta",
+        "Nashville",
+        0.0
+    ],
+    "592": [
+        "Atlanta",
+        "Cleveland",
+        0.0
+    ],
+    "593": [
+        "Atlanta",
+        "NewYork",
+        0.0
+    ],
+    "594": [
+        "Atlanta",
+        "Albany",
+        0.0
+    ],
+    "595": [
+        "Atlanta",
+        "Charlotte",
+        0.0
+    ],
+    "596": [
+        "Atlanta",
+        "NewOrleans",
+        0.0
+    ],
+    "597": [
+        "Atlanta",
+        "Boston",
+        0.0
+    ],
+    "598": [
+        "Atlanta",
+        "Miami",
+        0.0
+    ],
+    "599": [
+        "Atlanta",
+        "WashingtonDC",
+        0.0
+    ],
+    "600": [
+        "Miami",
+        "Seattle",
+        0.0
+    ],
+    "601": [
+        "Miami",
+        "LosAngeles",
+        0.0
+    ],
+    "602": [
+        "Miami",
+        "SanFrancisco",
+        0.0
+    ],
+    "603": [
+        "Miami",
+        "LasVegas",
+        0.0
+    ],
+    "604": [
+        "Miami",
+        "SaltLakeCity",
+        0.0
+    ],
+    "605": [
+        "Miami",
+        "ElPaso",
+        0.0
+    ],
+    "606": [
+        "Miami",
+        "Dallas",
+        0.0
+    ],
+    "607": [
+        "Miami",
+        "Houston",
+        0.0
+    ],
+    "608": [
+        "Miami",
+        "Tulsa",
+        0.0
+    ],
+    "609": [
+        "Miami",
+        "Minneapolis",
+        0.0
+    ],
+    "610": [
+        "Miami",
+        "KansasCity",
+        0.0
+    ],
+    "611": [
+        "Miami",
+        "Denver",
+        0.0
+    ],
+    "612": [
+        "Miami",
+        "Chicago",
+        0.0
+    ],
+    "613": [
+        "Miami",
+        "Indianapolis",
+        0.0
+    ],
+    "614": [
+        "Miami",
+        "Detroit",
+        0.0
+    ],
+    "615": [
+        "Miami",
+        "StLouis",
+        0.0
+    ],
+    "616": [
+        "Miami",
+        "Nashville",
+        0.0
+    ],
+    "617": [
+        "Miami",
+        "Cleveland",
+        0.0
+    ],
+    "618": [
+        "Miami",
+        "NewYork",
+        0.0
+    ],
+    "619": [
+        "Miami",
+        "Albany",
+        0.0
+    ],
+    "620": [
+        "Miami",
+        "Charlotte",
+        0.0
+    ],
+    "621": [
+        "Miami",
+        "NewOrleans",
+        0.0
+    ],
+    "622": [
+        "Miami",
+        "Boston",
+        0.0
+    ],
+    "623": [
+        "Miami",
+        "Atlanta",
+        0.0
+    ],
+    "624": [
+        "Miami",
+        "WashingtonDC",
+        0.0
+    ],
+    "625": [
+        "WashingtonDC",
+        "Seattle",
+        0.0
+    ],
+    "626": [
+        "WashingtonDC",
+        "LosAngeles",
+        0.0
+    ],
+    "627": [
+        "WashingtonDC",
+        "SanFrancisco",
+        0.0
+    ],
+    "628": [
+        "WashingtonDC",
+        "LasVegas",
+        0.0
+    ],
+    "629": [
+        "WashingtonDC",
+        "SaltLakeCity",
+        0.0
+    ],
+    "630": [
+        "WashingtonDC",
+        "ElPaso",
+        0.0
+    ],
+    "631": [
+        "WashingtonDC",
+        "Dallas",
+        0.0
+    ],
+    "632": [
+        "WashingtonDC",
+        "Houston",
+        0.0
+    ],
+    "633": [
+        "WashingtonDC",
+        "Tulsa",
+        0.0
+    ],
+    "634": [
+        "WashingtonDC",
+        "Minneapolis",
+        0.0
+    ],
+    "635": [
+        "WashingtonDC",
+        "KansasCity",
+        0.0
+    ],
+    "636": [
+        "WashingtonDC",
+        "Denver",
+        0.0
+    ],
+    "637": [
+        "WashingtonDC",
+        "Chicago",
+        0.0
+    ],
+    "638": [
+        "WashingtonDC",
+        "Indianapolis",
+        0.0
+    ],
+    "639": [
+        "WashingtonDC",
+        "Detroit",
+        0.0
+    ],
+    "640": [
+        "WashingtonDC",
+        "StLouis",
+        0.0
+    ],
+    "641": [
+        "WashingtonDC",
+        "Nashville",
+        0.0
+    ],
+    "642": [
+        "WashingtonDC",
+        "Cleveland",
+        0.0
+    ],
+    "643": [
+        "WashingtonDC",
+        "NewYork",
+        0.0
+    ],
+    "644": [
+        "WashingtonDC",
+        "Albany",
+        0.0
+    ],
+    "645": [
+        "WashingtonDC",
+        "Charlotte",
+        0.0
+    ],
+    "646": [
+        "WashingtonDC",
+        "NewOrleans",
+        0.0
+    ],
+    "647": [
+        "WashingtonDC",
+        "Boston",
+        0.0
+    ],
+    "648": [
+        "WashingtonDC",
+        "Atlanta",
+        0.0
+    ],
+    "649": [
+        "WashingtonDC",
+        "Miami",
+        0.0
+    ]
+}
