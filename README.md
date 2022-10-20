@@ -22,9 +22,10 @@ These files can be downloaded and used as a reference for various path calculati
 Currently, we have the following networks available
 - Germany 50
 - Norway
-- Germany 17
+- Germany 17 (Nobel-Germany)
 - Nobel-EU
 - US Abilene
+- US Janos (USNET)
 - Spain
 - Sweden
 
