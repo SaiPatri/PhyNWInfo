@@ -1,4 +1,5 @@
 # PhyNWInfo
+## [UPDATE: For JOCN 2023 submission metadata and plots, please refer to "UpgradeStrategies2023" folder]
 ## [UPDATE: For ONDM 2023 submission metadata, please refer to "OFC2023" folder]
 
 ## A Physical Network Information resource for reference networks
@@ -108,10 +109,13 @@ As an example, the Nobel-EU span distribution is seen as follows:
 Traffic growth occurs non-homogeneously, according to a novel traffic model. Once published in an academic publication, this will be included in the repository. The graphs from our previous publications are available in the folder Traffic Model. The traffic growth depends on the node-importance metric. Here shown is an example of the node size according to their importance in the Nobel-Germany network.
 ![Nobel-Germany Node Importance](https://github.com/SaiPatri/PhyNWInfo/blob/master/germany_node_traffics.PNG)
 
+## Upgrade Strategies
+We propose an ILP and RL based solution for planning multi-band and multi-fiber upgrades in the network. The results in terms of upgrade strategies, CAPEX needed, as well as throughput for three topologies, namely Nobel-Germany, Sweden, and Nobel-EU are stored in the UpgradeStrategies2023 folder. Further details will be updated at a later stage.
+
 
 ## More questions?
 
-In case of questions on how to use this dataset, or opportunities for extension/collaboration please contact Sai Kireet Patri (SPatri@adva.com).
+In case of questions on how to use this dataset, or opportunities for extension/collaboration please contact Sai Kireet Patri (sai.patri@adtran.com).
 
 ## How to Cite:
 @misc{phynwinfo,
